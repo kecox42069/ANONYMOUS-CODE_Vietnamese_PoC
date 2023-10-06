@@ -1,0 +1,15 @@
+{
+  "PsbVersion": 3,
+  "PsbType": "PSB",
+  "Platform": "none",
+  "CryptKey": null,
+  "ExternalTextures": false,
+  "Context": {
+    "MdfKeyLength": 131,
+    "FileName": "movie_size.psb.m",
+    "MdfKey": "5fWhAHt4zVn2Xmovie_size.psb.m",
+    "PsbZlibFastCompress": false,
+    "PsbShellType": "MDF"
+  },
+  "Resources": {}
+}

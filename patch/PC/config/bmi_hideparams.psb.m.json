@@ -1,0 +1,171 @@
+{
+  "params": [{
+      "avalue": 1,
+      "bvalue": 0,
+      "name": "acbg_0000x.mtn",
+      "type": "motion",
+      "varname": "ar_off"
+    },{
+      "avalue": 1,
+      "bvalue": 0,
+      "name": "acbg_0020a.mtn",
+      "type": "motion",
+      "varname": "ar_off"
+    },{
+      "avalue": 1,
+      "bvalue": 0,
+      "name": "acbg_0150n.mtn",
+      "type": "motion",
+      "varname": "ar_off"
+    },{
+      "avalue": 1,
+      "bvalue": 0,
+      "name": "acbg_0190e.mtn",
+      "type": "motion",
+      "varname": "ar_off"
+    },{
+      "avalue": 1,
+      "bvalue": 0,
+      "name": "acbg_0210n.mtn",
+      "type": "motion",
+      "varname": "ar_off"
+    },{
+      "avalue": 1,
+      "bvalue": 0,
+      "name": "acbg_2030x.mtn",
+      "type": "motion",
+      "varname": "ar_off"
+    },{
+      "avalue": 1,
+      "bvalue": 0,
+      "name": "acbg_7080a.mtn",
+      "type": "motion",
+      "varname": "ar_off"
+    },{
+      "avalue": 1,
+      "bvalue": 0,
+      "name": "acbg_7080x.mtn",
+      "type": "motion",
+      "varname": "ar_off"
+    },{
+      "avalue": 1,
+      "bvalue": 0,
+      "name": "acbg_9001a.mtn",
+      "type": "motion",
+      "varname": "ar_off"
+    },{
+      "avalue": 1,
+      "bvalue": 0,
+      "name": "aci_033b.mtn",
+      "type": "motion",
+      "varname": "ar_off"
+    },{
+      "avalue": 1,
+      "bvalue": 0,
+      "name": "ace_007.mtn",
+      "type": "motion",
+      "varname": "ar_off"
+    },{
+      "avalue": 1,
+      "bvalue": 0,
+      "name": "ace_008.mtn",
+      "type": "motion",
+      "varname": "ar_disable"
+    },{
+      "avalue": 1,
+      "bvalue": 0,
+      "name": "ace_010.mtn",
+      "type": "motion",
+      "varname": "ar_disable"
+    },{
+      "avalue": 1,
+      "bvalue": 0,
+      "name": "ace_013.mtn",
+      "type": "motion",
+      "varname": "ar_disable"
+    },{
+      "avalue": 1,
+      "bvalue": 0,
+      "name": "ace_017.mtn",
+      "type": "motion",
+      "varname": "ar_disable"
+    },{
+      "avalue": 1,
+      "bvalue": 0,
+      "name": "ace_021.mtn",
+      "type": "motion",
+      "varname": "ar_disable"
+    },{
+      "avalue": 1,
+      "bvalue": 0,
+      "name": "ace_025.mtn",
+      "type": "motion",
+      "varname": "ar_disable"
+    },{
+      "avalue": 1,
+      "bvalue": 0,
+      "name": "ace_027.mtn",
+      "type": "motion",
+      "varname": "ar_disable"
+    },{
+      "avalue": 1,
+      "bvalue": 0,
+      "name": "ace_028.mtn",
+      "type": "motion",
+      "varname": "ar_disable"
+    },{
+      "avalue": 1,
+      "bvalue": 0,
+      "name": "ace_030.mtn",
+      "type": "motion",
+      "varname": "ar_disable"
+    },{
+      "avalue": 1,
+      "bvalue": 0,
+      "name": "ace_035.mtn",
+      "type": "motion",
+      "varname": "ar_disable"
+    },{
+      "avalue": 2,
+      "bvalue": 0,
+      "name": "ace_042.mtn",
+      "type": "motion",
+      "varname": "progress"
+    },{
+      "avalue": 1,
+      "bvalue": 0,
+      "name": "ace_059.mtn",
+      "type": "motion",
+      "varname": "ar_disable"
+    },{
+      "avalue": 1,
+      "bvalue": 0,
+      "name": "ace_104.mtn",
+      "type": "motion",
+      "varname": "ar_disable"
+    },{
+      "avalue": 1,
+      "bvalue": 0,
+      "name": "ch02_cl01_p01.psb",
+      "type": "emote",
+      "varname": "fade_z"
+    },{
+      "avalue": 1,
+      "bvalue": 0,
+      "name": "ch02_cl03_p01.psb",
+      "type": "emote",
+      "varname": "fade_z"
+    },{
+      "avalue": 1,
+      "bvalue": 0,
+      "name": "aci_024a.mtn",
+      "type": "motion",
+      "varname": "ar_disable"
+    },{
+      "avalue": 1,
+      "bvalue": 0,
+      "name": "aci_bg0150n.mtn",
+      "type": "motion",
+      "varname": "ar_disable"
+    }]
+}

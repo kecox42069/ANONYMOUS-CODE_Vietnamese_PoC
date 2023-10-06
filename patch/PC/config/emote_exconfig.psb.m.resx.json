@@ -1,0 +1,15 @@
+{
+  "PsbVersion": 3,
+  "PsbType": "PSB",
+  "Platform": "none",
+  "CryptKey": null,
+  "ExternalTextures": false,
+  "Context": {
+    "MdfKeyLength": 131,
+    "FileName": "emote_exconfig.psb.m",
+    "MdfKey": "5fWhAHt4zVn2Xemote_exconfig.psb.m",
+    "PsbZlibFastCompress": false,
+    "PsbShellType": "MDF"
+  },
+  "Resources": {}
+}
