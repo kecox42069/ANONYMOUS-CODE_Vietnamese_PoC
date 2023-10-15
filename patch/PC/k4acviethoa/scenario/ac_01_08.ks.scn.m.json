@@ -1,0 +1,2479 @@
+{
+  "hash": "97412107837b93e1cf89111655fc8d19",
+  "name": "ac_01_08.ks",
+  "outlines": [],
+  "scenes": [{
+      "firstLine": 0,
+      "label": "*start",
+      "lines": [[1,{
+            "data": [],
+            "env": {
+              "action": [null,null],
+              "name": "env"
+            },
+            "msgwin": 0
+          },null,1,1],["envupdate","update",[["init",0],["new","bgm","bgm"],{
+              "action": [null],
+              "name": "env"
+            }],"wait",{
+            "list": [{
+                "mode": 0,
+                "name": "env"
+              }]
+          }],[2,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 0
+          },null,null,1],["startline"],["meswinload","page","both"],[3,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand"
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 0
+          },null,null,1],["envupdate","pretrans",[["new","retina_frame","retina_ui"]],"update",[{
+              "action": [["leveloffset",""],["originz",-400],null],
+              "class": "retina_ui",
+              "link": "",
+              "name": "retina_frame",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "ac_envretinaui.mtn",
+                  "options": {
+                    "chara": "bmi",
+                    "motion": "stand"
+                  }
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "trans": {
+                "method": "crossfade",
+                "sync": 1,
+                "time": 1000
+              },
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "retina_frame"
+              }]
+          },"trans",{
+            "method": "crossfade",
+            "time": 1000
+          }],"cg_ac_envretinaui.mtn",[4,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand"
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 0
+          },null,null,1],["envupdate","update",[{
+              "action": [["$state",0]],
+              "name": "retina_frame",
+              "showmode": 3
+            }]],["calendar","mon","11","day","24","wday","火"],["msgwin","type","1"],["envupdate","update",[["new","lse","loopse"],{
+              "name": "lse",
+              "replay": {
+                "filename": "se_ac_02_9900",
+                "loop": 1,
+                "start": null,
+                "state": 1,
+                "volume": 100.0
+              },
+              "trans": {
+                "method": "",
+                "time": 0
+              }
+            }]],[5,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se_ac_02_9900",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 1
+          },null,null,36],["wait","time","2000"],[6,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se_ac_02_9900",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 1
+          },null,null,36],["startline"],["envupdate","update",[["new","efc","effect"],["new","ev","event"],["tag",{
+                "name": "ace_009a",
+                "runLineStr": "[filereaded name=\"ace_009a\"]",
+                "taglist": ["tagname","name"],
+                "tagname": "filereaded"
+              }],{
+              "action": [["leveloffset",""],["zpos",-44.444444444444443],null,["$param",3]],
+              "class": "effect",
+              "link": "",
+              "name": "efc",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "effect.mtn",
+                  "options": {
+                    "chara": "effect",
+                    "motion": "stand"
+                  }
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            },{
+              "action": [["leveloffset",""],["zpos",-23.07692307692308],null,["$progress",[{
+                      "accel": "-1",
+                      "handler": "MoveAction",
+                      "nowait": "true",
+                      "time": 100000,
+                      "value": 0
+                    }]],["$progress",[{
+                      "accel": "-1",
+                      "handler": "MoveAction",
+                      "nowait": "true",
+                      "time": 100000,
+                      "value": 0
+                    }]],["xpos",-300],["xpos",[{
+                      "accel": "-1",
+                      "handler": "MoveAction",
+                      "nowait": 1,
+                      "start": -300,
+                      "time": 100000,
+                      "value": 300
+                    }],1],["ypos",120],["ypos",[{
+                      "accel": "-1",
+                      "handler": "MoveAction",
+                      "nowait": 1,
+                      "start": 120,
+                      "time": 100000,
+                      "value": 120
+                    }],1],["zoomx",200],["zoomx",[{
+                      "accel": "-1",
+                      "handler": "MoveAction",
+                      "nowait": 1,
+                      "start": 200,
+                      "time": 100000,
+                      "value": 200
+                    }],1],["zoomy",200],["zoomy",[{
+                      "accel": "-1",
+                      "handler": "MoveAction",
+                      "nowait": 1,
+                      "start": 200,
+                      "time": 100000,
+                      "value": 200
+                    }],1]],
+              "class": "event",
+              "link": "",
+              "name": "ev",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "ace_009.mtn",
+                  "options": {
+                    "chara": "ace_009a",
+                    "motion": "stand"
+                  }
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            }],"trans",{
+            "method": "crossfade",
+            "time": "1000"
+          }],"cg_effect.mtn","cg_ace_009.mtn",["startline","vflag",0,"name","ユアン","text",1],["autosave"],[7,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["efc","effect",{
+                  "action": [["$param",3],["zpos",-44.444444444444443]],
+                  "class": "effect",
+                  "name": "efc",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "effect.mtn",
+                      "options": {
+                        "chara": "effect",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 50.0,
+                        "variables": {
+                          "param": 3.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-23.07692307692308],["$progress",0],["xpos",300],["zoomy",200],["ypos",120],["zoomx",200]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ace_009.mtn",
+                      "options": {
+                        "chara": "ace_009a",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "lip": 0.0,
+                          "progress": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se_ac_02_9900",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ユアン","character",{
+                  "class": "character",
+                  "link": "",
+                  "name": "ユアン",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 1
+          },1,null,53,216,null,null],["cvunlock","name","ユアン"],1,[8,1,2,null,58,200,null,null],["envupdate","update",[["new","ユアン","character"]]],["startline","vflag",0,"name","アスマ","text",1],["cvunlock","name","アスマ"],2,[9,2,null,null,58],["envupdate","update",[["new","アスマ","character"]]],["startline"],["msgoff"],["envupdate","update",[{
+              "name": "efc",
+              "showmode": 2
+            },{
+              "action": [["xpos",0],["ypos",0],null,["zoomx",100],["zoomy",100],["$progress",0]],
+              "class": "event",
+              "link": "",
+              "name": "ev",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "ace_009.mtn",
+                  "options": {
+                    "chara": "ace_009a",
+                    "motion": "stand"
+                  }
+                },
+                "posName": null
+              },
+              "showmode": 3,
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "crossfade",
+            "time": "1000"
+          }],["envupdate","update",[["del","efc"]]],"cg_ace_009.mtn",[10,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["ev","event",{
+                  "action": [["zpos",-23.07692307692308],["$progress",0]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ace_009.mtn",
+                      "options": {
+                        "chara": "ace_009a",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "lip": 0.0,
+                          "progress": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se_ac_02_9900",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["アスマ","character",{
+                  "class": "character",
+                  "link": "",
+                  "name": "アスマ",
+                  "showmode": 0,
+                  "type": null
+                }],["ユアン","character",{
+                  "class": "character",
+                  "link": "",
+                  "name": "ユアン",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 1
+          },3,null,77,192,null,null],["startline"],["envupdate","update",[["tag",{
+                "name": "ace_009b",
+                "runLineStr": "[filereaded name=\"ace_009b\"]",
+                "taglist": ["tagname","name"],
+                "tagname": "filereaded"
+              }],{
+              "name": "ev",
+              "showmode": 2
+            },{
+              "action": [["leveloffset",""],null,["$progress",1]],
+              "class": "character",
+              "link": "",
+              "name": "アスマ",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "ace_009.mtn",
+                  "options": {
+                    "chara": "ace_009a",
+                    "motion": "stand"
+                  }
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            }],"trans",{
+            "method": "crossfade",
+            "time": "500"
+          }],"cg_ace_009.mtn",["startline","vflag",0,"name","ユアン","text",1],["envupdate","update",[{
+              "name": "bgm",
+              "replay": {
+                "filename": "bgm06",
+                "loop": 1,
+                "start": null,
+                "state": 1,
+                "volume": 100.0
+              },
+              "trans": {
+                "method": "",
+                "time": 0
+              }
+            }]],"bgm_BGM06",3,[11,3,4,null,81,192,null,null],["envupdate","update",[["del","ev"]]],["startline","vflag",0,"name","アスマ","text",1],4,[12,4,5,null,85,192,null,null],["startline","vflag",0,"name","ユアン","text",1],5,[13,5,6,null,89,192,null,null],["startline","vflag",0,"name","ユアン","text",1],6,[14,6,7,null,93,192,null,null],["startline","vflag",0,"name","アスマ","text",1],7,[15,7,8,null,97,192,null,null],["startline","vflag",0,"name","アスマ","text",1],8,[16,8,9,null,101,192,null,null],["startline","vflag",0,"name","アスマ","text",1],9,[17,9,null,null,101],["startline"],["envupdate","update",[{
+              "name": "lse",
+              "replay": {
+                "filename": "se_ac_02_9900",
+                "loop": 1,
+                "start": null,
+                "state": 0,
+                "volume": 100.0
+              },
+              "trans": {
+                "method": "",
+                "time": 1000
+              }
+            }]],["envupdate","update",[["new","se","se"],{
+              "name": "se",
+              "replay": {
+                "filename": "se_ac_01_0700",
+                "start": null,
+                "time": 0,
+                "volume": 100.0
+              }
+            }]],["msgoff"],[18,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg_black"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm06",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se_ac_02_9900",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["se","se",{
+                  "name": "se"
+                }],["ユアン","character",{
+                  "class": "character",
+                  "link": "",
+                  "name": "ユアン",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 1
+          },null,null,106],["envupdate","update",[["new","bg","stage"],{
+              "action": [null,["zpos",233.33333333333337],null,["leveloffset",""]],
+              "class": "stage",
+              "link": "",
+              "name": "bg",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "bg_black"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            },{
+              "action": [null],
+              "class": "retina_ui",
+              "link": "",
+              "name": "retina_frame",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "ac_envretinaui.mtn"
+                },
+                "posName": null
+              },
+              "showmode": 3,
+              "type": null
+            },{
+              "name": "アスマ",
+              "showmode": 2
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "crossfade",
+            "time": "500"
+          }],["envupdate","update",[["del","アスマ"]]],[19,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg_black"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm06",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se_ac_02_9900",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["se","se",{
+                  "name": "se"
+                }],["ユアン","character",{
+                  "class": "character",
+                  "link": "",
+                  "name": "ユアン",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 1
+          },null,null,109],["startline"],["wait","time","1000"],[20,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg_black"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm06",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se_ac_02_9900",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["se","se",{
+                  "name": "se"
+                }],["ユアン","character",{
+                  "class": "character",
+                  "link": "",
+                  "name": "ユアン",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 1
+          },null,null,110],["startline"],["envupdate","update",[{
+              "action": [null,["leveloffset",""]],
+              "class": "stage",
+              "link": "",
+              "name": "bg",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "acb_1030a"
+                },
+                "posName": null
+              },
+              "showmode": 3,
+              "type": null
+            },{
+              "action": [null],
+              "class": "retina_ui",
+              "link": "",
+              "name": "retina_frame",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "ac_envretinaui.mtn"
+                },
+                "posName": null
+              },
+              "showmode": 3,
+              "type": null
+            },{
+              "action": [["camerazoom",200],["camerax",-200],["cameray",300]],
+              "name": "env"
+            }],"wait",{
+            "canskip": 0,
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }],
+            "wait": 500
+          },"trans",{
+            "method": "crossfade",
+            "time": "2000"
+          }],[21,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "acb_1030a"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm06",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se_ac_02_9900",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["se","se",{
+                  "name": "se"
+                }],["ユアン","character",{
+                  "class": "character",
+                  "link": "",
+                  "name": "ユアン",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "action": [["cameray",300],["camerazoom",200],["camerax",-200]],
+              "name": "env"
+            },
+            "msgwin": 1
+          },10,null,128,208,null,null],["startline"],["envupdate","update",[{
+              "action": [null,["leveloffset",""]],
+              "class": "stage",
+              "link": "",
+              "name": "bg",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "acb_1030x"
+                },
+                "posName": null
+              },
+              "showmode": 3,
+              "type": null
+            },{
+              "action": [null],
+              "class": "retina_ui",
+              "link": "",
+              "name": "retina_frame",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "ac_envretinaui.mtn"
+                },
+                "posName": null
+              },
+              "showmode": 3,
+              "type": null
+            }],"trans",{
+            "method": "crossfade",
+            "time": "2000"
+          }],["startline","vflag",0,"name","アスマ","text",1],["delayrun",1000,"envupdate","update",[{
+              "action": [["camerazoom",200],["camerazoom",[{
+                      "accel": "-1",
+                      "handler": "MoveAction",
+                      "nowait": 1,
+                      "start": 200,
+                      "time": 20000,
+                      "value": 250
+                    }],1],["camerax",-200],["camerax",[{
+                      "accel": "-1",
+                      "handler": "MoveAction",
+                      "nowait": 1,
+                      "start": -200,
+                      "time": 20000,
+                      "value": 100
+                    }],1],["cameray",300],["cameray",[{
+                      "accel": "-1",
+                      "handler": "MoveAction",
+                      "nowait": 1,
+                      "start": 300,
+                      "time": 20000,
+                      "value": 300
+                    }],1]],
+              "name": "env"
+            }]],10,[22,10,null,null,128],["startline"],[23,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "showmode": 0,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm06",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se_ac_02_9900",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["opacity",0],["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["se","se",{
+                  "name": "se"
+                }],["ユアン","character",{
+                  "action": [["leveloffset","#0,50,0,0,0,-170,0,50"]],
+                  "class": "character",
+                  "link": "",
+                  "name": "ユアン",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "action": [["cameray",300],["camerazoom",250],["camerax",100]],
+              "name": "env"
+            },
+            "msgwin": 1
+          },null,null,130],["clickskip","enabled","false"],["msgoff"],["envupdate","update",[{
+              "name": "bgm",
+              "replay": {
+                "filename": "bgm06",
+                "loop": 1,
+                "start": null,
+                "state": 0,
+                "volume": 100.0
+              },
+              "trans": {
+                "method": "",
+                "time": "3000"
+              }
+            }]],["envupdate","update",[{
+              "name": "se",
+              "stop": 3000
+            }]],[24,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "showmode": 0,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm06",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se_ac_02_9900",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["opacity",0],["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["se","se",{
+                  "name": "se"
+                }],["ユアン","character",{
+                  "action": [["leveloffset","#0,50,0,0,0,-170,0,50"]],
+                  "class": "character",
+                  "link": "",
+                  "name": "ユアン",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "action": [["cameray",300],["camerazoom",250],["camerax",100]],
+              "name": "env"
+            },
+            "msgwin": 1
+          },null,null,130],["envupdate","update",[{
+              "class": "stage",
+              "link": "",
+              "name": "bg",
+              "showmode": 2,
+              "type": null
+            },{
+              "action": [["opacity",0]],
+              "class": "retina_ui",
+              "link": "",
+              "name": "retina_frame",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "ac_envretinaui.mtn"
+                },
+                "posName": null
+              },
+              "showmode": 3,
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }],
+            "wait": 2000
+          },"trans",{
+            "method": "crossfade",
+            "time": 2000
+          }],[25,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "showmode": 0,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm06",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se_ac_02_9900",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["opacity",0],["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["se","se",{
+                  "name": "se"
+                }],["ユアン","character",{
+                  "action": [["leveloffset","#0,50,0,0,0,-170,0,50"]],
+                  "class": "character",
+                  "link": "",
+                  "name": "ユアン",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "action": [["cameray",300],["camerazoom",250],["camerax",100]],
+              "name": "env"
+            },
+            "msgwin": 1
+          },null,null,130],["startline"],["envupdate","wait",{
+            "list": [{
+                "mode": 0,
+                "name": "bgm"
+              }],
+            "wait": 1
+          }],[26,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "showmode": 0,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm06",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se_ac_02_9900",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["opacity",0],["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["se","se",{
+                  "name": "se"
+                }],["ユアン","character",{
+                  "action": [["leveloffset","#0,50,0,0,0,-170,0,50"]],
+                  "class": "character",
+                  "link": "",
+                  "name": "ユアン",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "action": [["cameray",300],["camerazoom",250],["camerax",100]],
+              "name": "env"
+            },
+            "msgwin": 1
+          },null,null,130],["startline","vflag",0,"name","","text",1],[27,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "showmode": 0,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm06",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se_ac_02_9900",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["opacity",0],["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["se","se",{
+                  "name": "se"
+                }],["ユアン","character",{
+                  "action": [["leveloffset","#0,50,0,0,0,-170,0,50"]],
+                  "class": "character",
+                  "link": "",
+                  "name": "ユアン",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "action": [["cameray",300],["camerazoom",250],["camerax",100]],
+              "name": "env"
+            },
+            "msgwin": 1
+          },null,null,130],["clickskip","enabled","true"],["er","all","true"],[28,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "showmode": 0,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm06",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se_ac_02_9900",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["opacity",0],["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["se","se",{
+                  "name": "se"
+                }],["ユアン","character",{
+                  "action": [["leveloffset","#0,50,0,0,0,-170,0,50"]],
+                  "class": "character",
+                  "link": "",
+                  "name": "ユアン",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "action": [["cameray",300],["camerazoom",250],["camerax",100]],
+              "name": "env"
+            },
+            "msgwin": 1
+          },null,1,133]],
+      "nexts": [{
+          "storage": "ac_01_09.ks",
+          "type": 0
+        }],
+      "spCount": 28,
+      "texts": [["ユアン",[[null,"Asuma.",6]],[{
+              "labels": [0,"vlstart",38,"vlstop"],
+              "name": "ユアン",
+              "pan": 0,
+              "time": 648,
+              "time_en": 526,
+              "type": 0,
+              "voice": "ac_01_08_ewn0000",
+              "vols": [0.0289613723729658,0.192620670482006,0.612612423395959,0.612612423395959,2.02454503543592,2.8764677515435,3.67074805592167,4.2976189669873,4.67708265221097,4.83230198015754,4.7908452870506,4.58971151696293,4.25470668446853,3.79614317495878,3.366058788103,3.05740079368181,2.83486407495077,2.75974537266991,2.76095670130936,2.84199299765303,2.92921996829053,3.02257370584832,3.06582642531198,3.03018456346008,2.92174665095902,2.6965587961714,2.36221626255954,1.97453090052466,1.54258660008412,1.10348161560152,0.696781715838288,0.329371280792594,0.0295617640969296,-0.203390073140767,-0.356126218768997,-0.427739397301475,-0.429765017492872,-0.376235088791262,-0.285862328890804],
+              "vols_en": [0,0,2.61889808626929,3.3607201982442,3.84809802702087,3.87189579898561,3.77623087127458,3.5559264234642,3.35253172456088,3.45192309703321,3.54579457067116,3.69008521720959,3.79091524743549,3.58030140500582,3.31444350377822,3.19141873103811,3.13661029003237,3.17353599937307,3.35997665762811,3.34686827180847,3.28543823270469,3.2203078213028,3.02973185491278,2.92467008360575,2.79789051239364,2.55565787448825,2.23512404928918,1.82274505923473,1.44390574482277,1.18656387632164,0.808449659960895,0]
+            }],216,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["efc","effect",{
+                  "action": [["$param",3],["zpos",-44.444444444444443]],
+                  "class": "effect",
+                  "name": "efc",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "effect.mtn",
+                      "options": {
+                        "chara": "effect",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 50.0,
+                        "variables": {
+                          "param": 3.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-23.07692307692308],["$progress",0],["xpos",300],["zoomy",200],["ypos",120],["zoomx",200]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ace_009.mtn",
+                      "options": {
+                        "chara": "ace_009a",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "lip": 0.0,
+                          "progress": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se_ac_02_9900",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ユアン","character",{
+                  "class": "character",
+                  "link": "",
+                  "name": "ユアン",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 1
+          }],["アスマ",[[null,"...",3]],[{
+              "labels": [0,"vlstart",44,"vlstop"],
+              "name": "アスマ",
+              "pan": 0,
+              "time": 747,
+              "time_en": 989,
+              "type": 0,
+              "voice": "ac_01_08_asu0000",
+              "vols": [0.0,0.0189204530661269,0.0798051340823158,0.199933679274659,0.403283617211932,0.715148247001633,0.715148247001633,0.715148247001633,2.01330048092594,2.43936706761642,2.80009213598853,3.09757436611505,3.31424154466451,3.45611472148962,3.51415957504686,3.49412007024173,3.40056796271153,3.22302660807894,3.00247812519017,2.73913108135419,2.49190637020175,2.27300017135851,2.07416783209581,1.885955161554,1.71428229222509,1.55563216305699,1.41061290772189,1.25831590148569,1.10213089094556,0.95032063808912,0.80223822335741,0.672026210472211,0.561845904846594,0.458366408362826,0.376281638525855,0.303649676228688,0.23966963042564,0.18223919660536,0.11674937110911,0.055127244119545,0.00235498254693848,-0.0396322435874999,-0.0670332998563266,-0.0799219676319874,-0.0800641416416093],
+              "vols_en": [0.468758108957339,0.84303951585057,0.84303951585057,0.84303951585057,2.13864046124799,2.41543358884273,2.610917545407,2.74476060176116,2.84958999612735,2.92845502956715,2.9953350448792,2.97766059907636,2.97033547291556,2.98276601527194,2.97931894851352,3.00942098039047,3.03993043792883,3.06192863391379,3.05558466036264,3.02582351697726,3.03685677876689,3.0331183308354,3.01532796545757,2.96199784089799,2.8448274670367,2.79698087133813,2.7264814088652,2.6909428988168,2.63063378294806,2.50262247219546,2.44393356555888,2.41389265794059,2.39309150644616,2.39413923786344,2.32736310880844,2.24035680711389,2.17706879966679,2.05141564449252,1.97418393618508,1.83110674480712,1.67283105647968,1.56190101973917,1.40763754773605,1.30887194631032,1.19266636141179,1.12270065361985,1.04771176424463,0.857405132319198,0.644405161698814,0.365134378101807,0.134220211350699,0.0423459120728716,1.08940634291343E-15,1.08940634291343E-15,1.08940634291343E-15,1.08940634291343E-15,0.0423459120728716,0.0423459120728716,0.0423459120728716,0]
+            }],200,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["efc","effect",{
+                  "action": [["$param",3],["zpos",-44.444444444444443]],
+                  "class": "effect",
+                  "name": "efc",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "effect.mtn",
+                      "options": {
+                        "chara": "effect",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 50.0,
+                        "variables": {
+                          "param": 3.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-23.07692307692308],["$progress",0],["xpos",300],["zoomy",200],["ypos",120],["zoomx",200]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ace_009.mtn",
+                      "options": {
+                        "chara": "ace_009a",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "lip": 0.0,
+                          "progress": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se_ac_02_9900",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["アスマ","character",{
+                  "class": "character",
+                  "link": "",
+                  "name": "アスマ",
+                  "showmode": 0,
+                  "type": null
+                }],["ユアン","character",{
+                  "class": "character",
+                  "link": "",
+                  "name": "ユアン",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 1
+          }],["ユアン",[[null,"The chopper will be ready in two minutes.",41]],[{
+              "labels": [0,"vlstart",133,"vlstop"],
+              "name": "ユアン",
+              "pan": 0,
+              "time": 2220,
+              "time_en": 1856,
+              "type": 0,
+              "voice": "ac_01_08_ewn0001",
+              "vols": [0.0508465845998513,0.423853798469113,0.423853798469113,0.423853798469113,2.81538894865851,3.77373248780146,4.61685270240522,5.24904896100574,5.48341683333215,5.22210273317336,4.62670429879778,3.97285657533349,3.43857518994692,3.07828985813222,2.9318257172809,2.98477349325399,3.17484651723171,3.44766399107607,3.76606609593113,4.0761077265631,4.3573602567081,4.58620235516314,4.74170768874769,4.82109329980954,4.80544196142244,4.67960500180141,4.43645200204105,4.08656082108746,3.68990730291905,3.33112358027764,3.07437958714641,3.00628646925396,3.10843373332646,3.33850919511878,3.61860147617685,3.90516545756955,4.15328211820429,4.29847399615918,4.38167137261247,4.34369966584014,4.19504348496466,3.93583234361237,3.65956569941622,3.45415795124014,3.28707355925205,3.13375893550839,2.98727861415344,2.83392382451575,2.66971784695219,2.50307230379343,2.37956887222233,2.33516124445405,2.41882213896586,2.63740892916605,2.9937492215516,3.45544240117889,3.9446635923875,4.34363330490714,4.63552104364858,4.8169707740751,4.85062860205392,4.76317642684927,4.58550061689574,4.35734448533929,4.08259617251049,3.82333727026204,3.5941002754117,3.38591682946465,3.25144788151672,3.15900125256809,3.10714061328984,3.08788361126227,3.00310641762255,2.83466514327267,2.67758229677621,2.55286070399577,2.47744054039773,2.54679672898219,2.68588810737517,2.8649170948952,3.09524014648782,3.26600666419758,3.38278264135205,3.44732713982121,3.44091988948354,3.28652227931566,3.01287679503466,2.7121406973698,2.45679618292046,2.25943665100293,2.13282664527012,2.05662431651707,1.95394393494707,1.89640550134875,1.92357614126595,2.00318874635702,2.1383663531286,2.29960021188447,2.44587607226688,2.45241850212656,2.33941139717241,2.17936199803102,2.02816611094028,1.94671316514702,1.92231646829319,1.95183217539885,1.98861179162582,1.93650477418441,1.79749207639187,1.57233741338663,1.46511043223917,1.43070206963801,1.43519832091979,1.48365260277099,1.49756321861218,1.53320432539559,1.60794176544189,1.62378356162756,1.63563815648946,1.61748199693208,1.54606231195177,1.43396519160242,1.29328138401593,1.1299008431847,0.949668777808302,0.754847322308174,0.542323269877397,0.330058885315444,0.12774710398048,-0.0434120200380081,-0.17021648422808,-0.248343028917302,-0.278085716592602,-0.26613566742319],
+              "vols_en": [0,2.52937525834291,2.49082215523302,2.33675668136827,2.53543920214184,2.90606927719183,3.44936256325643,3.76608168211703,3.57731116123521,3.58093505592056,3.59347969450069,3.64550743901783,3.82682454286182,3.8440598933305,3.83027908283163,3.82703266017751,3.81127163102691,3.60132491672591,3.06970623475434,2.44502435341482,1.80636358286613,1.79037836904901,2.35443221677594,3.03497908978031,3.69853969812003,3.97791134758894,3.93253272499769,3.84213358078034,3.85145516832882,3.9112052928708,4.00601274412028,3.77406694335284,3.37339854565225,2.82261035491954,2.51286548413148,2.78580798645322,3.26315046236905,3.73597049910093,3.89637367297638,3.86169413555353,3.61625579135426,3.41631566591378,3.51941159824333,3.65995764400708,3.82092383199682,4.02375555772177,4.01889773328997,3.89599190360331,3.67357958962136,3.35752113194354,3.30433841284658,3.30577981144645,3.42561468102072,3.68468206205303,3.62544160839276,3.65327926498905,3.70906524752629,3.7035847681276,3.69609401659522,3.62663084355129,3.48965505431557,3.12413299291067,2.69056367444799,2.16282139855848,2.09295856528125,2.45222921123349,2.94734994102845,3.4605547802622,3.54851546442418,3.293680474796,3.06282466282641,3.13504247199045,3.33199277604464,3.66352132287615,3.97154781235734,3.99522853176411,3.88018711766962,3.8110819804655,3.68796378356977,3.59056245902314,3.61597695350554,3.5548080725824,3.56648021214664,3.58789310080944,3.57390383155203,3.61587325722367,3.55733048849986,3.46368635345543,3.29097222001003,2.99814490665686,2.6813784584233,2.41897725932668,2.13764896936885,1.89580120359362,1.58102514751968,1.22429099107008,1.01112652507908,1.31988353290019,2.18673157778401,3.03956826940889,3.87723755769658,4.27225903703728,4.21883460060291,4.10331622343132,3.90240864065248,3.43622881111831,2.77523486391916,2.05503463990587,1.39242300168227,0.965824095409825,0.606769337156264,0]
+            }],192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm06",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se_ac_02_9900",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["アスマ","character",{
+                  "action": [["$progress",1]],
+                  "class": "character",
+                  "name": "アスマ",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ace_009.mtn",
+                      "options": {
+                        "chara": "ace_009a",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 16.666666666666668,
+                        "variables": {
+                          "lip": 0.0,
+                          "progress": 1.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ユアン","character",{
+                  "class": "character",
+                  "link": "",
+                  "name": "ユアン",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 1
+          }],["アスマ",[[null,"Tsk. Why the hell do I have to go? Just leave it to the army.",61]],[{
+              "labels": [0,"vlstart",395,"vlstop"],
+              "name": "アスマ",
+              "pan": 0,
+              "time": 6592,
+              "time_en": 4319,
+              "type": 0,
+              "voice": "ac_01_08_asu0001",
+              "vols": [0.0,0.0,0.0361371973196949,0.168183062460765,0.39043780751935,0.675989862939962,0.972418926802669,0.972418926802669,0.972418926802669,0.972418926802669,0.972418926802669,0.972418926802669,0.972418926802669,0.972418926802669,0.972418926802669,0.920796814343986,0.920796814343986,0.920796814343986,0.920796814343986,0.920796814343986,0.920796814343986,0.920796814343986,0.920796814343986,0.818720926126458,0.372384683166609,-0.0248672173485173,-0.335182984374896,-0.53794606133315,-0.630083654838122,-0.623387561857653,-0.539352171442258,-0.404745833948136,-0.247165009158188,-0.0912881631535659,0.0435648574771031,0.144758804849189,0.23534793682942,0.34322301271555,0.471227408019256,0.628306216274179,0.810161344752366,0.810161344752366,0.810161344752366,0.810161344752366,0.810161344752366,0.810161344752366,0.810161344752366,0.810161344752366,0.810161344752366,0.810161344752366,0.810161344752366,0.810161344752366,0.810161344752366,0.810161344752366,0.810161344752366,0.810161344752366,0.810161344752366,0.810161344752366,0.810161344752366,0.973991781998061,0.864285902653444,0.738379041309595,0.581670903209384,0.444883823652752,0.344306890755349,0.437385927550048,0.781672852556474,0.781672852556474,0.781672852556474,2.61173636156385,3.29262643699004,3.91097490174077,4.4503662980439,4.8704104443057,5.15399243608013,5.31874914743998,5.36740786825157,5.32577466805629,5.2176491159881,5.06363466538077,4.89742881040617,4.74321101424835,4.61134451525168,4.45088362811489,4.28038581416907,4.14178906112858,4.05158656333811,4.03158865693566,4.08050761986166,4.16853236709701,4.26637008961279,4.34270497060216,4.41071200277507,4.47661018385334,4.5063357741,4.51479974100828,4.50458933781103,4.47633722969233,4.41995202431552,4.34913490422413,4.29973828372982,4.30958593328338,4.36890788100265,4.46264326624964,4.57440800748583,4.67596559934954,4.70732819040314,4.58811802375501,4.36460641479903,4.04724893176281,3.70048021650035,3.47633597943937,3.39468399710229,3.44744084406557,3.61297595104968,3.83986428691952,4.0910263952582,4.31715379469391,4.46693844979836,4.50471624993359,4.41144862876179,4.16564138454714,3.77310315459276,3.30752320007989,2.90189801447616,2.60353979418877,2.37608185579029,2.2139251383101,2.06839178087172,1.93688862412313,1.83232431898886,1.8188993575628,1.93558089775451,2.19690618128497,2.58134013523224,3.02755941646277,3.46575229355921,3.86453856586162,4.12667039008657,4.20266333119081,3.99390389900404,3.5938983262284,3.20089559000278,2.92902693291036,2.80058061832337,2.78031779060938,2.79162594533307,2.75198562762932,2.74818844513837,2.85496477370419,2.99918479875849,3.11596825714683,3.09563320585953,2.95120029749294,2.68950726651465,2.36948656067121,2.18337286504621,2.11805635371578,2.17493652175769,2.35525214787681,2.62534028205223,2.93864849930676,3.26416075412658,3.5772508279072,3.85704097301759,4.07344017582532,4.22207420224158,4.29499337684605,4.26643408647859,4.05122343224504,3.59411812015911,3.15415300207001,2.8625418131052,2.78443866083009,2.93660984854556,3.25428360216001,3.59462560815714,3.92103652685059,4.23917520281646,4.48765847142862,4.64525019510704,4.59085076540038,4.34828770121823,3.88715314359448,3.38897889786867,2.98066128581919,2.6654700393535,2.50234898426379,2.47476542431936,2.51518031798967,2.64219200536322,2.81705912027849,2.97463128769394,3.10885656835154,3.22855351593047,3.32188207479774,3.33517067330281,3.20268267082675,2.91246037687489,2.50857915380892,2.07501856963956,1.8380615739177,1.84714976042648,2.07203177301928,2.46362533862075,2.88804372099136,3.34615121358829,3.78409094694701,4.14729394965012,4.41573097188117,4.57633459994857,4.59536047956374,4.47321218294008,4.24652131201507,3.96051860794432,3.64229158166751,3.3357678034112,3.065380356488,2.82886282718453,2.62526090790099,2.43851605491793,2.27720559771569,2.12941837923544,2.00407656726352,1.9072018359745,1.78022757931746,1.64619659784695,1.44070835482437,1.21814171700439,0.999633772842822,0.781356093378619,0.588468834923692,0.422907222350695,0.271279822727197,0.125081321176146,0.00253437334202529,-0.0909073017972474,-0.152584692254846,-0.180783739936783,-0.179881691966239,-0.156387045863902,-0.117856962473678,-0.0724690723262259,-0.027402671753038,0.0117420785037515,0.041230313517578,0.0593595787968379,0.0662162453339492,0.0632837250074372,0.0529776462777557,0.0381385014034027,0.0215848149823436,0.0057640711866984,-0.00748024665463346,-0.0170148251414306,0.0196389084415646,0.210269020776021,0.575244363024616,0.575244363024616,0.575244363024616,2.60383275674061,3.30254859662233,3.84877783596335,4.22205925407807,4.42076696789682,4.42802154419483,4.31217083914589,4.1284856247667,3.85466716775992,3.49499454047981,3.14345728973331,2.86683021823867,2.70768748151259,2.68649317106805,2.80461078411194,3.06209459102873,3.42161243626624,3.80440505121286,4.19518133874317,4.48482591853433,4.68609704730297,4.80382098424413,4.83516674993403,4.78960523224843,4.66582904154323,4.48074690373413,4.2581137493462,4.04165141621892,3.88433245451018,3.78329441649907,3.70034450705689,3.44364205524005,3.24320203981916,3.09483586801421,3.03062353053864,3.06662781199265,3.17760005281628,3.33855229352509,3.49076038607783,3.63925835403946,3.78175966572419,3.89990706227616,3.97303576990904,4.00163981211313,3.97232834513663,3.91326647135988,3.81072071338669,3.70577997711395,3.66856867815808,3.67456402197097,3.73667754032409,3.86648812760973,4.03572235013152,4.09068149825256,3.92324674715189,3.57010464951087,3.09977292695566,2.72414261199268,2.58284623483179,2.63529876840922,2.79762371168174,2.96168618748106,3.10501321144492,3.17087272547055,3.25610764169966,3.40986436344226,3.57491198839015,3.69985440833229,3.68704747457767,3.53877604765081,3.27907998249546,3.09895869395895,2.99809278538983,2.99484249620696,3.08178838270278,3.19173777989013,3.2896457838139,3.34713739072043,3.32528700896518,3.23162970344909,3.01768108454217,2.65955283327666,2.3097597767674,2.08964034408176,1.97219759132325,1.90897384877867,1.91204768030374,1.92685088872202,2.00533822764869,2.13043750634141,2.25955584639024,2.34063287321704,2.36858299562405,2.38428653326653,2.37918933131394,2.40221100001131,2.44300700884043,2.48258998011691,2.55111554802628,2.66594085799426,2.81223551253893,2.99487228645536,3.210016243778,3.42937181463883,3.64015089762671,3.82767567098307,3.96995283324706,4.04739452695003,4.03720155334775,3.90437245360562,3.62988804397675,3.26046503567042,2.83697524267433,2.41156885489825,2.07972645826607,1.8626266983938,1.73556684383396,1.69726097803987,1.70118124715452,1.68682185569057,1.61100921910721,1.43890244765247,1.21036546764386,0.952204309918545,0.690100873833153,0.447749754150188,0.239982830673996,0.0781381101599034,-0.0274897945674556,-0.105978576239538,-0.149249955475305,-0.160422318798914,-0.149368788048867,-0.120783602934891,-0.0824258435390195,-0.041797628575768],
+              "vols_en": [0.181669357484299,0.414055778600115,0.658890274168883,0.908532737933444,0.908532737933444,0.908532737933444,2.02743565464196,2.50533404694079,2.92163678547533,3.0801195611115,3.05967071628909,2.98599041535912,2.85339484366764,2.64140355664868,2.34091652035671,1.96724410405817,1.57825713651622,1.14223556073049,0.756521956333544,0.476333817498652,0.291285703607286,0.230902398913718,0.300436883270508,0.383656885803772,0.448402394373552,0.508785699067119,0.523823863965543,0.545678371255085,0.545678371255085,0.552494713646204,0.545470840997779,0.531630625958236,0.515202306795977,0.476826411586826,0.443167594723797,0.378422086154017,0.303616110533013,0.220726927031162,0.146960880222732,0.0822587860628388,0.0440454781164283,0.0440454781164283,0.0440454781164283,0.0440454781164283,0.0660682171746424,0.0959443042393127,0.169710351047742,0.33672979949018,0.630106672063163,0.943545351445789,0.943545351445789,0.943545351445789,2.06073141729285,2.29474389989955,2.39289995359503,2.37990737457872,2.29664596814774,2.08751455700124,2.0703498237954,2.33061656790639,2.68109635779523,3.18198793574358,3.46509017287554,3.45557603389709,3.37238955974767,3.29253266214244,3.24058441333221,3.17548919101024,3.1899126266952,3.26579701275962,3.40914183380532,3.62391975860427,3.85505622355874,3.8905584986584,3.68675633192432,3.37789298931486,3.26236535969371,3.47951845016407,3.91557237835614,4.36995637112308,4.41929063593231,4.14952904575856,3.78037052140877,3.36997649392162,2.90062994863241,2.27132897745809,1.62891280091106,1.01714508024007,0.631102867351703,0.744587892900782,0.744587892900782,2.36230704963084,3.33266172954345,4.09656001126319,4.39602834960221,4.43138403315209,4.40545064417964,4.33957177054696,4.27416235383121,4.23870192827264,4.21498214203736,4.20651380524645,4.21342749885097,4.23786616925002,4.28103345546579,4.25856306531397,4.21872510258394,4.03282017371837,3.81798807766471,3.72190734235843,3.6353576721055,3.74761775799562,3.81622340061701,3.8478867892712,3.73397994133688,3.18791150281053,2.61599618780843,1.99806612639829,1.38660342954338,0.94277120750382,0.589619321346064,0.882225979825942,0.882225979825942,2.13297474163328,2.68502719563335,2.57442158262725,2.24336886755272,1.8564624721539,1.32060058704201,1.20662568778309,1.45760682144208,2.06062393629858,2.94539509799882,3.38993187662817,3.51505372613235,3.29043416564605,3.05039431269891,2.81784279048237,2.55777056830795,2.37866825062153,2.21576923940872,2.06843611020672,1.92898220237692,1.85338291456675,1.84281899331235,1.77292456308268,1.61747194188391,1.32451369032071,1.06131197431201,0.915884472923014,0.924313593097137,0.924313593097137,0.965674056869022,0.912432083019665,0.839703131141319,0.76880057373114,0.711658447241392,0.638042935787044,0.551851585134311,0.460645990156384,0.363061845765758,0.271827550982495,0.198061504174065,0.134157612185723,0.0822587860628389,0.0440454781164285,0.0440454781164285,0.0220227390582144,0.0440454781164285,0.0660682171746426,0.0660682171746426,0.0880909562328567,0.0660682171746426,0.139834263983072,0.595621610989144,0.595621610989144,2.18607557492349,2.90107918599314,3.35476012563518,3.4487519992734,3.56477190852038,3.58277684880931,3.45418697839071,3.23686501978411,2.88895548409367,2.5254840371772,2.0632881133266,1.5009638233446,1.10499706277291,1.05178776044404,1.33357658607807,1.91035886073592,2.57327614704846,3.14357173167272,3.52805485610531,3.77637208440196,4.03018858168718,4.14979953174809,4.2251050466092,4.22773580689681,4.09950121565558,3.85354439097733,3.09835948198697,2.47617625698151,1.90275573543579,1.82798518892808,2.54202959310911,3.07337537108044,3.33690674875029,2.69889881504041,1.77077590705229,1.61648494043213,1.95052075688859,2.62146342536553,3.29560791494485,3.52365442179598,3.57189692267677,3.58822338209164,3.71355012148592,3.67415802355456,3.71316191865999,4.02226683905256,4.22603305846174,4.4429605826781,4.5542037913336,4.52191608329499,4.44953967905133,4.34579050703624,4.22191173180609,4.20260203889788,4.27443209553117,4.39024918680411,4.50957188747485,4.55279175216569,4.55550252823254,4.51856267832061,4.47280920173665,4.42352270264012,4.40081220653779,4.42794231170918,4.46779178301649,4.5489160801392,4.58049625349943,4.44990134051164,4.24247328904801,3.82312296295391,3.39180061931143,2.94696027381281,2.55765599051275,2.38039015427872,2.22216587319694,2.25702619204076,2.29657939423791,2.26083924605641,2.13711245847534,1.83499918020227,1.41425052661463,0.969411340347002,0.555393914987782,0]
+            }],192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm06",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se_ac_02_9900",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["アスマ","character",{
+                  "action": [["$progress",1]],
+                  "class": "character",
+                  "name": "アスマ",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ace_009.mtn",
+                      "options": {
+                        "chara": "ace_009a",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 16.666666666666668,
+                        "variables": {
+                          "lip": 0.0,
+                          "progress": 1.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ユアン","character",{
+                  "class": "character",
+                  "link": "",
+                  "name": "ユアン",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 1
+          }],["ユアン",[[null,"The government's orders were for you.",37]],[{
+              "labels": [0,"vlstart",160,"vlstop"],
+              "name": "ユアン",
+              "pan": 0,
+              "time": 2677,
+              "time_en": 2020,
+              "type": 0,
+              "voice": "ac_01_08_ewn0002",
+              "vols": [0.116724204236593,0.451267117722396,0.939095580544717,0.939095580544717,2.2548981664636,2.8965258988728,3.43159104826138,3.81978607718306,4.15209386767795,4.4305895654308,4.62437647992989,4.7536585022112,4.82144377418649,4.83843655742649,4.79669982520559,4.6916107741551,4.50537851133502,4.19694131992652,3.76976034771947,3.28047652551499,2.80907014630556,2.35955173493542,2.01259758896539,1.8964608224785,2.03424364061956,2.34911572349238,2.75771470033833,3.20250628267997,3.62016785256817,3.97320310083043,4.20209851290704,4.32184350785296,4.2977012237542,4.15806796318728,3.86948049340465,3.58474036587541,3.32336526748482,3.13888004230548,3.0784415535642,3.1113197816407,3.21309416080765,3.34538529829311,3.43289003930676,3.51970332449167,3.5972580614308,3.66131678060853,3.66206083437268,3.63295935894937,3.57533096122994,3.47699835561168,3.37551688917512,3.2620091851131,3.17154232245033,3.09169093696679,3.00222816101889,2.87251614523042,2.7131029999346,2.51728411614549,2.37668701123735,2.31040804595515,2.30598995598805,2.35726834438596,2.44041869739286,2.48421772135706,2.32178506501753,2.01615206737311,1.62922665639403,1.38256018308993,1.26039421869123,1.31944036421439,1.50363165919846,1.7571693513403,2.05389430292936,2.33289442433438,2.54307956768997,2.68169569159925,2.73112412730913,2.68474163942499,2.55496622044491,2.36727583800686,2.15920140173931,1.98877707210351,1.87881871984188,1.84951714771426,1.88256856767665,1.90726445783136,1.87452639957159,1.77980903541593,1.61871751256635,1.34752329224316,1.01066401179055,0.65432390093934,0.322911969172105,0.0569600764456375,-0.0702691468255334,0.00779699622809456,0.32518430013274,0.888163363641224,0.888163363641224,2.35370786143779,3.09892103769287,3.72974771602454,4.21631080544293,4.54387568642943,4.69017395109682,4.6990761787473,4.53408202299427,4.04419410983583,3.29439590382075,2.3915275861082,1.63221639483226,1.1068864589882,0.874776690283232,0.906583408819892,0.906583408819892,0.906583408819892,0.906583408819892,2.39900265597446,2.7547062146485,2.9741863258323,3.05615335330499,2.9931468885402,2.74585926861427,2.3802214538131,1.8991507594218,1.55087213559097,1.36203324687665,1.31391663359229,1.29723646317366,1.2020594928299,1.05866829748758,0.945471901514519,0.877982778856169,0.994926529768097,0.994926529768097,0.994926529768097,2.03798131459551,2.34336890299886,2.53968789924616,2.62497122050362,2.59545268755676,2.46020110102346,2.25629508396268,1.9749791640142,1.68356587145401,1.41307928677734,1.18817364795517,1.00206836328213,0.874332073595667,0.821443583461938,0.822584132737845,0.820863800084327,0.816651475278222,0.78753825497959,0.7043112667257,0.560304839169904,0.386746731582992,0.205164548454415,0.0367379220811511,-0.0995126925572447,-0.194286577875952],
+              "vols_en": [0,2.24409166760993,2.85121122742637,3.20827168600013,3.52612265157293,3.84374452854139,4.14546293887555,4.34636255031323,4.28917125512496,4.06007130502362,3.62584581623527,3.28047478893288,3.42529476304024,3.66786351001507,4.0893643296044,4.5178619631953,4.42266867875177,4.2505914236467,4.02896177013998,3.69490708315215,3.55329458395673,3.56098146788221,3.67998764174176,3.97334604756046,4.16508894833315,4.26354504375649,4.32579786798554,4.27650877131846,4.21808004729245,4.13669013276429,4.05468567974685,4.00642308956054,3.6751605387918,3.68745351911713,3.71344514688673,3.68372920860614,3.74780231947718,3.59757835660895,3.58197452792541,3.71407875872627,4.00666993133155,4.14345454049081,4.13810030469577,4.06235882966927,3.91326607807603,3.7054078514376,3.61472731831907,3.60964785096959,3.68655752287991,3.81057483272539,3.7962065963451,3.66737746102319,3.47920937369135,3.29473727107067,3.07126897674148,3.07736960657271,3.23875751367751,3.48911308312779,3.78806900601737,3.62467892744034,3.29429320931345,3.05837877661453,2.90604578462231,3.00122907325709,3.24163472312339,3.37474947027423,3.48763221857414,3.54635259804541,3.49815898024203,3.32929594331229,2.93707729097982,2.62348008722508,2.40358784092704,2.17101627685344,2.16029606502596,2.12920865694051,2.30161902348882,2.63190553339987,2.94065726513839,3.22662149750731,3.31451745917973,3.2680271331428,3.18620669083265,3.03254142332367,2.80968020784167,2.56391030683396,2.33968747966229,2.16851532066465,2.07166720514775,2.20321421054635,2.34393893325235,2.59924400779176,2.82334488311944,2.94252203238505,2.95642533805929,2.90991437566402,2.74896518259596,2.61935723849728,2.62307399726036,2.52638708834907,2.4986372448955,2.40269520143571,2.07824298198956,1.85963660382401,1.62035258064392,1.39842891415477,1.36793523887437,1.38625874160642,1.50331253324369,1.65411908318085,1.87637396317487,2.01099373637913,1.97713226528575,1.81890320028284,1.50503668930716,1.18133681170111,0.973944483345149,0.850854637369026,0.822938405193793,0.819376422374556,0.612751325371298,0]
+            }],192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm06",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se_ac_02_9900",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["アスマ","character",{
+                  "action": [["$progress",1]],
+                  "class": "character",
+                  "name": "アスマ",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ace_009.mtn",
+                      "options": {
+                        "chara": "ace_009a",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 16.666666666666668,
+                        "variables": {
+                          "lip": 0.0,
+                          "progress": 1.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ユアン","character",{
+                  "class": "character",
+                  "link": "",
+                  "name": "ユアン",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 1
+          }],["ユアン",[[null,"You should comply, even if it's just for show. They're virtually our sponsors, after all.",89]],[{
+              "labels": [0,"vlstart",401,"vlstop"],
+              "name": "ユアン",
+              "pan": 0,
+              "time": 6686,
+              "time_en": 5561,
+              "type": 0,
+              "voice": "ac_01_08_ewn0003",
+              "vols": [0.0542572013816057,0.359231396413012,0.821220772581084,0.821220772581084,2.22945906761545,3.01669175134527,3.72590399132194,4.31430991351055,4.74487755309314,5.02353887454256,5.15323504087844,5.15190714977252,5.02184408278029,4.66312120625851,3.97834198978584,3.21141803461819,2.56406735163019,2.20779027412244,2.16891083097524,2.39894915821557,2.81650416969803,3.34409991905444,3.89592930563187,4.39853004589379,4.80903259961588,5.07920555000012,5.14029856411362,4.93999567588376,4.41200675005903,3.84962586057856,3.28180943148306,2.81932520481185,2.5866972069204,2.49042838769554,2.45982331672016,2.65885002993287,3.03313749816826,3.47184632271819,3.91918526537388,4.26121764604893,4.3078208298364,4.06690744077905,3.68549715291343,3.30944911586719,3.10025552641462,3.06990227781377,3.12989640615017,3.18962013267972,3.3200812265961,3.53337705400101,3.78707165738556,4.02283635085776,4.181045352987,4.28167236560189,4.27387129474819,4.21898620412948,4.09764352627408,3.95697224923138,3.75703180657135,3.43368368781584,2.97309540832645,2.38556219333324,2.01953066831636,1.83116233184264,1.71501044764283,1.80484209984404,2.08764429673759,2.50323980684341,3.04632959240752,3.60627429913364,3.99500859572343,4.37610758761167,4.69029275296854,4.89818862080219,5.00711117032555,5.03565819009417,4.8798091523195,4.60450654433586,4.36066100400404,4.10794560150973,3.90798926760683,3.71177516640228,3.51338544763628,3.33333544587571,3.16698569403128,3.07453898080339,3.01783114863191,2.99344390547926,3.02092296134151,3.08632767012402,3.16232772194207,3.24525826613298,3.33778115773512,3.39906630286141,3.39065572581352,3.33271092917974,3.21422295959076,2.99861585516532,2.64599669753487,2.19029700122933,1.69065101912554,1.34707990145289,1.13166090020593,1.07410961596163,1.21615964851296,1.50967869131993,1.97554665527175,2.48074956135167,2.9925806231734,3.43542945118974,3.74607724210729,3.9686796687602,4.03632962577458,3.96179933491038,3.82460436539821,3.62318682107642,3.39099514968593,3.20483837794008,3.06272940669384,2.95886054837723,2.8879283891727,2.83255837982835,2.81037100407494,2.77478242519112,2.7258508425729,2.64172482958935,2.48087517354795,2.32444029537637,2.26639582086061,2.27345948625574,2.33315285843412,2.43851955420998,2.58753048677345,2.70697132548412,2.57784935423134,2.32938653666055,2.08542559116638,1.96391039593334,1.94913838001203,2.03164343404683,2.23686178545177,2.46021099551526,2.61913843258754,2.67327323729461,2.69991858318928,2.714056523717,2.70465760332381,2.73315090181501,2.75555597162754,2.77814941588025,2.80357823708883,2.85533230544036,2.86235519800085,2.82155337615892,2.73238851561752,2.53662582612058,2.25996327107875,2.08716686222538,2.0103778213144,2.00696736574084,2.04221148111619,2.06623020381302,1.96368606152247,1.76167415414095,1.49691345294302,1.35737995375205,1.25047875657962,1.16257226057248,1.16443958423033,1.09217842119562,1.03738142711046,1.04767193153126,1.1085680559007,1.20439438689105,1.2430464711422,1.27691764563623,1.28700563536126,1.27509171975516,1.24566673833307,1.19138642746383,1.10181434642809,0.975782752514922,0.807953277802756,0.610861648245314,0.40059822974017,0.189247625662378,0.0035568482371592,-0.141009792811434,-0.237084964740109,-0.28235967840252,-0.282230294085218,-0.246468547694064,-0.186942657414888,-0.116225413267184,-0.0456041774723428,0.0160447905879416,0.062796370510048,0.0918606816110362,0.103265704871218,0.0992564966702806,0.0835583987657926,0.0605937257245456,0.0347775481874971,0.00996354836030495,-0.0109259891609542,-0.0260743895069961,-0.0347687610113231,-0.0372596403301257,-0.034528139154250397,-0.0280095398346829,-0.019317348610443,-0.0100024380422069,-0.00137040301079203,0.00563198206930486,0.0104613192826287,0.0129619288235369,0.0133045295914132,0.0118965340816761,0.00928120426481353,0.00604072206082658,0.00271458966392192,0.0632277599795477,0.431556170772593,0.431556170772593,0.431556170772593,2.49770648314626,3.29028012796361,3.9823939108824,4.53532803115725,4.93063508411706,5.06996018883516,5.09703688986255,5.03548483851126,4.90078558141898,4.73223916498381,4.54645848639688,4.36476463305343,4.22823977917054,4.13282216559407,4.08523494746392,4.08509879548748,4.11250576791653,4.09105528848873,4.11873413601341,4.1810499802723,4.24839276633529,4.30682011817363,4.33658965002928,4.34452826953995,4.32439109465424,4.27623402178882,4.21432127819121,4.0824843673929,3.76550170192812,3.20845639965823,2.47994501046953,1.89235766836519,1.56139904277208,1.52339823814401,1.74591480261818,2.13478574709899,2.58418020890737,2.80784090497442,2.76954453417568,2.47824960584737,2.00766250922535,1.44064780264245,0.8547725668495,0.339312198862995,0.171110540220227,0.335569492300051,0.777057744099943,0.777057744099943,2.16398954124787,2.78223874008432,3.32356024403568,3.71547701529655,3.9492183315153,4.04327288776257,4.00457535565902,3.8072941335207,3.31986751578861,2.63066968296243,1.84459323998651,1.04361374809429,0.323364097038264,-0.0929473317840193,-0.0919371554414527,0.274882886844867,0.975691086402331,0.975691086402331,2.84794629466073,3.77684602135785,4.53428766349162,5.07828825189102,5.37361578187188,5.37304486748376,5.10966143390453,4.68840128719765,4.17700205583993,3.65103634872584,3.16570811729539,2.71357236129667,2.43829437692556,2.38346422249562,2.50784245282434,2.78286040834077,3.12837726253997,3.50236307154842,3.85146701896107,4.12512477253462,4.29419542465606,4.36951722864875,4.36113789183706,4.27474303501728,4.16047814028703,4.03123283396773,3.91470889936037,3.83976102405071,3.78916452528722,3.7772002649931,3.80219009727889,3.83776846910102,3.9107726967812,3.97958730580067,4.00998462692972,4.03481693989922,4.00469817295801,3.97225337373448,3.92671238843167,3.85080148030717,3.76487521897394,3.66775804322532,3.55787421186019,3.49455449889308,3.39020538845327,3.27861434132965,3.2239278918631,3.15002684273946,3.07790352824481,3.02326808640878,2.96113110847236,2.8698845095785,2.82380863086189,2.79817760939123,2.80723301512441,2.85397782613402,2.89210762067113,2.89698326470008,2.88516566980089,2.90801268255735,2.93383611217075,2.95066892802352,2.95570258131592,2.98900045551553,3.00746267766532,2.98391817461511,2.95033266420602,2.89869475859856,2.81938287843947,2.73847546125135,2.6581760435542,2.59648130336704,2.56679564591442,2.56450044556819,2.58002332710418,2.6131532933182,2.64768292899128,2.67900916646037,2.68690057014994,2.57226640205094,2.38866883833006,2.22387254238834,2.08025467090404,1.95976598225465,1.85650665937691,1.70906614825255,1.50843703256211,1.26611092782256,1.09163070930508,0.996596253354205,0.981987783170449,0.981987783170449,0.981987783170449,0.981987783170449,0.981987783170449,0.981987783170449,0.981987783170449,0.981987783170449,0.981987783170449,0.981987783170449,0.981987783170449,0.981987783170449,0.984959096938155,0.752422826053149,0.495774891853006,0.238722824051077,0.0135326151341942,-0.164048308720265,-0.282729640354102,-0.339779150702165,-0.34184670665336],
+              "vols_en": [0,2.4984361518125,2.8100287642236,2.79758478336321,2.8501500938043,3.02714940646034,3.28510662472635,3.47168450950782,3.48165401414114,3.3758964688611,3.21344971682462,3.04870006591131,3.1905114215996,3.5122011433672,3.86023939649371,4.20333618099759,4.16132043353497,4.03926016981621,4.05631583948211,3.81292427388897,3.36347282571287,2.67200621731862,1.73679421923996,1.11773607536206,1.07761759920144,1.44651206450204,2.33651173660527,3.02207952742109,3.52169488881177,3.83254942276177,3.77366799019461,3.78571335189671,3.48367173661331,2.98862544507771,2.62001293433836,2.37436962954148,2.33667357027484,2.62763695835891,2.86661199158995,3.15832337207202,3.4891285373701,3.71292377856427,3.81443465603611,3.85639533723581,3.8740151969935,3.93142984417435,3.95179075862845,3.96864864078734,3.97044947728247,3.87998806487037,3.83811784090203,3.68394556706796,3.53497320244992,3.32266760288121,3.10602615845097,2.90839722978553,2.70891303565999,2.6062165933075,2.54970317006766,2.3774411441496,2.0288085358059,1.56146677723634,1.05995565731218,0.714705491469579,0.591736729309748,0.591736729309748,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.920075931192574,0.920075931192574,2.326168508369,3.11811284776111,3.50624077490308,3.79594124874461,3.99697714425207,4.22813699199335,4.53994159574728,4.3910077416013,4.13863067427007,3.63144325887719,3.2475322140057,3.39594600791811,3.67142709119613,4.03419990606768,4.24144373656222,4.05013034017337,3.83206294673376,3.55113399882545,3.25725868111801,2.87252555447488,2.47348071838262,2.21011798277107,1.99597512396738,1.9649508855974,2.03328325579523,2.13245725105941,2.23742885819908,2.32381911372351,2.34320826512416,2.70434356667962,3.09676466205027,3.4966135625247,3.81120646103326,3.58198253648106,3.22020973138203,2.91740328414939,2.65484169902639,2.74441322116671,3.02195019966758,3.08114869121296,2.91634814484935,2.44447470301954,2.05947448806871,2.38588102116855,2.97874350052865,3.71229592845627,4.26874863999691,3.96483032650524,3.33700817680974,2.83528109196686,2.65264284531716,2.902620004001,3.32206367610031,3.72046828082778,3.80970924071658,3.65943942309908,3.54864802797654,3.407443726946,3.47210074879102,3.64255113671176,3.76979964011665,3.60152524784247,3.11095981017252,2.57764124341996,2.53869529683875,2.75709386935986,2.97448076071782,3.25049994022611,3.36487732987937,3.52448447304806,3.81308925776409,4.10393793128975,4.13294342751087,3.97785920173218,3.73664618842024,3.51752144886204,3.42096085426191,3.34115617042987,3.24343753198584,3.12749763758773,2.96016372215546,2.80134951158826,2.69750694332842,2.61469463377351,2.4516283620899,2.48185867237112,2.50316106752767,2.35024143115807,2.30715605772954,2.14115225193142,2.04905461289381,1.98896696048043,1.85848572841892,1.61748009929746,1.24511063164639,0.959628294203253,0.719745261205146,0.608289180154038,0.585541576565455,0.591736729309748,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.597931882054042,0.733854992797064,0.733854992797064,0.733854992797064,2.69258639854598,3.33681683857175,3.70097992307202,3.97274303346463,4.11600643295419,4.2100205357304,4.07540570739989,3.74092489789389,3.33570616596711,2.9521464974046,2.60762878133333,2.6219494697056,2.90804436861887,3.35314938441448,3.8280377292583,4.21111669468867,4.32465554446746,4.29548887048195,4.11951798643446,3.73449796221707,3.52833541512363,3.45443300516466,3.47181346418619,3.46510408457773,3.57901921552447,3.68623791284923,3.80189857306444,4.08299265463613,4.05251898771976,3.95516925732525,3.92785625602019,3.95723752077982,3.99534089343715,4.05948190398379,4.01794302284064,3.9848001288916,3.9271698917279,3.74383587482663,3.70325043604948,3.55523178453276,3.37502169697096,3.15792566094699,3.27716240733819,3.48242163345478,3.75525923839738,4.09554077835212,4.05941513934976,3.65582114686953,2.98044136642423,2.22892335623949,1.42337850770271,0.920102680028909,0.928508981215562,0.928508981215562,2.42367740043356,3.29673157819337,3.95556186262392,4.10466100487337,4.07486687153187,4.0812267020622,4.09148956563351,4.10042768496801,4.05621188828107,4.039624426056,3.77259817164377,3.71298389948364,3.68422097281146,3.57867713446169,3.67198573912181,3.58955476446094,3.53462828471356,3.47874766203764,3.45849136585411,3.29025797556128,3.17861101121919,3.14468244800438,3.10390754566857,3.14485470637956,3.17506762633527,3.22992528720943,3.30357499411714,3.34079212631261,3.31970034091141,3.14978707048018,2.85168242225941,2.48689786807337,2.10288022326037,1.71020728170181,1.58243598559032,1.75303674698216,2.00086560317315,2.42946467412711,2.67432599017008,2.71431954291065,2.57105748593338,2.43258046186919,2.31630132866404,2.26415747869739,2.33297288630549,2.35329242477272,2.35652261261086,2.40420964554312,2.31183574855047,2.28097500082468,2.19583418418035,2.23725332308913,2.25714510067082,2.27101731085772,2.52775162881816,2.3056591128,2.23932471721165,2.09715996539858,1.89637202809646,1.84421603876713,1.68951882402072,1.42818106956523,1.04688243452232,0.647811849732824,0]
+            }],192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm06",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se_ac_02_9900",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["アスマ","character",{
+                  "action": [["$progress",1]],
+                  "class": "character",
+                  "name": "アスマ",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ace_009.mtn",
+                      "options": {
+                        "chara": "ace_009a",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 16.666666666666668,
+                        "variables": {
+                          "lip": 0.0,
+                          "progress": 1.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ユアン","character",{
+                  "class": "character",
+                  "link": "",
+                  "name": "ユアン",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 1
+          }],["アスマ",[[null,"Who are you to boss me around, you lanky nerd?",46]],[{
+              "labels": [0,"vlstart",210,"vlstop"],
+              "name": "アスマ",
+              "pan": 0,
+              "time": 3513,
+              "time_en": 2828,
+              "type": 0,
+              "voice": "ac_01_08_asu0002",
+              "vols": [0.0878838740265038,0.36123702974803,0.726262784103237,0.726262784103237,0.726262784103237,2.36350560776345,3.02939380550622,3.64691078458981,4.18179135414012,4.60176045537604,4.89439131626806,5.05883548261229,5.10453654957912,5.0606745238845,4.93484765105404,4.68041676478436,4.36363374872698,3.92122420021328,3.23041352693087,2.39389906526985,1.73438327648089,1.32712804789845,1.30349154680849,1.60775502343327,2.14660111021813,2.80861177623414,3.4782592565433,4.07854647858432,4.55120201896155,4.85207990107021,4.96588784457088,4.8968920382809,4.68844664044628,4.37416380378079,3.96889169665564,3.48858112495904,3.01652246560883,2.60335939087164,2.25183172279014,1.97638968109567,1.80746107387776,1.87387628339975,2.18349051712222,2.68628385621903,3.31649868638768,3.98137507672397,4.58586183782772,5.04617336322442,5.29746403996614,5.27046726895562,5.04093104719186,4.68787483402481,4.26038156208814,3.80539983735496,3.40188534044751,3.08164645918142,2.87159288205834,2.80302135012374,2.85289366325178,2.95299680275764,3.05543902397152,3.13640224134515,3.17763573289115,3.19534292450319,3.20542792514923,3.19473074643479,3.15930366968396,3.08983190267434,2.92769670597263,2.68151704592025,2.38325653341384,2.09420278861497,1.86234269300326,1.69416016393634,1.68600452731743,1.85339079238981,2.1646047298693,2.58463362512629,3.03991157271985,3.4247684132306,3.73237355271514,3.96115674058584,4.10383420178696,4.18118452578971,4.20561022504488,4.16444962557387,4.10077769612155,4.02723951905574,3.96906177168702,3.94548766515383,3.96693305632762,4.01751220604739,4.07623884699679,4.10342548863709,4.08766082274743,4.00542734016634,3.84302530815755,3.62196181716027,3.36771787793425,3.08367504657725,2.78688949269792,2.49102290945415,2.16321425694318,1.81866462776839,1.42655661042488,1.08093469199148,0.740837142015273,0.445400707795713,0.210426330447316,0.0371622423980515,-0.0707681153833059,-0.124558375404877,-0.112247802233332,0.00883937137920018,0.212413574629092,0.49792523926036,0.790814170618765,0.790814170618765,0.790814170618765,0.790814170618765,0.790814170618765,2.20144979624712,2.41141936987416,2.52192304039117,2.55427389134525,2.59367702838757,2.61954894060534,2.6458212338661,2.68163414470345,2.68657653107582,2.62435150002442,2.49074095746727,2.358009207054,2.33823979149862,2.44976734847816,2.63318856618974,2.7688738199292,2.83922211680229,2.92563488551406,3.01158426547904,3.0672387041167,2.976127221394,2.76660984226795,2.57758953656253,2.51843771485304,2.56457602176496,2.71044747605778,2.88429368964135,2.96782206624717,2.88053375980189,2.62156611017047,2.42739423340307,2.36735029589501,2.38615928543303,2.5363839167003,2.6877817701064,2.87255154723452,3.10173788465688,3.32379632261301,3.41969028146798,3.4232844521019,3.34741508363928,3.19071351274602,3.01179063308171,2.79314506923224,2.5580547794965,2.30883724680779,2.07004928265755,1.9768789431459,2.02581523886994,2.18507252764411,2.4390735843164,2.72872245977722,2.98353321045911,3.22887676933366,3.42566044609878,3.5668806380178,3.62192446598591,3.53494555316913,3.34026356797992,3.09436385573967,2.91961889065044,2.85484429070875,2.91068527370962,3.05555175947228,3.27184452851458,3.48684140789445,3.64987696983001,3.76876495337311,3.77875622160897,3.60419777640369,3.32931425135326,3.12259442505202,2.97429877252723,2.90886851309472,2.90158307359719,2.93588602689013,2.99447753200324,3.02232059641628,2.9455773895488,2.77322191168042,2.48986186244344,2.10199389416049,1.65592400896086,1.18777775679818,0.714029101385722,0.262889032944802,-0.113912766745812,-0.392267604670555,-0.561480079379585,-0.622554937297086],
+              "vols_en": [0.42910168131885,0.74947774969441,0.74947774969441,0.74947774969441,2.05066344966361,2.60740749195319,3.12170123890421,3.60089551003008,3.86869413139295,4.02083366950412,4.11296764661864,4.13908683817549,4.12177618328047,4.10418146562403,4.10506071999803,4.09155730342613,4.04863517409588,4.03391288289455,3.9914113422896,3.97405163685202,3.94444582179362,3.89314758245225,3.83989854901644,3.67328512913483,3.3721890453498,3.07732631310988,2.78070267550958,2.69308324252753,2.89461289228451,3.21575387634189,3.58754604324061,3.88476190180779,4.06883015384495,4.18959937847952,4.30779121303955,4.41771477305063,4.50978618983677,4.54739138902533,4.51878835342697,4.44000762037142,4.31772219138465,3.94571378604081,3.52871498232997,3.51530489594713,3.49795235894835,3.53927292693923,3.45741234323252,2.80125035919414,2.05927636749214,1.43189770272944,0.963760079987906,0.67637410756705,0.67637410756705,2.0206191447857,2.99734474328233,3.96858596881552,4.35274162538043,4.29228950739583,4.15991303966426,4.02097492542814,3.67277958906017,3.34925922851321,3.25568699835256,3.18099080078947,3.32463967714446,3.48737925036972,3.41336231657654,2.97918529313309,2.53871453393273,2.54890583313273,2.84913132979566,3.51487489661074,4.15727316555102,4.31775198808672,4.23509673107133,4.11084490209883,3.97824591318791,3.88204619668334,3.80393576894251,3.72584204864153,3.68527304563853,3.64291617817703,3.58257874777033,3.56257460665488,3.6249458920099,3.70307294438835,3.83247120537218,3.93575572299871,3.96839358764179,3.96797216345147,3.93139622275431,3.89981450220218,3.85420812793671,3.78603194318106,3.74889339865923,3.79928603391555,3.8354085068962,3.90708272976412,3.93359873185564,3.78317192031142,3.54635759222835,3.08785894257056,2.84729746824251,2.74169703783623,2.73030035611576,2.90785004205832,2.90926541564344,2.86289146765208,2.82114937499178,2.77068601362026,2.67351570445757,2.6578459252067,2.71125203164999,2.78892576796095,2.97995722746543,3.19886724599884,3.42532371125221,3.68930747648834,3.91321565804069,4.03933510488886,4.03829350793732,3.95252266692912,3.77576720027862,3.57939640007386,3.40235810990406,3.22766934370006,2.96489172667229,2.60709812706827,2.39058008956811,2.22305635517891,2.17704536743313,2.39348147539954,2.67904128687308,2.94990749020411,3.2691270470419,3.51577602751555,3.61483715405943,3.74335140093753,3.83580293756501,3.8678254208109,3.88325603842863,3.90007900689474,3.97418397897823,4.08944652987349,4.13967625596184,4.21309372405965,4.1832717031188,4.08611541078919,4.0092036306787,3.88229744650925,3.78801238605002,3.69696241643638,3.60671065922828,3.52117887007051,3.39890630240729,3.2285535894659,3.07090339380557,2.93740057221875,2.86803430939665,2.79028632275944,2.60888278829059,2.62702151276674,2.8689673526466,3.12385944416962,3.21660496959012,2.89041580904662,2.16253711623165,1.36376120721444,0.750518333481798,0]
+            }],192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm06",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se_ac_02_9900",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["アスマ","character",{
+                  "action": [["$progress",1]],
+                  "class": "character",
+                  "name": "アスマ",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ace_009.mtn",
+                      "options": {
+                        "chara": "ace_009a",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 16.666666666666668,
+                        "variables": {
+                          "lip": 0.0,
+                          "progress": 1.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ユアン","character",{
+                  "class": "character",
+                  "link": "",
+                  "name": "ユアン",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 1
+          }],["アスマ",[[null,"I should tell the government where to stick it, too. They must think I'm their dog or something. Those bastards...",114]],[{
+              "labels": [0,"vlstart",328,"vlstop"],
+              "name": "アスマ",
+              "pan": 0,
+              "time": 5476,
+              "time_en": 6840,
+              "type": 0,
+              "voice": "ac_01_08_asu0003",
+              "vols": [0.0361371973196949,0.192680761678865,0.470033509894927,0.84499709172397,0.84499709172397,0.84499709172397,2.28543476759343,2.73666705605002,3.09114495127992,3.2745824606169,3.2302037777735,3.05617141000603,2.81634790439582,2.54411821251994,2.3234996281422,2.21467643104159,2.21860492678443,2.33406725479877,2.55996339436702,2.8136862533339,3.04216025178301,3.22451824797062,3.3292182796906,3.35406230588958,3.2947512601515,3.10159300619977,2.79264610846609,2.42511824953763,2.04499603763969,1.70231346681534,1.59013533329729,1.655433727835,1.81867277086645,2.03885673775368,2.26537424571717,2.42334032082235,2.51120285257568,2.52611978026776,2.47213289199468,2.3393481665357,2.14847370772879,1.93314475783119,1.74200633828114,1.58864612607817,1.43361531132946,1.36793879137926,1.45039545717916,1.6122780360659,1.87940112043105,2.20561821103693,2.53288069692126,2.83524692551666,3.08564948979474,3.25995349899637,3.3494696411988,3.31409684932878,3.08830118050231,2.7290521143172,2.30042196524436,1.926613622824,1.62537808191443,1.36095132771875,1.22522918862271,1.19267867773251,1.19175321160667,1.2483164622461,1.25319937681497,1.247422106298,1.17567699751805,1.06638068370164,0.95390428045142,0.840379630674039,0.73350969371959,0.650125383690961,0.554679198509622,0.435019686372996,0.296859960709041,0.156937463669272,0.0295720884833525,-0.0735306208891538,-0.125999051889916,-0.102935683735859,-0.00362892240052542,0.170445296710848,0.401540725845824,0.65387529540952,0.91442156856401,0.91442156856401,0.91442156856401,0.91442156856401,0.91442156856401,0.91442156856401,0.91442156856401,0.91442156856401,0.91442156856401,0.91442156856401,0.971591281557191,0.787311442674708,0.60343765643754,0.42405464584708,0.234691910452766,0.0646315922815806,-0.0728440505790586,-0.172165826416456,-0.227492861217461,-0.241977787881762,0.0460422194294596,0.510354633602606,0.510354633602606,0.510354633602606,2.21407473779187,2.88780091080956,3.53252495847462,4.12523326528504,4.59630494494135,4.92532099589764,5.09322488700692,5.05383075583191,4.81308071139458,4.24315436433053,3.38843396756049,2.53379428417265,1.77453396973589,1.30788319251294,1.1841965118871,1.36220976714388,1.7439901077792,2.26388649602024,2.76428204626275,3.20402325316106,3.47333124757183,3.43499051649409,3.09375736963692,2.52299914025343,1.81184003421041,1.06781645533156,0.586343216044809,0.396215729421574,0.549865005110491,0.549865005110491,0.549865005110491,2.98011376072813,3.97248117606093,4.81373362633714,5.39885392208023,5.50469765317451,5.05770675209547,4.17876249646241,3.02008772666613,1.76822680398254,0.584877314329822,-0.400354257534081,-1.0968525278266,-1.07222491490555,-0.467092291145008,0.571424754207636,0.571424754207636,3.21228311498925,4.2652530774898,5.02080425620542,5.41904179037883,5.4321142583179,5.16778973686749,4.68468985903509,4.07301751477695,3.46888309896225,2.91946487889569,2.50107623748137,2.25581376262221,2.20154717226429,2.32182586314809,2.58049936372333,2.93113843098511,3.30849404790062,3.58219311026793,3.66219786734664,3.71066096945125,3.73201197946655,3.70954093001559,3.65282881832251,3.40884414726027,2.91244902646103,2.36729220355463,1.80788653925508,1.3813896381023,1.08718758170578,0.875626089697434,0.66911413587633894,0.475290702095259,0.298176247607188,0.393140427140433,0.665230451519279,0.665230451519279,0.665230451519279,2.01450506414635,2.63011297016451,3.30123789807234,3.94798267516412,4.52041136667031,4.95364609510116,5.21226908126817,5.32948925839173,5.3259456964945,5.22934116918652,5.0847962906686,4.92360515322945,4.75521703122846,4.53751039425664,4.1046076427439,3.57429059799864,3.2359974599983,3.03382329745691,2.9806640432231,3.12096870543548,3.39037011643017,3.7173140587849,3.99358538203754,4.09279858834534,4.03972273203889,3.98393496153903,3.9029400604392,3.74767147128219,3.52306777866033,3.20827672145932,2.85357523134883,2.4942438415473,2.14285593288642,1.83488748923197,1.68491854865236,1.67545226806865,1.82008734013754,1.93614407347494,1.8754726750022,1.80793488879706,1.79969815935715,1.82948773540433,1.87733120028176,1.90287578266277,1.92218061013686,1.94637976652273,1.93926112197844,1.84817071635902,1.70086270058511,1.4948635938158,1.26777273873906,1.0633194548794,0.894667762324013,0.762023525605491,0.661985263912552,0.575261956941012,0.496477196286681,0.425462462733094,0.381850830473365,0.398409723178287,0.490422240094094,0.682453184823569,0.682453184823569,0.682453184823569,2.82374044124889,3.71497048753759,4.47074390288275,5.01099867705569,5.29034464873397,5.31762614232391,5.14491010926211,4.83517047304518,4.41149603900939,3.89953308309948,3.4140105862176,2.99373555437941,2.6923538688452,2.53286723745653,2.50871165975464,2.61030352726008,2.79974799120744,2.93309656070195,3.08706237201591,3.31933328946627,3.55355817219983,3.79471080399374,4.03157610584977,4.11911560377716,4.05162997846083,3.88392154472603,3.66537217869951,3.36629013147844,2.93940756750417,2.35286943623934,1.67579757690725,1.18467456213987,0.952196956534972,0.943829546078722,0.943829546078722,0.943829546078722,0.943829546078722,2.16195434942863,2.48309800535163,2.72752299369914,2.8754806777789,2.96464885843876,2.96250146720441,2.93039710089103,2.87243964600728,2.80096523159719,2.73947555222091,2.67378495787327,2.62114597605534,2.55808748675033,2.50512295608061,2.4449433623013,2.37869219915164,2.29262411828843,2.18495100115791,2.05556360317217,1.89544480449178,1.7235139525342,1.48946608671212,1.25129073385922,1.02041156135532,0.800710292215538,0.628699968451506,0.484053576468268,0.364463286353348,0.250962466477545,0.13712585095371,0.0377816451311632,-0.0424995823099135,-0.0998229018556698,-0.131395716057282],
+              "vols_en": [0.533357341447419,0.533357341447419,0.533357341447419,2.10862170081745,2.51464655508704,2.74195118666996,2.81544998980026,2.83811341423989,2.8549454388492,2.81637139887406,2.79795994158429,2.77055777811168,2.77302938138105,2.86913356832093,2.98321771440109,3.21160854541765,3.36872554506408,3.3254818705503,3.0596577163416,2.64322727725661,1.94284813541176,1.21581821552232,0.730405512135522,0.33330524136447,0.765209986933848,0.765209986933848,2.27248779257204,3.07952711778811,3.30908569353258,3.27904950699302,3.47699578397924,3.48927783627315,3.41806196087014,3.2801524529417,3.20025256703236,3.1023772677312,2.91494583261559,2.55949516815406,1.86149199860443,1.15284918843262,0.61063772258798,0.281519029973077,0.220398572528547,0.207595304491538,0.193909786315064,0.193909786315064,0.741732532074861,0.741732532074861,2.89342021385642,3.97350593212175,4.4872935277503,4.48995868724054,3.98299298733356,3.30389440970217,2.64382180086932,2.03615217571617,2.06256684743624,2.55868815638524,3.07434283493134,3.67168208479852,3.95596180475689,4.01745519592708,3.98336719379437,3.92892408917863,3.80175697104577,3.57107195492237,3.41016598833109,3.04906958706935,2.91008401227923,2.85345650805747,2.75736419811821,2.90250658636715,2.94065411121139,3.00414281708626,3.19196966998469,3.28643814664993,3.41701763144556,3.48805184530519,3.45189740415769,3.27034287566631,3.08882872674415,2.92768238160631,2.70872216725479,2.82674981246881,3.2211184791601,3.58912201962644,4.04266197594051,4.27183509714825,4.05628231481972,3.78418594319559,3.02810571061969,2.03296998990267,1.19076090373782,0.80265699202878,0.80265699202878,2.47040881860467,3.51065288060304,3.90707330147616,3.48382989349246,2.73560240418776,2.02248253974849,1.91885365050806,2.05278317888035,2.2372998430472,2.38790996194507,1.99464571582614,1.48884048242557,0.976653636860771,0.51260483858027,0.260608400928722,0.193909786315066,0.193909786315066,0.985526810418854,2.03178689327227,2.99671501663428,3.8650351378728,3.88045743898508,3.63918789409016,3.60348591307716,3.81163850716593,4.09321665978001,4.33698700828436,4.41022937575125,4.28645836248468,3.90784924473813,3.42079235547936,2.95811229546104,2.55248897145227,2.30006346947809,2.07943932139191,1.9011768116633,1.80745883472151,2.06347548357088,2.28481721424447,2.5089793697225,2.41836758104822,1.87221987010182,1.46096257837146,1.09952105655446,0.961350742122188,0.961350742122188,0.961350742122188,0.961350742122188,0.961350742122188,0.961350742122188,0.961350742122188,0.961350742122188,0.961350742122188,0.961350742122188,0.961350742122188,0.961350742122188,0.961350742122188,0.961350742122188,0.961350742122188,0.961350742122188,0.961350742122188,0.961350742122188,0.961350742122188,0.961350742122188,0.95038262605035,0.86964108541473,0.756664174251822,0.63934278818996,0.533975138064225,0.469862195607156,0.396467395778176,0.326932911421386,0.292905106497714,0.231784649053184,0.207595304491538,0.207595304491538,0.24162310941521,0.294636205852391,0.379208855107605,0.463781504362818,0.490874156883676,0.490874156883676,0.430490852190109,0.379946007858567,0.513206692514752,0.733496978355584,0.733496978355584,0.733496978355584,0.733496978355584,2.03669654909849,2.46128948895233,2.96320711285228,3.16055601187535,3.08064267758406,3.02885720583042,2.74328810841429,2.80495015466784,3.07281743116021,3.24931513266009,3.64458616763759,3.73694088335798,3.64214293668615,3.47290484480551,2.83322463108395,2.00530732043315,1.56043739035498,1.63213908029866,2.39446618536984,3.43882239879433,4.21127614570129,4.52533718791716,4.49397566822168,3.97702911791744,3.17455371021199,2.64598635306393,2.32015730492811,2.52809939532279,3.08030781799072,3.43652122759964,3.57919621223304,3.617009335222,3.58948535573826,3.41859185037767,3.21210250620753,2.87975982196505,2.67013304611249,2.51938058369748,2.45551953859823,2.5010280508816,2.41348364228694,2.37929934211055,2.23195261845979,1.99871278191232,1.65538300221429,1.26393385224804,1.03573138231124,0.831280216481382,0.702854052550952,0.5933297927231,0.995993368365158,0.995993368365158,2.7346914654073,3.59035591587986,3.872160904692,3.83587364042115,3.71969680144242,3.60380868726882,3.46340409466583,3.29553157781675,3.12230447907799,3.01697084763684,2.80248358930841,2.24862939543175,2.03285491715492,1.98423123582017,1.9403026297715,2.16528500071511,2.14605768577512,1.99751484135706,2.06207612616667,2.12895919620062,2.27511752201862,2.60508696550855,3.08086769771561,3.57352410246271,3.99190741314037,4.16102334291522,4.16711258604657,4.17524154540652,4.19928539438475,4.23875505007908,4.05901697048666,4.00002911753785,3.91681665372744,3.63610794389027,3.45652162028681,3.07982540113188,2.74982242274557,2.71654979633558,2.6692757026927,2.49132891687292,2.27286041462645,2.00033144888645,2.04119096112879,2.5607911130368,3.07021630755241,3.58931298478928,3.94597325282343,4.07606031564784,4.05189009932782,3.99238234988915,3.86326240389063,3.59949107098891,3.66746396328592,3.67323755507668,3.55959266357356,3.42538792576414,2.92476712873006,2.36006942215711,1.71954992985369,1.28353897228885,1.11267733740712,1.09976772248705,1.34148451935031,1.51103160304073,1.5738204366982,1.58966074292066,1.57366870675938,1.52958357010425,1.48956774356831,1.45829985177771,1.41104296890049,1.3372063662331,1.30239760432692,1.25430892669933,1.20889236208716,1.16254688410173,1.08972466715966,1.03096864273113,0.964179517855478,0.913607792576207,0.818196907637656,0.698899770522133,0.572413473585075,0.437937084972979,0.333823016629097,0.264288532272307,0.220398572528547,0.29898429613787,0.504959236675089,0.710934177212308,0.884063766576148,0.977467845909615,0.977467845909615,0.977467845909615,0.977467845909615,2.21729331276226,2.37246448923814,2.27850997986608,2.01885320802792,1.91633519235032,2.13109606733623,2.5006449399266,2.84162656794271,3.11683015495394,3.21009445019598,2.8437339149723,2.18009315502051,1.48520963700611,0.700700063685881,0.320242741926409,0.267229645489228,0.254426377452219,0.24162310941521,0.193909786315064,0.193909786315064,0.18022426813859,0.427811914039439,0.427811914039439,2.23831023379832,3.05575163915634,3.62609792943706,3.62326970540841,3.48795338603072,3.42883105949648,3.36096213607739,3.24311583050151,3.17981682635796,3.06222086908727,3.03709842173251,3.22733286713765,3.44681325429653,3.63571534417378,3.7410332580802,3.58731923030159,3.34664797140309,3.20423776312794,3.21543772446657,3.15171253267952,3.06863147691193,3.00636203734887,2.76113552633091,2.6445782874719,2.58307345378013,2.58146381317761,2.56660761591164,2.40957818193164,2.14068171486428,2.0036821530201,2.10769002892101,2.59672965811238,3.41336829322168,4.0456249424292,4.44694216989969,4.58140685548886,4.54784739197813,4.41171353750764,4.11980161006503,3.45237254279501,2.57300959555961,1.8132761832953599,1.26495236691969,1.08994198482465,1.0941553521877,1.04951287383506,0.923377529892307,0.73219376641568,0.606458353441558,0.476088411276131,0.368559931333931,0.31554683489675,0.25442637745222,0.206713054352074,0.180224268138591,0.128325442015707,0]
+            }],192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm06",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se_ac_02_9900",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["アスマ","character",{
+                  "action": [["$progress",1]],
+                  "class": "character",
+                  "name": "アスマ",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ace_009.mtn",
+                      "options": {
+                        "chara": "ace_009a",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 16.666666666666668,
+                        "variables": {
+                          "lip": 0.0,
+                          "progress": 1.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ユアン","character",{
+                  "class": "character",
+                  "link": "",
+                  "name": "ユアン",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 1
+          }],["アスマ",[[null,"I have no idea what's so special about that woman...",52]],[{
+              "labels": [0,"vlstart",175,"vlstop"],
+              "name": "アスマ",
+              "pan": 0,
+              "time": 2917,
+              "time_en": 3018,
+              "type": 0,
+              "voice": "ac_01_08_asu0004",
+              "vols": [0.0470500578844483,0.22813846681296,0.558939983561053,0.558939983561053,0.558939983561053,0.558939983561053,2.40520220928487,2.9059080331821,3.3750409636685,3.81933137323799,4.20995647631419,4.5122310348384,4.71433697629727,4.81039055066431,4.80799927165328,4.72385931503702,4.60143223097877,4.46538539897645,4.32893342121951,4.2184916839177,4.15437567193027,4.13025249342991,4.14176117940876,4.17196101972047,4.2142507080392,4.25922632363848,4.29285745330724,4.30704062651095,4.2917682559411,4.22306537098088,4.13507768461191,4.04693107672487,3.96729043602012,3.90784396149852,3.87061239165865,3.85263937656538,3.84956566795613,3.90011026550993,3.99579552133576,4.11926546877331,4.25768776805645,4.32407951956748,4.29531806920838,4.18850663722295,4.00338139221193,3.87143460814587,3.77596355577862,3.69660767683778,3.5735648435461,3.44032002525318,3.30365626704242,3.17345223636347,3.07005017289135,3.02790723546528,3.05565989794774,3.14465056783747,3.27954164492223,3.45367100701787,3.65237409902523,3.8029546509609,3.88429850096279,3.95839478264955,4.00954910304524,4.05035911020527,4.08448356723896,4.11580047002016,4.12536933873758,4.13119979828821,4.13673327344289,4.13489530645274,4.12614388466662,4.07741276012142,4.03652077325404,3.97405924790723,3.90413611250813,3.82505408541882,3.76683518304167,3.73429634900437,3.72544286157031,3.73505601767096,3.76556452778084,3.78376933870192,3.81001017162584,3.83451614971959,3.86938837923444,3.91841114253856,3.97135715557855,4.02548912486946,4.05066545738276,4.03800599286889,4.00766896866839,3.95800380940519,3.90661960572735,3.7889702529258,3.48514377543896,2.95376116369917,2.3412479465123,1.84232915480088,1.54120995369553,1.41500256136796,1.42385623594475,1.57973916084267,1.83283419400989,2.15816434991578,2.49669148431378,2.82843153757679,3.09043915630446,3.18787799999331,3.22648688182378,3.25621696878692,3.28264320709967,3.28217288639027,3.19178131944854,3.18016887319149,3.26192492362903,3.42082050804482,3.64763076422941,3.89473089672271,4.11335587951445,4.24087410458976,4.33700017003374,4.39156140497864,4.40764646970537,4.42052053230451,4.42483008503463,4.42573570677256,4.4397185781809,4.44358367976671,4.4183983347824,4.37285264325688,4.27992264940176,4.07374650768757,3.65232073853655,3.01699060582926,2.43373288548719,1.97823704395304,1.7493004184946,1.72661695280881,1.75614618138908,1.79270910926206,1.87930706451561,1.98954891342547,2.08880340006812,2.15981275583852,2.17100791666025,2.11800684760932,2.02314574699569,1.90739132394155,1.72307744596873,1.5953394163073,1.56523439314655,1.61713205995189,1.75453417345013,1.9478797834138,2.17064198101716,2.38916387538578,2.57462714570294,2.71198102009239,2.77025355877257,2.71722907200753,2.5796268620254,2.34641530722199,1.97999226398429,1.54375216387376,1.1082629063396,0.701918724940679,0.35592719724064,0.0865423393167703,-0.103452660497686,-0.216476525281508,-0.274230416365994,-0.280252047082349,-0.246581904901509,-0.188559285052923,-0.11804993669732,-0.0470110527946801],
+              "vols_en": [0.638775388349451,0.638775388349451,0.638775388349451,0.638775388349451,2.29232023166876,2.75259529395984,3.12211144479018,3.40637947288997,3.61111580768159,3.70570092103302,3.69557256174909,3.40079640061868,2.91647805314871,2.25703790901912,1.56031213200464,1.06844426296846,0.84333521208144,0.84333521208144,2.1878446451403,3.16002133286451,4.04566369758646,4.33269836347547,4.34063275996293,4.28911800213748,4.26404695541956,4.24972364621768,4.21162040474139,4.23072037266846,4.20370891655615,4.19751773273592,4.25690472398498,4.25471386580632,4.22585507277842,4.12071518363053,3.91565934859093,3.77862485072529,3.61670552087646,3.50709296039623,3.34704955748562,3.18970218347464,3.12760806038648,3.04752723675535,3.11338885031319,3.01776125058419,2.65916625673679,2.19384385900679,1.63719396469442,1.12609608359896,1.14543939048431,1.6649744645045,2.20817562798985,2.69912160416401,3.15867274438137,3.29023754760402,3.46261325630909,3.77071422312485,3.77016932873984,3.71277273058076,3.62162763983132,3.5813039779255,3.52596016851073,3.43485501633894,3.38482020293918,3.45600431671569,3.54697760496731,3.58682337064298,3.17415543807871,2.50607489322869,1.90588887163708,1.91241453453262,2.34167862727581,2.97536812319618,3.671869342469,3.81539870545866,3.90310656469195,3.63486611630126,3.1893673285331,2.82394747576132,2.50184747088771,2.3482914129855,2.31009991737493,2.54975142142931,2.96889371394029,3.51506253759035,4.03756630168592,4.2578340420657,4.30511995037494,4.29708729184975,4.2676105003165,4.2290541288451,4.27088855341608,4.29418476167313,4.08257913014909,3.34270195005799,2.38410102850248,1.41248512853643,0.692323388945063,0.486963384161663,0.618806261405867,0.618806261405867,2.19199597782946,3.21990506389458,3.94908133065606,4.15748866063695,3.85851450637466,3.51575911353536,3.42222783046471,3.39054633231523,3.46080071493031,3.60656921164969,3.58820745429511,3.47147075047728,3.16042152991666,3.00489736667526,2.87635087903425,2.98656785938721,3.27490120449272,3.3046929765756,3.2863891370433,3.19979838293716,2.95298590437642,2.61710040556189,2.17521762766159,1.68979202573676,1.26326237188618,0.945059043820734,0.945059043820734,0.945059043820734,2.09214385476732,2.64096837426589,3.01141479865866,2.88425985431187,2.55771595699203,2.12256948244456,1.51012847371845,0.960330918431284,0.67187396264643,0.523616333708238,0.507188014545979,0.507188014545979,0.507188014545979,2.58737680482031,3.31808501858848,3.29064371571914,2.87601636646591,2.44531867806851,1.90329834950367,1.54317135654929,1.42119382340593,1.53575045287043,2.05122632887542,2.60210205643335,3.11139125901283,3.40972760736392,3.47316066829075,3.48329975743901,3.39584346621542,3.30183063710472,3.21128014718802,3.12299576870642,3.08738076258003,3.05943214636615,2.87717803220886,2.61165495056905,2.38322396885232,2.20645642145194,2.03157193128374,2.10962233765393,2.15427162439529,2.14031684551597,2.31080691709519,2.21863128209414,2.07276522017812,2.01278890324855,2.03919892222853,2.25593695869681,2.40141039298548,2.26768976715437,1.781150482904,1.15438196160073,0.577163753757993,0]
+            }],192,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm06",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se_ac_02_9900",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["アスマ","character",{
+                  "action": [["$progress",1]],
+                  "class": "character",
+                  "name": "アスマ",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ace_009.mtn",
+                      "options": {
+                        "chara": "ace_009a",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 16.666666666666668,
+                        "variables": {
+                          "lip": 0.0,
+                          "progress": 1.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ユアン","character",{
+                  "class": "character",
+                  "link": "",
+                  "name": "ユアン",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 1
+          }],["アスマ",[[null,"...but she can't be more important than my GAIA.",48]],[{
+              "labels": [0,"vlstart",289,"vlstop"],
+              "name": "アスマ",
+              "pan": 0,
+              "time": 4820,
+              "time_en": 2694,
+              "type": 0,
+              "voice": "ac_01_08_asu0005",
+              "vols": [0.0553289015525182,0.372241164830503,0.892759860918872,0.892759860918872,2.30134420044295,3.10071120624864,3.87454802006434,4.53153153859372,5.01096336673146,5.2947458850717,5.39819507426988,5.34129870375987,5.08102500710601,4.6211070839325,3.86231168975484,2.87378815549291,1.9786492902112,1.32154893237523,1.1220929843669,1.31093401358378,1.78327301025858,2.45206874017987,3.21773112112682,3.95435456737677,4.57440152996743,5.04307132736517,5.34407025725478,5.44566131244041,5.3346008117056,5.07924647187352,4.67521621312111,4.07807191166549,3.36843794854377,2.8041652075411,2.51297332048715,2.48794883408069,2.71243240475552,3.11968675075382,3.61648921521239,4.10681561363363,4.51516637095802,4.80513742418727,4.9706642334245,4.98793159422347,4.89248122405242,4.73050519516319,4.53898369935198,4.34386623307072,4.17264769815831,4.03459084829739,3.92511876921159,3.89420632368652,3.91084389284274,3.98992382454095,4.10890393582328,4.1806531969523,4.23052648200092,4.25709435155012,4.22927407425256,4.17282308663881,4.07714666392498,3.9278100109742,3.75410330101135,3.55193635787103,3.34798832474624,3.09427004666132,2.86823235069733,2.73965117206942,2.67882826697442,2.67009710724142,2.70119144306041,2.7385596434107,2.77115886870455,2.78826610836707,2.80111989895653,2.84304244460379,2.906034944526,3.01374155295424,3.14146125497487,3.27335817906024,3.39315344988896,3.49440631174877,3.55954289328533,3.58491510239268,3.56332895678957,3.49323041062332,3.38339959942137,3.21447475018338,2.96873055715097,2.69014733464394,2.45144546949861,2.24764367026332,2.18963686308264,2.2821304406552,2.46632053564076,2.72436697420378,3.03367086831606,3.35797271371341,3.65792003209183,3.92164754779149,4.127900316499,4.23321977683699,4.15808350579866,3.94504310321758,3.66489257875876,3.35123662751993,3.03507205724266,2.71964285014085,2.43666128246568,2.32932789934833,2.40632283363653,2.57033209329274,2.79294175766878,3.03525750537193,3.32168237680667,3.62936311015461,3.89627801568474,4.01827435687733,3.9692495178454,3.63553757464449,3.17448917054786,2.70149164067392,2.22803095227057,1.86566238710449,1.66625582637667,1.61665358763077,1.67348060298475,1.78642587128719,1.95279133839657,2.22799114969941,2.53492484148245,2.84832910000195,3.16382922507098,3.43535164025698,3.6625214448456,3.84752867672853,3.97446234226756,4.04579946853837,4.07392075907003,4.06057421648281,4.01576640124844,3.88806891219366,3.65280650847722,3.351996269938,3.0839492660386,2.91895633237501,2.88357893549139,2.98061723766772,3.19039778519174,3.46530507059249,3.73315123004455,3.93329053186521,4.05881088813037,4.10469812818058,4.06217294378076,3.87950791903041,3.4909787662451,2.88696397709499,2.11863780991701,1.29128981760914,0.678214532731716,0.46643883783351,0.616629513581258,0.616629513581258,0.616629513581258,2.40910649447852,3.09113516026239,3.6622679433726,4.08139305634963,4.36848572015643,4.53619563849288,4.58365991351412,4.51049752509593,4.36241518891435,4.18493069823898,4.0097559470011,3.84711591107403,3.69753625794591,3.57074683954551,3.47207455250461,3.3724607006808,3.19329314946074,2.95314925338102,2.66802049309618,2.34646287411787,2.00931944181233,1.69709406244913,1.40826409261874,1.14405982356998,0.909404059634257,0.686965784805222,0.471954579361857,0.254467032325022,0.0613797218442876,-0.0932298721431031,-0.20265259087661,-0.261986385904387,-0.275189834838719,-0.250811626039574,-0.199613107938736,-0.133848826271797,-0.0459970719005695,0.101783898860583,0.283912412655144,0.564354844572904,0.929809440246188,0.929809440246188,0.929809440246188,2.23400374241537,2.64225289317976,2.9880647761101,3.23907319647077,3.36796346566456,3.37690835563328,3.29610936634419,3.05970698187955,2.63948158672915,2.07413542597826,1.44097300295406,0.807615914084794,0.449145207212761,0.437391638372289,0.700016735441303,0.700016735441303,0.700016735441303,2.45190254944185,3.05808314735486,3.54747971938004,3.89276918298517,4.07757134175682,4.12726700210245,4.06147554538655,3.90793616872347,3.71245421358558,3.51315469992182,3.35028692129511,3.24132769552608,3.17619338558426,3.13603496524138,3.14419958501315,3.1915924666444,3.26932092805332,3.36589878544491,3.47513679984497,3.58451560778024,3.68929963646153,3.77878206691038,3.85153420224211,3.90372766196242,3.92506850585421,3.9197260758762,3.90310376066026,3.85968182603674,3.80123289819377,3.71001248663357,3.60817981746644,3.48770186093324,3.35250187290473,3.20701042470232,3.06395902266092,2.90809046411819,2.76880763305738,2.65623853828045,2.56331680878088,2.48531376595232,2.41967626770688,2.38055562136988,2.35137161711588,2.33027398336796,2.31061655711211,2.30228597972328,2.30431785287268,2.3037767287109,2.28852559473755,2.26013698482437,2.12983206286863,1.87314424344623,1.56154603278924,1.23324675237386,0.936582727539242,0.672215580363813,0.451786721534134,0.275503916008934,0.136166810656414,0.0155172038316055,-0.0737273324188557,-0.130752239354553,-0.158868405985388,-0.159784938926656,-0.139871721813625],
+              "vols_en": [0,2.01361087337676,2.6863953161352,2.92730989445438,2.65154734970695,2.11265672523819,1.69597597599285,1.86182512214238,2.52611781089972,3.2884751862272,3.88672993457873,4.02284500690224,4.03576196702988,3.82835998151691,3.36555347228495,2.75913133783398,1.95444055598221,1.31845893291563,0.987190679028164,0.838195661027074,0.838195661027074,0.838195661027074,2.49785257949027,3.17290501766675,3.38472997457685,3.52070964760479,3.44114247029198,3.48620069390562,3.7464864155396,3.95293228947814,4.2088301115693,4.17571069809508,3.82984350411464,3.50613183510128,3.02888161666718,2.40381639643398,1.74177474817856,1.11871321962901,0.742304977268204,0.742304977268204,0.742304977268204,2.17527281394118,2.75149799809926,3.04229742477599,3.151373765566,3.23265533293292,3.35762390251527,3.37939499448303,3.34885376468208,3.28403998894373,3.28026335115539,3.31403233403727,3.52555727433929,3.79080122506637,3.99798745127062,4.12483702849777,4.12907579009016,4.08103325469368,3.96195017711561,3.86807145037592,3.63722280405404,3.32925272986058,2.82540185570143,2.22242129662654,1.67775751298532,1.30100885397926,1.28005572972262,1.35653997595587,1.55964216813275,1.70806249039494,1.79789723239798,2.0555398627271,2.6248078309488,3.22831755570962,3.69071829036956,3.91148868484124,3.80428061318027,3.57922168461278,3.35597291941892,2.94217105427097,2.32510612899229,2.28162036964813,2.22996680368094,2.42698087939478,2.70060796157459,2.34616112416066,1.95922912427069,1.5364525821459,1.42428165191078,1.67640439177878,2.12887177101884,2.57639703503472,2.83222101429816,2.87406165554767,2.85936474462026,2.97807554716893,3.13256284807073,3.36852338485593,3.61936033846329,3.82644894737063,4.02751319565842,4.17832113834741,4.3543611910842,4.54121700475077,4.65912209338553,4.73955471943142,4.76040810702663,4.74839110089595,4.69143922970288,4.59876123832574,4.4786720496615,4.39126479502504,4.28597541811061,4.13602340562161,3.94478112703034,3.67126399874685,3.40775487812586,3.16552098702292,2.95100777252653,2.77652352685894,2.6201714531283,2.32803172191121,1.95441303959727,1.54404268051805,1.1193611841623,0.880587776181292,0.743432866220679,0.675033264347118,0.644287076739646,0.673779947718421,0.673779947718421,2.43813524462475,3.44251999396202,4.35027276295735,4.56544889383388,4.41293542930086,4.13527320640507,3.8454875997936,3.54608725974854,3.38596106764973,3.33858036383136,3.40939855229875,3.36660632196424,3.17091489438174,3.02187237768181,2.80040885983831,2.69258563657954,2.62385055177013,2.61242495533071,2.65601148403805,2.80325709316135,3.04393750496069,3.18350871747655,3.3641657974357,3.29241814296004,3.30679205082676,3.10808721718262,2.59941861533085,2.08223359372204,1.40235295569887,0.786599972876596,0]
+            }],208,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "acb_1030x"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm06",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": "se_ac_02_9900",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["se","se",{
+                  "name": "se"
+                }],["ユアン","character",{
+                  "class": "character",
+                  "link": "",
+                  "name": "ユアン",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "action": [["cameray",300],["camerazoom",250],["camerax",100]],
+              "name": "env"
+            },
+            "msgwin": 1
+          }]],
+      "title": "",
+      "version": 1.0
+    }]
+}

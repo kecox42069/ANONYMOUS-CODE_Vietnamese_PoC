@@ -1,0 +1,2353 @@
+{
+  "hash": "9093f0fa0b33deb39cc1f5e4d9237930",
+  "name": "ac_03_01.ks",
+  "outlines": [],
+  "scenes": [{
+      "firstLine": 0,
+      "label": "*start",
+      "lines": [[1,{
+            "data": [],
+            "env": {
+              "action": [["cameray",250],["camerazoom",200],null,["cameray",0],["camerazoom",100],null],
+              "name": "env"
+            },
+            "msgwin": 1
+          },null,1,1],["envupdate","update",[["init",0],["new","bgm","bgm"],{
+              "action": [null],
+              "name": "env"
+            }],"wait",{
+            "list": [{
+                "mode": 0,
+                "name": "env"
+              }]
+          }],[2,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 0
+          },null,null,1],["startline"],["meswinload","page","both"],[3,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand"
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 0
+          },null,null,1],["envupdate","pretrans",[["new","retina_frame","retina_ui"]],"update",[{
+              "action": [["leveloffset",""],["originz",-400],null],
+              "class": "retina_ui",
+              "link": "",
+              "name": "retina_frame",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "ac_envretinaui.mtn",
+                  "options": {
+                    "chara": "bmi",
+                    "motion": "stand"
+                  }
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "trans": {
+                "method": "crossfade",
+                "sync": 1,
+                "time": 1000
+              },
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "retina_frame"
+              }]
+          },"trans",{
+            "method": "crossfade",
+            "time": 1000
+          }],"cg_ac_envretinaui.mtn",[4,{
+            "data": [["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand"
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 0
+          },null,null,1],["envupdate","update",[{
+              "action": [["$state",0]],
+              "name": "retina_frame",
+              "showmode": 3
+            }]],["reactena","id","0"],["msgwin","type","1"],["bmicol","type","1"],["envupdate","update",[{
+              "name": "bgm",
+              "replay": {
+                "filename": "bgm25",
+                "loop": 1,
+                "start": null,
+                "state": 1,
+                "volume": 100.0
+              },
+              "trans": {
+                "method": "",
+                "time": 0
+              }
+            }]],"bgm_BGM25",[5,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337],["xpos",800],["zoomy",130],["ypos",-200],["zoomx",130]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "acb_0000a"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm25",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["efc2","effect2",{
+                  "action": [["originz",-800],["$param",11],["zpos",-44.444444444444443]],
+                  "class": "effect2",
+                  "name": "efc2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "effect.mtn",
+                      "options": {
+                        "chara": "effect",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 183.33333333333334,
+                        "variables": {
+                          "param": 11.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ibg","event2",{
+                  "action": [["zpos",-23.07692307692308],["$progress",1]],
+                  "class": "event2",
+                  "name": "ibg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "aci_007a.mtn",
+                      "options": {
+                        "chara": "IBG_Window",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 16.666666666666668,
+                        "variables": {
+                          "progress": 1.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 1
+          },null,null,37],["envupdate","update",[["new","efc2","effect2"],["new","bg","stage"],["new","ibg","event2"],{
+              "action": [null,["zpos",233.33333333333337],null,["leveloffset",""],["zoomx",130],["zoomy",130],["xpos",800],["ypos",-200]],
+              "class": "stage",
+              "link": "",
+              "name": "bg",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "acb_0000a"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            },{
+              "action": [["leveloffset",""],["zpos",-44.444444444444443],["originz",-800],null,["$param",11]],
+              "class": "effect2",
+              "link": "",
+              "name": "efc2",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "effect.mtn",
+                  "options": {
+                    "chara": "effect",
+                    "motion": "stand"
+                  }
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            },{
+              "action": [["leveloffset",""],["zpos",-23.07692307692308],null,["$progress",1]],
+              "class": "event2",
+              "link": "",
+              "name": "ibg",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "aci_007a.mtn",
+                  "options": {
+                    "chara": "IBG_Window",
+                    "motion": "stand"
+                  }
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            },{
+              "action": [null],
+              "class": "retina_ui",
+              "link": "",
+              "name": "retina_frame",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "ac_envretinaui.mtn"
+                },
+                "posName": null
+              },
+              "showmode": 3,
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "begin": {
+              "bgcolor": 4294967295,
+              "bwait": "500",
+              "method": "crossfade",
+              "msgoff": 1,
+              "time": 500.0,
+              "wait": 500
+            },
+            "bgcolor": 4294967295,
+            "blacktrans": 1,
+            "bwait": "500",
+            "end": {
+              "bgcolor": 4294967295,
+              "bwait": "500",
+              "method": "crossfade",
+              "msgoff": 1,
+              "time": 500.0
+            },
+            "method": "crossfade",
+            "msgoff": 1,
+            "time": "1000"
+          },"msgoff",1],"cg_effect.mtn","cg_aci_007a.mtn",[6,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337],["xpos",800],["zoomy",130],["ypos",-200],["zoomx",130]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "acb_0000a"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm25",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["efc2","effect2",{
+                  "action": [["originz",-800],["$param",11],["zpos",-44.444444444444443]],
+                  "class": "effect2",
+                  "name": "efc2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "effect.mtn",
+                      "options": {
+                        "chara": "effect",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 183.33333333333334,
+                        "variables": {
+                          "param": 11.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ibg","event2",{
+                  "action": [["zpos",-23.07692307692308],["$progress",1]],
+                  "class": "event2",
+                  "name": "ibg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "aci_007a.mtn",
+                      "options": {
+                        "chara": "IBG_Window",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 16.666666666666668,
+                        "variables": {
+                          "progress": 1.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 1
+          },null,null,42],["startline"],["autosave"],[7,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337],["xpos",800],["zoomy",130],["ypos",-200],["zoomx",130]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "acb_0000a"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm25",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["efc2","effect2",{
+                  "action": [["originz",-800],["$param",11],["zpos",-44.444444444444443]],
+                  "class": "effect2",
+                  "name": "efc2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "effect.mtn",
+                      "options": {
+                        "chara": "effect",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 183.33333333333334,
+                        "variables": {
+                          "param": 11.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-23.07692307692308],["$progress",1]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "acb_031a.mtn",
+                      "options": {
+                        "chara": "acb_031a",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 1.0,
+                        "variables": {
+                          "progress": 1.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 1
+          },null,null,44],["playvoice","name","管制官","voice","ac_03_01_ctr0000"],["waitvoice"],["playvoice","name","クロス","voice","ac_03_01_crs0000"],["waitvoice"],["envupdate","update",[["new","ev","event"],{
+              "action": [["leveloffset",""],["zpos",-23.07692307692308],null,["$progress",1]],
+              "class": "event",
+              "link": "",
+              "name": "ev",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "acb_031a.mtn",
+                  "options": {
+                    "chara": "acb_031a",
+                    "motion": "stand"
+                  }
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            },{
+              "name": "ibg",
+              "showmode": 2
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "begin": {
+              "bgcolor": 4294967295,
+              "bwait": "500",
+              "method": "crossfade",
+              "msgoff": 1,
+              "time": 250.0,
+              "wait": 500
+            },
+            "bgcolor": 4294967295,
+            "blacktrans": 1,
+            "bwait": "500",
+            "end": {
+              "bgcolor": 4294967295,
+              "bwait": "500",
+              "method": "crossfade",
+              "msgoff": 1,
+              "time": 250.0
+            },
+            "method": "crossfade",
+            "msgoff": 1,
+            "time": "500"
+          },"msgoff",1],["envupdate","update",[["del","ibg"]]],"cg_acb_031a.mtn",[8,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337],["xpos",800],["zoomy",130],["ypos",-200],["zoomx",130]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "acb_0000a"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm25",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["efc2","effect2",{
+                  "action": [["originz",-800],["$param",11],["zpos",-44.444444444444443]],
+                  "class": "effect2",
+                  "name": "efc2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "effect.mtn",
+                      "options": {
+                        "chara": "effect",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 183.33333333333334,
+                        "variables": {
+                          "param": 11.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-23.07692307692308],["$progress",1]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "acb_031a.mtn",
+                      "options": {
+                        "chara": "acb_031a",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 1.0,
+                        "variables": {
+                          "progress": 1.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 1
+          },null,null,65],["startline"],["playvoice","name","機長","voice","ac_03_01_plc0000"],["waitvoice"],["playvoice","name","モモ","voice","ac_03_01_mom0000"],["waitvoice"],["envupdate","update",[["del","ev"],["new","ev","event"],{
+              "action": [["leveloffset",""],["zpos",-23.07692307692308],null,["$progress",1]],
+              "class": "event",
+              "link": "",
+              "name": "ev",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "acb_033a.mtn",
+                  "options": {
+                    "chara": "acb_033a",
+                    "motion": "stand"
+                  }
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "begin": {
+              "bgcolor": 4294967295,
+              "bwait": "500",
+              "method": "crossfade",
+              "msgoff": 1,
+              "time": 250.0,
+              "wait": 500
+            },
+            "bgcolor": 4294967295,
+            "blacktrans": 1,
+            "bwait": "500",
+            "end": {
+              "bgcolor": 4294967295,
+              "bwait": "500",
+              "method": "crossfade",
+              "msgoff": 1,
+              "time": 250.0
+            },
+            "method": "crossfade",
+            "msgoff": 1,
+            "time": "500"
+          },"msgoff",1],"cg_acb_033a.mtn",[9,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337],["xpos",800],["zoomy",130],["ypos",-200],["zoomx",130]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "acb_0000a"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm25",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["efc2","effect2",{
+                  "action": [["originz",-800],["$param",11],["zpos",-44.444444444444443]],
+                  "class": "effect2",
+                  "name": "efc2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "effect.mtn",
+                      "options": {
+                        "chara": "effect",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 183.33333333333334,
+                        "variables": {
+                          "param": 11.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-23.07692307692308],["$progress",1]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "acb_033a.mtn",
+                      "options": {
+                        "chara": "acb_033a",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 1.0,
+                        "variables": {
+                          "progress": 1.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 1
+          },null,null,86],["startline"],["playvoice","name","ウインド","voice","ac_03_01_win0000"],["waitvoice"],["playvoice","name","クロス","voice","ac_03_01_crs0001"],["waitvoice"],["envupdate","update",[["del","ev"],["new","ev","event"],{
+              "action": [["xpos",0],["ypos",0],null,["zoomx",100],["zoomy",100]],
+              "class": "stage",
+              "link": "",
+              "name": "bg",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "acb_0000a"
+                },
+                "posName": null
+              },
+              "showmode": 3,
+              "type": null
+            },{
+              "action": [["leveloffset",""],["zpos",-23.07692307692308],null,["$progress",1]],
+              "class": "event",
+              "link": "",
+              "name": "ev",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "acb_201a.mtn",
+                  "options": {
+                    "chara": "acb_201a",
+                    "motion": "stand"
+                  }
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            },{
+              "action": [null],
+              "class": "retina_ui",
+              "link": "",
+              "name": "retina_frame",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "ac_envretinaui.mtn"
+                },
+                "posName": null
+              },
+              "showmode": 3,
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "begin": {
+              "bgcolor": 4294967295,
+              "bwait": "500",
+              "method": "crossfade",
+              "msgoff": 1,
+              "time": 250.0,
+              "wait": 500
+            },
+            "bgcolor": 4294967295,
+            "blacktrans": 1,
+            "bwait": "500",
+            "end": {
+              "bgcolor": 4294967295,
+              "bwait": "500",
+              "method": "crossfade",
+              "msgoff": 1,
+              "time": 250.0
+            },
+            "method": "crossfade",
+            "msgoff": 1,
+            "time": "500"
+          },"msgoff",1],"cg_acb_201a.mtn",[10,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "acb_0000a"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm25",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["efc2","effect2",{
+                  "action": [["originz",-800],["$param",11],["zpos",-44.444444444444443]],
+                  "class": "effect2",
+                  "name": "efc2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "effect.mtn",
+                      "options": {
+                        "chara": "effect",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 183.33333333333334,
+                        "variables": {
+                          "param": 11.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ev","event",{
+                  "action": [["zpos",-23.07692307692308],["$progress",1]],
+                  "class": "event",
+                  "name": "ev",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "acb_201a.mtn",
+                      "options": {
+                        "chara": "acb_201a",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 1.0,
+                        "variables": {
+                          "progress": 1.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 1
+          },null,null,108],["startline"],["playvoice","name","オズ","voice","ac_03_01_ozu0000"],["waitvoice"],["playvoice","name","ポロン","voice","ac_03_01_pol0000"],["waitvoice"],["envupdate","update",[{
+              "action": [null,["leveloffset",""]],
+              "class": "stage",
+              "link": "",
+              "name": "bg",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "acb_9000a"
+                },
+                "posName": null
+              },
+              "showmode": 3,
+              "type": null
+            },{
+              "name": "ev",
+              "showmode": 2
+            },{
+              "action": [null],
+              "class": "retina_ui",
+              "link": "",
+              "name": "retina_frame",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "ac_envretinaui.mtn"
+                },
+                "posName": null
+              },
+              "showmode": 3,
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "begin": {
+              "bgcolor": 4294967295,
+              "bwait": "500",
+              "method": "crossfade",
+              "msgoff": 1,
+              "time": 250.0,
+              "wait": 500
+            },
+            "bgcolor": 4294967295,
+            "blacktrans": 1,
+            "bwait": "500",
+            "end": {
+              "bgcolor": 4294967295,
+              "bwait": "500",
+              "method": "crossfade",
+              "msgoff": 1,
+              "time": 250.0
+            },
+            "method": "crossfade",
+            "msgoff": 1,
+            "time": "500"
+          },"msgoff",1],["envupdate","update",[["del","ev"]]],[11,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "acb_9000a"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm25",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["efc2","effect2",{
+                  "action": [["originz",-800],["$param",11],["zpos",-44.444444444444443]],
+                  "class": "effect2",
+                  "name": "efc2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "effect.mtn",
+                      "options": {
+                        "chara": "effect",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 183.33333333333334,
+                        "variables": {
+                          "param": 11.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 1
+          },null,null,128],["startline"],["playvoice","name","オズ","voice","ac_03_01_ozu0001"],["waitvoice"],["playvoice","name","ノンノ","voice","ac_03_01_non0000"],["waitvoice"],["envupdate","update",[{
+              "action": [null,["leveloffset",""]],
+              "class": "stage",
+              "link": "",
+              "name": "bg",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "acb_0024a"
+                },
+                "posName": null
+              },
+              "showmode": 3,
+              "type": null
+            },{
+              "action": [null],
+              "class": "retina_ui",
+              "link": "",
+              "name": "retina_frame",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "ac_envretinaui.mtn"
+                },
+                "posName": null
+              },
+              "showmode": 3,
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "begin": {
+              "bgcolor": 4294967295,
+              "bwait": "500",
+              "method": "crossfade",
+              "msgoff": 1,
+              "time": 250.0,
+              "wait": 500
+            },
+            "bgcolor": 4294967295,
+            "blacktrans": 1,
+            "bwait": "500",
+            "end": {
+              "bgcolor": 4294967295,
+              "bwait": "500",
+              "method": "crossfade",
+              "msgoff": 1,
+              "time": 250.0
+            },
+            "method": "crossfade",
+            "msgoff": 1,
+            "time": "500"
+          },"msgoff",1],[12,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "acb_0024a"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm25",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["efc2","effect2",{
+                  "action": [["originz",-800],["$param",11],["zpos",-44.444444444444443]],
+                  "class": "effect2",
+                  "name": "efc2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "effect.mtn",
+                      "options": {
+                        "chara": "effect",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 183.33333333333334,
+                        "variables": {
+                          "param": 11.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 1
+          },null,null,147],["startline"],["playvoice","name","クロス","voice","ac_03_01_crs0002"],["waitvoice"],["playvoice","name","ポロン","voice","ac_03_01_pol0001"],["waitvoice"],["envupdate","update",[["new","ibg","event2"],{
+              "action": [["leveloffset",""],["zpos",-23.07692307692308],null,["$progress",1]],
+              "class": "event2",
+              "link": "",
+              "name": "ibg",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "aci_011a.mtn",
+                  "options": {
+                    "chara": "IBG_Window",
+                    "motion": "stand"
+                  }
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "begin": {
+              "bgcolor": 4294967295,
+              "bwait": "500",
+              "method": "crossfade",
+              "msgoff": 1,
+              "time": 250.0,
+              "wait": 500
+            },
+            "bgcolor": 4294967295,
+            "blacktrans": 1,
+            "bwait": "500",
+            "end": {
+              "bgcolor": 4294967295,
+              "bwait": "500",
+              "method": "crossfade",
+              "msgoff": 1,
+              "time": 250.0
+            },
+            "method": "crossfade",
+            "msgoff": 1,
+            "time": "500"
+          },"msgoff",1],"cg_aci_011a.mtn",[13,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "acb_0024a"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm25",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["efc2","effect2",{
+                  "action": [["originz",-800],["$param",11],["zpos",-44.444444444444443]],
+                  "class": "effect2",
+                  "name": "efc2",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "effect.mtn",
+                      "options": {
+                        "chara": "effect",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 183.33333333333334,
+                        "variables": {
+                          "param": 11.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["ibg","event2",{
+                  "action": [["zpos",-23.07692307692308],["$progress",1]],
+                  "class": "event2",
+                  "name": "ibg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "aci_011a.mtn",
+                      "options": {
+                        "chara": "IBG_Window",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 16.666666666666668,
+                        "variables": {
+                          "progress": 1.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 1
+          },null,null,166],["startline"],["playvoice","name","クロス","voice","ac_03_01_crs0003"],["waitvoice"],["playvoice","name","ポロン","voice","ac_03_01_pol0002"],["waitvoice"],["msgoff"],["envupdate","update",[["new","white_efc","effect2"],{
+              "name": "efc2",
+              "showmode": 2
+            },{
+              "name": "ibg",
+              "showmode": 2
+            },{
+              "action": [["leveloffset",""],["zpos",-44.444444444444443],["originz",-800],null],
+              "class": "effect2",
+              "link": "",
+              "name": "white_efc",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "bg_white"
+                },
+                "posName": null
+              },
+              "showmode": 1,
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "crossfade",
+            "time": "250"
+          }],["envupdate","update",[["del","efc2"],["del","ibg"]]],"cg_bg_white",[14,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "acb_0024a"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm25",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["white_efc","effect2",{
+                  "action": [["originz",-800],["zpos",-44.444444444444443]],
+                  "class": "effect2",
+                  "name": "white_efc",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "bg_white"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 1
+          },null,null,185],["startline"],["calendar","mon","11","day","26","wday","木"],["msgwin","type","0"],["envupdate","update",[["new","se","se"],{
+              "name": "se",
+              "replay": {
+                "filename": "se_ac_01_0700",
+                "start": null,
+                "time": 0,
+                "volume": 100.0
+              }
+            }]],[15,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337],["xpos",-800],["zoomy",130],["ypos",300],["zoomx",130]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "acb_0060x"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm25",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 0
+          },null,null,193],["envupdate","update",[{
+              "action": [null,["leveloffset",""],["zoomx",130],["zoomy",130],["xpos",-800],["ypos",300]],
+              "class": "stage",
+              "link": "",
+              "name": "bg",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "acb_0060x"
+                },
+                "posName": null
+              },
+              "showmode": 3,
+              "type": null
+            },{
+              "action": [null],
+              "class": "retina_ui",
+              "link": "",
+              "name": "retina_frame",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "ac_envretinaui.mtn"
+                },
+                "posName": null
+              },
+              "showmode": 3,
+              "type": null
+            },{
+              "name": "white_efc",
+              "showmode": 2
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "begin": {
+              "bgcolor": 4278190080,
+              "method": "universal",
+              "msgoff": 1,
+              "rule": "map03b",
+              "time": 125.0,
+              "vague": "64"
+            },
+            "bgcolor": 4278190080,
+            "blacktrans": 1,
+            "end": {
+              "bgcolor": 4278190080,
+              "method": "universal",
+              "msgoff": 1,
+              "rule": "map03b",
+              "time": 125.0,
+              "vague": "64"
+            },
+            "method": "universal",
+            "msgoff": 1,
+            "rule": "map03b",
+            "time": "250",
+            "vague": "64"
+          },"msgoff",1],["envupdate","update",[["del","white_efc"]]],[16,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337],["xpos",-800],["zoomy",130],["ypos",300],["zoomx",130]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "acb_0060x"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm25",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["se","se",{
+                  "name": "se"
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 0
+          },1,null,205,208,null,null],["startline","vflag",0,"name","モモ","text",1],["quake","time","500"],["restartmsgwin","name","show","talk","1"],1,[17,1,null,null,205],["envupdate","update",[["new","モモ","character"]]],["startline"],["envupdate","update",[{
+              "action": [["zoomx",100],["zoomy",100],["xpos",0],["ypos",0]],
+              "name": "bg",
+              "showmode": 3
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }]
+          },"trans",{
+            "method": "crossfade",
+            "time": "500"
+          }],[18,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "acb_0060x"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm25",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["se","se",{
+                  "name": "se"
+                }],["モモ","character",{
+                  "class": "character",
+                  "link": "",
+                  "name": "モモ",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 0
+          },2,null,215,192,null,null],["startline","vflag",0,"name","モモ","text",1],2,[19,2,null,null,215],["startline"],[20,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "showmode": 0,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm25",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["opacity",0],["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["se","se",{
+                  "name": "se"
+                }],["モモ","character",{
+                  "action": [["leveloffset","#0,50,0,0,0,-50,0,50"]],
+                  "class": "character",
+                  "link": "",
+                  "name": "モモ",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 0
+          },null,null,220],["clickskip","enabled","false"],["msgoff"],["envupdate","update",[{
+              "name": "bgm",
+              "replay": {
+                "filename": "bgm25",
+                "loop": 1,
+                "start": null,
+                "state": 0,
+                "volume": 100.0
+              },
+              "trans": {
+                "method": "",
+                "time": "3000"
+              }
+            }]],["envupdate","update",[{
+              "name": "se",
+              "stop": 3000
+            }]],["envupdate","update",[["new","lse","loopse"]]],[21,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "showmode": 0,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm25",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["opacity",0],["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["se","se",{
+                  "name": "se"
+                }],["モモ","character",{
+                  "action": [["leveloffset","#0,50,0,0,0,-50,0,50"]],
+                  "class": "character",
+                  "link": "",
+                  "name": "モモ",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 0
+          },null,null,220],["envupdate","update",[{
+              "class": "stage",
+              "link": "",
+              "name": "bg",
+              "showmode": 2,
+              "type": null
+            },{
+              "action": [["opacity",0]],
+              "class": "retina_ui",
+              "link": "",
+              "name": "retina_frame",
+              "redraw": {
+                "disp": 2,
+                "imageFile": {
+                  "file": "ac_envretinaui.mtn"
+                },
+                "posName": null
+              },
+              "showmode": 3,
+              "type": null
+            }],"wait",{
+            "list": [null,{
+                "mode": 0,
+                "name": "env"
+              }],
+            "wait": 2000
+          },"trans",{
+            "method": "crossfade",
+            "time": 2000
+          }],[22,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "showmode": 0,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm25",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["opacity",0],["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["se","se",{
+                  "name": "se"
+                }],["モモ","character",{
+                  "action": [["leveloffset","#0,50,0,0,0,-50,0,50"]],
+                  "class": "character",
+                  "link": "",
+                  "name": "モモ",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 0
+          },null,null,220],["startline"],["envupdate","wait",{
+            "list": [{
+                "mode": 0,
+                "name": "bgm"
+              }],
+            "wait": 1
+          }],[23,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "showmode": 0,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm25",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["opacity",0],["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["se","se",{
+                  "name": "se"
+                }],["モモ","character",{
+                  "action": [["leveloffset","#0,50,0,0,0,-50,0,50"]],
+                  "class": "character",
+                  "link": "",
+                  "name": "モモ",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 0
+          },null,null,220],["startline","vflag",0,"name","","text",1],[24,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "showmode": 0,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm25",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["opacity",0],["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["se","se",{
+                  "name": "se"
+                }],["モモ","character",{
+                  "action": [["leveloffset","#0,50,0,0,0,-50,0,50"]],
+                  "class": "character",
+                  "link": "",
+                  "name": "モモ",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 0
+          },null,null,220],["clickskip","enabled","true"],["er","all","true"],[25,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "showmode": 0,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm25",
+                    "loop": 1,
+                    "start": null,
+                    "state": 0,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 0
+                  }
+                }],["lse","loopse",{
+                  "name": "lse",
+                  "replay": {
+                    "filename": null,
+                    "loop": null,
+                    "start": null,
+                    "state": null,
+                    "volume": null
+                  },
+                  "update": {
+                    "state": null
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["opacity",0],["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["se","se",{
+                  "name": "se"
+                }],["モモ","character",{
+                  "action": [["leveloffset","#0,50,0,0,0,-50,0,50"]],
+                  "class": "character",
+                  "link": "",
+                  "name": "モモ",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 0
+          },null,1,223]],
+      "nexts": [{
+          "storage": "ac_03_02.ks",
+          "type": 0
+        }],
+      "spCount": 25,
+      "texts": [["モモ",[[null,"Ngh?!",5]],[{
+              "labels": [0,"vlstart",109,"vlstop"],
+              "name": "モモ",
+              "pan": 0,
+              "time": 1821,
+              "time_en": 1565,
+              "type": 0,
+              "voice": "ac_03_01_mom0001",
+              "vols": [0.151324726768266,0.620258099353032,0.620258099353032,2.16933195828484,3.10650577087983,3.9106427552111,4.43876679730838,4.60737224808485,4.39223921101854,3.82452199456194,2.9998871513321,2.17831138971458,1.59502493806406,1.3930724783289,1.55428419120318,2.00774889970558,2.66406426700211,3.40984269420021,4.13409638894921,4.75174716987263,5.2009787823961,5.44288038595524,5.390737869237,5.10039252307507,4.65844333545746,4.12348465354735,3.57096021089753,3.06958163538659,2.64770380852416,2.32736317937607,2.09888655164716,1.92242458502444,1.73125517756458,1.48210916444472,1.15612803516928,0.774892143231346,0.391763475999288,0.0460787484676514,-0.230531978534897,-0.418044373447848,-0.512879922000227,-0.522846948893419,-0.464437624147833,-0.359538365729941,-0.231124302701919,-0.100315524214582,0.0388636172937698,0.172676194236223,0.284814380440958,0.376636779544515,0.455802218919267,0.545137188029258,0.654461131375512,0.766481193176842,0.897225488472072,0.897225488472072,0.897225488472072,0.897225488472072,0.897225488472072,0.897225488472072,0.897225488472072,0.897225488472072,0.897225488472072,0.897225488472072,0.897225488472072,0.897225488472072,0.897225488472072,0.897225488472072,0.897225488472072,0.897225488472072,0.897225488472072,0.897225488472072,0.897225488472072,0.897225488472072,0.970172241650806,0.891434753780108,0.79693696981863,0.682386897864681,0.545376211207099,0.375283709639633,0.253249064564938,0.24337912004793,0.369464795470637,0.642419127326251,0.642419127326251,0.642419127326251,2.04493044522525,2.52078479939633,2.91186734840324,3.16802035978353,3.29717462394746,3.30228543526333,3.2009702616211,3.02051026699074,2.79221682302285,2.56226714222276,2.33733774458228,2.14702899209415,1.99692211362045,1.87077937692665,1.75026108833744,1.60637064470621,1.40089002788581,1.11246325722078,0.764532021919737,0.40775637913484297,0.0799423813592176,-0.186969178348064,-0.372500056529041,-0.471638087663273],
+              "vols_en": [2.22449324896623,2.87494388335845,3.42483518005466,3.43609674251851,3.67362845781298,3.92613728021204,3.82316322157607,3.55446217982673,3.2587790469792,3.01704599576237,2.70227212976045,2.17346165601062,2.07185215738134,2.35675229850757,2.82317245913984,3.55159631428407,3.85122279368609,3.86057096632721,3.76111921801634,3.5458316735056,3.19165931612502,2.75577657546152,2.32057067869651,1.94000059148691,1.70060061729738,1.54165180103336,1.47615750925792,1.41195650897295,1.37284467792626,1.30364778470549,1.21567276180519,1.10419827912514,0.91834810206014,0.722690618733268,0.573044193859683,0.619105770966682,0.851046364498305,0.851046364498305,0.851046364498305,2.34106055713259,2.83707079947238,3.16679207077372,3.44797104229089,3.61670535992384,3.71927098315262,3.75926081537576,3.71279088566379,3.63371855856686,3.46798934351517,3.31606918475107,3.1489591144032,2.99775948003098,2.92053092563303,2.89087573068394,2.90821573012513,2.96088386695967,3.02084945309454,3.04462766140827,3.05866945331902,3.07203008910366,3.03846293987289,2.93402972295786,2.72486042375143,2.38810026282948,1.9927016696469,1.61380471000871,1.19663081683129,0.946849225810841,0.890185135105523,0.890185135105523,0.890185135105523,2.11698554958847,2.54877309467232,2.78589346717853,2.78623331165118,2.67480313466776,2.47054088441338,2.23856566281009,2.0239053804186,1.79559340781101,1.61040742637383,1.44182528153199,1.27698078114856,1.15227728098848,1.0218210840366,0.908044033688569,0.799653237541976,0.660094818433241,0.501744610070868,0.328316458254673,0.178833487741163,0.0739215651810974,0.022022739058213,0]
+            }],208,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337],["xpos",-800],["zoomy",130],["ypos",300],["zoomx",130]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "acb_0060x"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm25",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["se","se",{
+                  "name": "se"
+                }],["モモ","character",{
+                  "class": "character",
+                  "link": "",
+                  "name": "モモ",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 0
+          }],["モモ",[[null,"Was that...a dream? Or...",25]],[{
+              "labels": [0,"vlstart",270,"vlstop"],
+              "name": "モモ",
+              "pan": 0,
+              "time": 4508,
+              "time_en": 4160,
+              "type": 0,
+              "voice": "ac_03_01_mom0002",
+              "vols": [0.0,0.0,0.0395649627852841,0.123085789044583,0.247711885103764,0.409454610121604,0.581913805806186,0.737440955457644,0.881256122917056,0.881256122917056,0.881256122917056,0.881256122917056,0.881256122917056,0.881256122917056,0.881256122917056,0.881256122917056,0.881256122917056,2.00684629249418,2.25339618520423,2.52339811244748,2.76037949684594,2.95298027822709,3.11774156398941,3.2290273302133,3.27168830213724,3.21737882529335,3.07962517940708,2.91237510679732,2.79195612070762,2.68463565245696,2.56265619601952,2.44299798695768,2.3129225413923,2.16308236116012,2.0493444406527,2.01048613809302,2.01521948294211,2.04275454455524,2.08192795781225,2.09242312557538,2.05740643840333,1.98943607426028,1.89098880998513,1.74688116372833,1.54265747231603,1.27122371698541,0.94383226388063,0.579789847644297,0.230464416913165,-0.0691720436592506,-0.296045375292439,-0.436450470035029,-0.491795390679078,-0.473366787972144,-0.398787648252974,-0.289391132796187,-0.166300336152402,-0.0478876646723582,0.0518447346343891,0.124210261455188,0.165794217304164,0.177770569377692,0.164811603671813,0.133760147284376,0.0923121474465146,0.0478697823461815,0.00666702005027317,-0.0267729474597983,-0.0498509496659157,-0.0618183779247055,-0.063485124273396,-0.0567918830765075,-0.0443291434940591,-0.028874547929898,-0.0130032663200567,0.0011947047198164,0.0122769907287043,0.0194956277788653,0.0227464443927228,0.0224477682296903,0.019378520555975,0.0145046136154891,0.00881800251942364,0.00320606046305867,-0.00163856967540629,-0.00526472307901417,-0.00746922370873788,-0.00827073882443645,-0.00786109640555182,-0.00654491563578176,-0.00467760970858902,-0.00260992500247578,-0.000644650901085759,0.000991578007860713,0.0251821952744105,0.0769102467300148,0.158118779231018,0.281260252546449,0.422179898855433,0.571683313458875,0.732434594253307,0.903865240599104,0.903865240599104,0.903865240599104,0.903865240599104,0.903865240599104,0.903865240599104,0.903865240599104,0.903865240599104,0.903865240599104,0.903865240599104,0.903865240599104,0.903865240599104,0.903865240599104,2.04133301608211,2.1160324444807,2.18544014005619,2.21513167538165,2.20600491138047,2.1627065688762,2.07360156125474,1.93338922639686,1.74300689382702,1.47574551786948,1.12644587846083,0.727648947314125,0.334172411583628,-0.0136263740206135,-0.284669046704256,-0.461296885067005,-0.542197788730021,-0.537470095608422,-0.465642284124135,-0.349987787953272,-0.214273203318712,-0.0798231106905784,0.0366287447034693,0.124146333873294,0.177724955793726,0.197685894011747,0.188531288108568,0.157495994776589,0.113065400896329,0.0636442499274786,0.0165115891673796,-0.022862328893246,-0.0511286388005676,-0.0670396811240569,-0.0711675683367116,-0.065451981073805,-0.0526698188538656,-0.0359098973129526,-0.0181180045988253,-0.00175500901539933,0.0114124458555544,0.0203899202625362,0.0249194214516144,0.0253581737251501,0.0225050622711045,0.0174075822103919,0.0111777268499491,0.00483818341989189,-0.000788082147269045,-0.00513997769955943,-0.0079344094118929,-0.00914395526678897,-0.00894693472993326,-0.00766194030502418,-0.00567833795204134,-0.00339234913533929,-0.00115561545285358,0.000759869623403671,0.00217945411141461,0.00302754139524973,0.00331644525846328,0.00312647785261243,0.00258161432475882,0.00182472897594641,0.000995617661330596,0.000213998198177492,-0.000431405383012211,-0.000887587626998811,-0.00113649204233146,-0.00118999159187583,-0.00108214024612278,-0.000860243339373076,-0.000576120328790211,-0.000278622430821253,-8.08736929055868E-06,0.00020697346555271,0.000351003547750263,0.000420659155455577,0.000422680997778216,0.000370937631390039,0.000283186744452473,0.000178021955588579,7.23517061440247E-05,-2.0382701703485E-05,-9.11793878166032E-05,-0.000135684876713748,-0.000153772803249754,-0.000148677127823883,-0.000125882280869732,-9.19610616912951E-05,-5.35178608788565E-05,-1.63485789228858E-05,1.51219912945472E-05,3.81122567173709E-05,5.14917219370851E-05,5.55788666678065E-05,5.17983688441697E-05,4.2270304664827E-05,2.93973741805557E-05,1.55026575136041E-05,2.55306530256167E-06,-8.01451086364508E-06,-1.5363854408784E-05,-1.9239518787185E-05,-1.98777851128255E-05,-1.78741573969142E-05,-1.40331937947182E-05,-9.22331409792193E-06,-4.25386781971556E-06,2.14671529512987E-07,0.0323968407442495,0.112334050326567,0.264896405949469,0.511658052355853,0.832381438783697,0.832381438783697,0.832381438783697,0.832381438783697,2.09313807042097,2.28218838586317,2.41010540709825,2.45742054980226,2.39733905521371,2.25472452506967,2.05181417055908,1.84035473644867,1.62453416256522,1.43540358594624,1.30917967427127,1.2387868604549,1.25512497414518,1.37595007801493,1.51755299097424,1.54577464450693,1.46073946091007,1.27068993416134,1.01384134172909,0.945155406893074,0.945155406893074,0.945155406893074,0.945155406893074,2.08190008796534,2.34861750319556,2.48255456335629,2.47456954279951,2.35224044478203,2.21183021957124,2.05760521938666,1.86127797616509,1.67551054405787,1.43961481616842,1.13925400949668,0.780954764542862,0.415587253072123,0.0824386113018825,-0.188997359936354,-0.377547285504103],
+              "vols_en": [0.581599049659833,0.955289337281005,0.955289337281005,2.52839456102368,3.28871435623359,3.73220711338817,3.89000706661999,3.74790516354751,3.70489986637174,3.9260874835192,4.01205538263063,4.05440116575989,3.99569298054266,3.72256554645531,3.26739778701279,2.68457596078553,2.33172045631172,2.65655187081944,3.27412396244547,4.02545934537114,4.61257708997699,4.69581705528654,4.66139607103089,4.50543570479964,4.10515817727268,3.66448013436094,2.87657714399008,2.04794735843896,1.35966787328905,0.703119479232209,0.372294374416887,0.203022832302811,0.120133648800959,0.0660682171746433,0.0660682171746433,0.0440454781164292,0.0220227390582151,1.03389519168218E-15,1.03389519168218E-15,1.03389519168218E-15,1.03389519168218E-15,1.03389519168218E-15,1.03389519168218E-15,1.03389519168218E-15,0.0220227390582151,0.0220227390582151,0.0220227390582151,0.0220227390582151,1.03389519168218E-15,1.03389519168218E-15,1.03389519168218E-15,1.03389519168218E-15,1.03389519168218E-15,1.03389519168218E-15,1.03389519168218E-15,0.0220227390582151,0.0602360470046256,0.216248941471392,0.573700584681129,0.573700584681129,0.573700584681129,0.573700584681129,2.16562405810157,2.51380328618279,2.89839536437261,2.85339314575708,2.24528688871722,1.39727820900592,0.62515116986093,0.230804560190668,0.0660682171746435,0.0440454781164294,0.288879973685197,0.288879973685197,0.288879973685197,2.91420067223935,3.56231304655787,3.6536566170036,3.40315216638278,2.97407202852517,2.58320336394021,2.22327078127896,2.09203851825733,2.45256149558496,2.9777254212664,3.60784784807877,4.15745078839318,4.23155607307828,4.01481738163518,3.67155822478217,3.42980085483442,3.45265442757911,3.75556519164503,4.14707731315965,4.32590227227285,4.25479174640489,3.98938622250959,3.66841071169771,3.33586289846211,3.0008324785664,2.78487164786125,2.73682587945701,2.78678400312149,2.86000551559498,2.85106743440532,2.65320877611615,2.38124404884677,2.09414141164429,1.76741035155088,1.44082647099602,1.08089463262433,0.772315440230304,0.676189076252704,0.78791468967234,0.78791468967234,0.78791468967234,0.78791468967234,0.78791468967234,0.78791468967234,0.78791468967234,0.78791468967234,0.78791468967234,0.78791468967234,0.965107766950317,0.841242655015717,0.754193891166052,0.763244875499411,0.815806068158525,0.882330190597968,0.951876196557108,0.989017271663426,0.989017271663426,0.989017271663426,0.989017271663426,0.989017271663426,0.989017271663426,0.989017271663426,0.912854975321145,0.736192028514448,0.521522870469979,0.284830973367296,0.117811524924859,0.0220227390582146,5.10008701937181E-16,5.10008701937181E-16,5.10008701937181E-16,5.10008701937181E-16,5.10008701937181E-16,5.10008701937181E-16,5.10008701937181E-16,5.10008701937181E-16,5.10008701937181E-16,0.0220227390582146,0.073921565181099,0.150009735865629,0.254921658425695,0.362346522097154,0.472106681709156,0.563037959467063,0.635258262931481,0.704989142973797,0.756554255709252,0.824076136445306,0.920751756344727,0.920751756344727,0.920751756344727,0.920751756344727,0.920751756344727,0.920751756344727,0.920751756344727,0.920751756344727,0.920751756344727,0.920751756344727,0.920751756344727,0.920751756344727,0.920751756344727,0.920751756344727,0.920751756344727,2.05768574534853,2.74057524368487,3.41509749649871,4.07979615148263,4.40356754322045,4.50447692494715,4.56664227747633,4.60916651053953,4.64443073857967,4.65671534285639,4.62386989027356,4.5464918378751,4.45168310179577,4.30088033657101,4.06590484189534,3.83895902114372,3.64439015340046,3.50528335151831,3.4612337239876,3.48060459656708,3.5102719197145,3.54507427980012,3.49742342585289,3.39511938504981,3.2229126979907,3.00582627911817,2.85396053536361,2.64366231729404,2.41734399962542,2.13942131352936,1.74476688337501,1.30090221961437,1.05967924491706,1.04900392398386,1.24902511744294,1.59025338534151,1.77910711779585,1.79814526503228,1.74568280610442,1.66690548561649,1.56008346113281,1.50009613988214,1.42578557362456,1.36993926455796,1.33150585530362,1.28522586177418,1.23547810597094,1.15886393655253,1.06080841404757,0.969987545132977,0.843083869219336,0.728131565192116,0.645252418434947,0.53386776778303,0.463781504362819,0.379208855107606,0.280950687675919,0.214252073062264,0.166538749962118,0.136662662897448,0.120472094009251,0.082258786062841,0.0440454781164305,0.0220227390582164,2.32452945780892E-15,2.32452945780892E-15,2.32452945780892E-15,2.32452945780892E-15,2.32452945780892E-15,2.32452945780892E-15,2.32452945780892E-15,0]
+            }],192,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "acb_0060x"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm25",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["se","se",{
+                  "name": "se"
+                }],["モモ","character",{
+                  "class": "character",
+                  "link": "",
+                  "name": "モモ",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 0
+          }]],
+      "title": "",
+      "version": 1.0
+    }]
+}

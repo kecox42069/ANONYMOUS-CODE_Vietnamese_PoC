@@ -11857,7 +11857,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ウインド",[[null,"Cậu có thể tán tỉnh mà không cần bận tâm đến thế giới! Đã lắm luôn!",60]],[{
+          }],["ウインド",[[null,"Đã lắm luôn! Cậu có thể tán tỉnh mà không cần bận tâm đến thế giới!",60]],[{
               "labels": [0,"vlstart",309,"vlstop"],
               "name": "ウインド",
               "pan": 0,
@@ -16459,7 +16459,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Thật! Tôi có quen một cô gái, cô ấy còn là bạn gái tôi nữa!",44]],[{
+          }],["ポロン",[[null,"Thật! Tôi có quen một cô gái, cô ấy còn là ny tôi nữa!",44]],[{
               "labels": [0,"vlstart",255,"vlstop"],
               "name": "ポロン",
               "pan": 0,

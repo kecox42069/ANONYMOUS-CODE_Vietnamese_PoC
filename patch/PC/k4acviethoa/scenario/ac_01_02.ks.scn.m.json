@@ -15858,7 +15858,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Yeah, và em chán ngắt kiểu công việc này rồi. Em chỉ muốn ở nhà thôi. Dù sao em cũng muốn làm hacker mà.",100]],[{
+          }],["ポロン",[[null,"Ừm và em chán ngắt kiểu công việc này rồi. Em chỉ muốn ở nhà thôi. Dù sao em cũng muốn làm hacker mà.",100]],[{
               "labels": [0,"vlstart",347,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -34391,7 +34391,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ARカフェの客Ｂ",[[null,"Quản lýýý!",10]],[{
+          }],["ARカフェの客Ｂ",[[null,"Chị quản lýýý!",10]],[{
               "labels": [0,"vlstart",94,"vlstop"],
               "name": "arカフェの客Ｂ",
               "pan": 0,
@@ -40045,7 +40045,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["木戸",[["部屋の中の男Ａ","Mẹ nó, tao đéo hiểu lũ normie chúng mày. Marie chỉ là nhân vật kiểu gyaru chán ngắt.",75]],[{
+          }],["木戸",[["部屋の中の男Ａ","Tao đéo hiểu lũ normie chúng mày. Marie chỉ là nhân vật gyaru chán ngắt.",75]],[{
               "labels": [0,"vlstart",376,"vlstop"],
               "name": "木戸",
               "pan": 0,
@@ -41548,7 +41548,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Neither of the faces I could make out were Kido's. He had to be the one in the VR goggles.",90]],null,192,{
+          }],[null,[[null,"Không có khuôn mặt nào trong đám tôi nhìn là Kido. Có khi hắn là người đeo kính Thực Tế Ảo.",90]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -42207,7 +42207,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"But why were they working on tablets instead of using their BMI? That's old-school. Nobody uses that stuff anymore.",115]],null,192,{
+          }],[null,[[null,"Nhưng tại sao họ lại làm việc trên máy tính bảng thay vì BMI? Đây là đồ cũ rồi. Chả có ai dùng thứ đó nữa.",115]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -42368,7 +42368,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"There had to be a reason.",25]],null,192,{
+          }],[null,[[null,"Hẳn là phải có lý do.",25]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -42529,7 +42529,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I saw the tablet screens on the camera feed and noticed that one showed a list of names. That had to be the customer data we came to delete.",140]],null,192,{
+          }],[null,[[null,"Tôi nhìn thấy màn hình máy tính bảng từ camera an ninh và nhận ra rằng có một màn hình hiển thị danh sách tên. Đó hẳn là dữ liệu khách hàng mà chúng tôi đến để xóa.",140]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -42690,7 +42690,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"The other seemed to show a recording taken within a VR space. Was Kido seeing the same thing through those ancient goggles?",123]],null,192,{
+          }],[null,[[null,"Cái còn lại hình như là video được quay trong không gian Thực Tế Ảo. Liệu Kido có đang thấy điều tương tự bằng cái kính hàng cổ đó không?",123]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -42851,7 +42851,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"There was a model of a girl lying on a bed. She had an anime-like face but a photorealistic body, so she looked pretty uncanny.",127]],null,192,{
+          }],[null,[[null,"Có hình một cô gái đang nằm trên giường. Cô ấy có khuôn mặt giống như trong anime nhưng lại có thân hình thật, cô ấy trông khá là dị.",127]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -43012,7 +43012,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"It was like they'd taken the body of a real woman and stuck an anime character's face on it.",92]],null,192,{
+          }],[null,[[null,"Như kiểu họ lấy thân hình của một cô gái nào đó và rồi ghép khuôn mặt của một nhân vật anime vào.",92]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -43173,7 +43173,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"This was probably what they were talking about when they mentioned \"Eve\" and \"Marie.\"",85]],null,192,{
+          }],[null,[[null,"Đây có lẽ là điều họ đang nói đến khi nhắc cái tên \"Eve\" và \"Marie.\"",85]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -43334,7 +43334,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I ran an image search and, sure enough, got a heap of hits for an anime girl called \"Marie.\"",92]],null,192,{
+          }],[null,[[null,"Tôi bắt đầu sử dụng tính năng tìm kiếm hình ảnh và đúng như tôi đoán, tôi tìm được một đống hình ảnh về gái anime tên là \"Marie.\"",92]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -43495,7 +43495,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"They were making bootleg VR porn.",33]],null,192,{
+          }],[null,[[null,"Họ đang làm phim sếch lậu bằng Thế Giới Ảo.",33]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -43998,7 +43998,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"The cables went up the wall and into a hole in the ceiling.",59]],null,192,{
+          }],[null,[[null,"Dây cáp ở trên tường dẫn đến cái lỗ trên trần nhà.",59]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -44330,7 +44330,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Now I had some donuts to look forward to.",41]],null,192,{
+          }],[null,[[null,"Giờ tôi có thứ để kiểm tra rồi.",41]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -44491,7 +44491,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"The floor above only looked empty. These guys probably owned it, and were using it as a server room.",100]],null,192,{
+          }],[null,[[null,"Tầng trên đáng ra phải để trống. Đám này có thể là những kẻ đang sở hữu nó và chúng đang sử dụng nó làm phòng máy chủ.",100]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -45321,7 +45321,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"That made sense. The data came from an app store, after all.",60]],null,192,{
+          }],[null,[[null,"Cũng có lý. Rốt cuộc nó là đống dữ liệu đến từ cửa hàng ứng dụng mà.",60]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -45757,7 +45757,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Which they'd presumably use to steal victims' personal data, or extort people for money.",88]],null,192,{
+          }],[null,[[null,"Đó là thủ đoạn mà chúng sử dụng để đánh cắp dữ liệu cá nhân của nạn nhân hoặc là tống tiền họ.",88]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -49092,7 +49092,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"It was only me and Cross, so it wasn't much of a team, but still.",65]],null,192,{
+          }],[null,[[null,"Thật ra chỉ có tôi và Cross thôi, không phải một đội lớn nhưng chúng tôi vẫn hoạt động ăn ý với nhau đấy thôi.",65]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -49974,7 +49974,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I paid for the drink I hadn't touched, then left the café and went straight to the fourth floor.",96]],null,192,{
+          }],[null,[[null,"Tôi trả tiền cho đồ uống mà tôi chưa hệ đụng đến, và rồi đi thẳng lên tầng bốn của quán cà phê.",96]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -50054,7 +50054,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"The place seemed empty, but the floor's air-conditioning was on. In fact, the place was cold. I missed my jacket.",113]],null,208,{
+          }],[null,[[null,"Nhìn qua có vẻ như trống rỗng, nhưng điều hòa của tầng này vẫn bật. Nơi này rất lạnh. Nhớ cái áo khoác của tôi ghê.",113]],null,208,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -50199,7 +50199,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"There was a well-camouflaged room at the far end of the place, and the server was waiting for me inside.",104]],null,192,{
+          }],[null,[[null,"Có một căn phòng được ngụy trang ở phía xa kia và máy chủ đang ở trong đó.",104]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -50267,7 +50267,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"The hidden room was electromagnetically shielded, so wireless access from outside was off the table.",100]],null,192,{
+          }],[null,[[null,"Căn phòng được thiết lập hệ thống nhiễm sóng điện tử do nó mà việc truy cập từ bên ngoài là điều không thể.",100]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -50335,7 +50335,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"That explained why they were working on ancient, wired hardware.",64]],null,192,{
+          }],[null,[[null,"Vậy đó là lý do mà bọn vừa nãy làm việc trên thiết bị cũ kĩ cùng với dây cáp cắm vào.",64]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -50481,7 +50481,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I reached into my pocket and took out my keyboard.",50]],null,216,{
+          }],[null,[[null,"Tôi thò tay vào túi và lấy bàn phím ra.",50]],null,216,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -50570,7 +50570,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"It was the super basic type, with only the bare minimum number of keys, so it was small enough to fit into my pocket.",117]],null,200,{
+          }],[null,[[null,"Đây là loại bàn phím được tối giản hết sức có thể, nó chỉ có vài nút bấm, đủ nhỏ để nhét vừa túi của tôi.",117]],null,200,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -50659,7 +50659,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Not the fanciest set-up, but I could use special combinations to make over 250 different inputs.",96]],null,200,{
+          }],[null,[[null,"Cách sắp xếp phím bấm nhìn không đẹp mắt lắm, nhưng tôi có thể sử dụng những tổ hợp phím bấm để nhập lên đến 250 ký tự hoặc câu lệnh khác nhau.",96]],null,200,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -50748,7 +50748,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I had a pouch with extra keys too, so I could slap those on if I had to.",72]],null,200,{
+          }],[null,[[null,"Chiếc túi khác của tôi đang đựng thêm những phím bấm khác nữa, nếu cần thì tôi có thể lắp chúng vào bàn phím.",72]],null,200,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -50837,7 +50837,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"This was my secret weapon.",26]],null,200,{
+          }],[null,[[null,"Đây là vũ khí bí mật của tôi.",26]],null,200,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -50926,7 +50926,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I kept saying I wanted to quit being a hacker, but for now, this was the only way I could fight.",96]],null,200,{
+          }],[null,[[null,"Tôi vẫn luôn nói rằng bản thân muốn nghỉ làm hacker, nhưng bây giờ, đây là cách chiến đấu duy nhất của tôi.",96]],null,200,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -51015,7 +51015,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Once I established a wired connection between my carrianode and the server, I prepped my keyboard.",98]],null,192,{
+          }],[null,[[null,"Ngay khi tôi đã kết nối dây cáp vào carrianode của tôi với máy chủ, tôi đã sẵn sàng bàn phím của mình.",98]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
