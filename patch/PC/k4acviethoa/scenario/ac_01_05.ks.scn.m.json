@@ -5389,7 +5389,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"...I know, I know. I'm just reapin' what I've sown.",51]],[{
+          }],["ポロン",[[null,"...Ừ rồi, tôi hiểu rồi. Tôi biết là tôi phải đối mặt với những gì mình đã gây ra.",51]],[{
               "labels": [0,"vlstart",272,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -5460,7 +5460,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I looked at the terrace in front of Nakano Station.",51]],null,208,{
+          }],[null,[[null,"Tôi nhìn ra sân hiên trước ga Nakano.",51]],null,208,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -5521,69 +5521,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Wind was right over there, secretly watching from a distance, waiting to get a look at my gf.",93]],null,192,{
-            "data": [["bg","stage",{
-                  "action": [["zpos",233.33333333333337]],
-                  "class": "stage",
-                  "name": "bg",
-                  "redraw": {
-                    "disp": 2,
-                    "imageFile": {
-                      "file": "acb_0030e"
-                    },
-                    "posName": null
-                  },
-                  "showmode": 3,
-                  "type": null
-                }],["bgm","bgm",{
-                  "name": "bgm",
-                  "replay": {
-                    "filename": "bgm03",
-                    "loop": 1,
-                    "start": null,
-                    "state": 1,
-                    "volume": 100.0
-                  },
-                  "update": {
-                    "state": 1
-                  }
-                }],["retina_frame","retina_ui",{
-                  "action": [["originz",-400],["$state",0]],
-                  "class": "retina_ui",
-                  "name": "retina_frame",
-                  "redraw": {
-                    "disp": 2,
-                    "imageFile": {
-                      "file": "ac_envretinaui.mtn",
-                      "options": {
-                        "chara": "bmi",
-                        "motion": "stand",
-                        "speed": 1.0,
-                        "tickcount": 0.0,
-                        "variables": {
-                          "state": 0.0
-                        }
-                      }
-                    },
-                    "posName": null
-                  },
-                  "showmode": 3,
-                  "type": null
-                }],["se","se",{
-                  "name": "se"
-                }],["ポロン","character",{
-                  "class": "character",
-                  "link": "",
-                  "name": "ポロン",
-                  "showmode": 0,
-                  "type": null
-                }]],
-            "env": {
-              "action": [["cameray",100],["camerazoom",130]],
-              "name": "env"
-            },
-            "msgwin": 0
-          }],[null,[[null,"He was with Dub and Undo—two guys who worked at a local tuning place. They were the ones who did maintenance on my <tips,0,graper>.",131]],null,192,{
+          }],[null,[[null,"Wind đang trốn ở đó, xem tôi ở phía xa và đang chờ đợi chỉ để nhìn ny tôi.",93]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -5645,7 +5583,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Wind told them about the elopement, and apparently they wanted to get a glimpse of my gf for themselves.",104]],null,192,{
+          }],[null,[[null,"Cậu ấy rủ Dub và Undo đi theo— hai người họ là nhân viên của trạm sửa chữa. Họ là những người đã sửa chiếc <tips,0,graper> của tôi.",131]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -5707,7 +5645,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"That's how I found myself standing for almost a whole hour, pretending to wait for her.",87]],null,192,{
+          }],[null,[[null,"Wind kể cho họ nghe về vụ bỏ nhà theo trai và rõ ràng là sau khi họ nghe nó xong là muốn nhìn thấy ny tôi ngay.",104]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -5769,7 +5707,69 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ウインド",[[null,"Where is sheee? I'm tired of waitiiing.",39]],[{
+          }],[null,[[null,"Đấy là lý do tôi đứng ở đây gần cả tiếng đồng hồ, giả vờ đợi cô ấy.",87]],null,192,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "acb_0030e"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm03",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["se","se",{
+                  "name": "se"
+                }],["ポロン","character",{
+                  "class": "character",
+                  "link": "",
+                  "name": "ポロン",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "action": [["cameray",100],["camerazoom",130]],
+              "name": "env"
+            },
+            "msgwin": 0
+          }],["ウインド",[[null,"Cô ấy đâu rồiii? Đợi đến phát ngán luôn rồiii.",39]],[{
               "labels": [0,"vlstart",229,"vlstop"],
               "name": "ウインド",
               "pan": 0,
@@ -6090,7 +6090,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ウインド",[[null,"They were supposed to meet at 4, right?",39]],[{
+          }],["ウインド",[[null,"Họ đáng ra phải gặp nhau lúc 4 giờ, đúng không?",39]],[{
               "labels": [0,"vlstart",140,"vlstop"],
               "name": "ウインド",
               "pan": 0,
@@ -6411,7 +6411,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ダブ",[[null,"And now it's 4:30. She's pretty late.",37]],[{
+          }],["ダブ",[[null,"Và giờ đã là 4 giờ 30 phút. Cô ấy hơi bị trễ đấy.",37]],[{
               "labels": [0,"vlstart",276,"vlstop"],
               "name": "ダブ",
               "pan": 0,
@@ -6703,7 +6703,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["アンドゥ",[[null,"Hey Pollon? What's going on here?",33]],[{
+          }],["アンドゥ",[[null,"Này Pollon? Có chuyện gì à?",33]],[{
               "labels": [0,"vlstart",172,"vlstop"],
               "name": "アンドゥ",
               "pan": 0,
@@ -6993,7 +6993,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ウインド",[[null,"Did she get cold feet?",22]],[{
+          }],["ウインド",[[null,"Cô ấy sợ à?",22]],[{
               "labels": [0,"vlstart",225,"vlstop"],
               "name": "ウインド",
               "pan": 0,
@@ -7283,7 +7283,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["アンドゥ",[[null,"Or perhaps...Pollon got dumped by her...?",41]],[{
+          }],["アンドゥ",[[null,"Hoặc có khi nào...Cô ấy đã chia tay Pollon...?",41]],[{
               "labels": [0,"vlstart",240,"vlstop"],
               "name": "アンドゥ",
               "pan": 0,
@@ -7604,7 +7604,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ダブ",[[null,"Or maybe they weren't going as steady as he thought.",52]],[{
+          }],["ダブ",[[null,"Hoặc có thể cuộc hẹn hò không được như nhóc ấy nghĩ.",52]],[{
               "labels": [0,"vlstart",154,"vlstop"],
               "name": "ダブ",
               "pan": 0,
@@ -7927,7 +7927,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Talking shit like I wasn't listening. Didn't they have anything better to do?",77]],null,192,{
+          }],[null,[[null,"Xàm xí như kiểu tôi không hề nghe ấy. Họ không có việc gì hay hơn để làm à?",77]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
