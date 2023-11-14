@@ -20479,7 +20479,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ARカフェ店員",[[null,"Cảm ơn vì đã chờ! Trà đá của anh đây!",50]],[{
+          }],["ARカフェ店員",[[null,"Cảm ơn vì đã chờ! Trà đá của em đây!",50]],[{
               "labels": [0,"vlstart",171,"vlstop"],
               "name": "arカフェ店員",
               "pan": 0,
@@ -21897,7 +21897,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ARカフェ店員",[[null,"Sự căng thẳng của anh dễ thương quá đấy.",31]],[{
+          }],["ARカフェ店員",[[null,"Sự căng thẳng của em dễ thương quá đấy.",31]],[{
               "labels": [0,"vlstart",175,"vlstop"],
               "name": "arカフェ店員",
               "pan": 0,
@@ -22305,7 +22305,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ARカフェ店員",[[null,"Muốn tới phòng của em tối nay không? Thôi nào, chúng ta sẽ có một đêm vui lắm đây. Em không nên làm việc này...nhưng em có thể tạo điều kiện cho anh đấy.",132]],[{
+          }],["ARカフェ店員",[[null,"Muốn tới phòng của chị tối nay không? Thôi nào, chúng ta sẽ có một đêm vui lắm đây. Chị biết là không nên làm việc này...nhưng chị có thể tạo ngoại lệ cho em đấy.",132]],[{
               "labels": [0,"vlstart",816,"vlstop"],
               "name": "arカフェ店員",
               "pan": 0,
@@ -23323,7 +23323,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ARカフェ店員",[[null,"Anh thật là dễ thương! Xin lỗi nếu em có hơi quá với anh.",51]],[{
+          }],["ARカフェ店員",[[null,"Em thật là dễ thương! Xin lỗi nếu chị có hơi quá với em.",51]],[{
               "labels": [0,"vlstart",233,"vlstop"],
               "name": "arカフェ店員",
               "pan": 0,
@@ -23527,7 +23527,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ARカフェ店員",[[null,"Chúc anh có thời gian vui vẻ!",17]],[{
+          }],["ARカフェ店員",[[null,"Chúc em có thời gian vui vẻ!",17]],[{
               "labels": [0,"vlstart",73,"vlstop"],
               "name": "arカフェ店員",
               "pan": 0,

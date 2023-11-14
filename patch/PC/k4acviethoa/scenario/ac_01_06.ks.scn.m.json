@@ -848,7 +848,7 @@
           "type": 0
         }],
       "spCount": 33,
-      "texts": [["グレアム",[[null,"This is Rhino Leader. Just passed through Mejiro.",49]],[{
+      "texts": [["グレアム",[[null,"Đây là Chỉ huy Rhino. Tôi vừa đi qua Mejiro.",49]],[{
               "labels": [0,"vlstart",148,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -927,7 +927,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"We have any new info?",21]],[{
+          }],["グレアム",[[null,"Có thông tin gì mới không?",21]],[{
               "labels": [0,"vlstart",122,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -1006,7 +1006,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["副官",[[null,"No.",3]],[{
+          }],["副官",[[null,"Không.",3]],[{
               "labels": [0,"vlstart",47,"vlstop"],
               "name": "副官",
               "pan": 0,
@@ -1085,7 +1085,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["副官",[[null,"72 minutes ago, Charlie Two spotted the target in front of Kanda Station.",73]],[{
+          }],["副官",[[null,"72 phút trước, Charlie 2 đã phát hiện mục tiêu ở trước trạm Kanda.",73]],[{
               "labels": [0,"vlstart",245,"vlstop"],
               "name": "副官",
               "pan": 0,
@@ -1164,7 +1164,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["副官",[[null,"The target escaped before they could get her attention, though. There has been no contact with her since.",105]],[{
+          }],["副官",[[null,"Tuy nhiên, mục tiêu đã chạy thoát trước khi họ kịp thu hút sự chú ý của cô ta. Kể từ đó, họ không còn thấy cô ấy đâu nữa.",105]],[{
               "labels": [0,"vlstart",267,"vlstop"],
               "name": "副官",
               "pan": 0,
@@ -1243,7 +1243,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"How'd a non-combatant slip through? I know we didn't want this mission, but we still gotta take it seriously.",109]],[{
+          }],["グレアム",[[null,"Làm thế nào mà lại để dân thường có thể lọt qua? Tôi biết chúng ta đâu có muốn nhiệm vụ này, nhưng chúng ta vẫn phải nghiêm túc thực hiện nó.",109]],[{
               "labels": [0,"vlstart",318,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -1322,7 +1322,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["副官",[[null,"Apologies. It turns out that the target has better intuition than we'd bargained for.",85]],[{
+          }],["副官",[[null,"Xin thứ lỗi. Hóa ra mục tiêu có trực giác tốt hơn chúng ta tưởng.",85]],[{
               "labels": [0,"vlstart",222,"vlstop"],
               "name": "副官",
               "pan": 0,
@@ -1401,7 +1401,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"Where do her tracks lead?",25]],[{
+          }],["グレアム",[[null,"Lối đi của cô ta dẫn tới đâu?",25]],[{
               "labels": [0,"vlstart",76,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -1480,7 +1480,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["習志野オペＡ",[[null,"We confirmed that the target took a self-driving taxi near Jinbocho.",68]],[{
+          }],["習志野オペＡ",[[null,"Chúng tôi xác nhận mục tiêu đã bắt một chiếc taxi tự lái gần Jinbocho.",68]],[{
               "labels": [0,"vlstart",193,"vlstop"],
               "name": "習志野オペＡ",
               "pan": 0,
@@ -1559,7 +1559,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["習志野オペＡ",[[null,"According to the taxi's logs, she was dropped off near Tetsugakudo Park in Nakano.",82]],[{
+          }],["習志野オペＡ",[[null,"Dựa vào lịch sử của chiếc taxi, cô ta đã xuống gần Công viên Tetsugakudo ở Nakano.",82]],[{
               "labels": [0,"vlstart",315,"vlstop"],
               "name": "習志野オペＡ",
               "pan": 0,
@@ -1638,7 +1638,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["習志野オペＢ",[[null,"Then, 14 minutes ago, she walked by a convenience store near Numabukuro Station.",80]],[{
+          }],["習志野オペＢ",[[null,"Và rồi 14 phút trước, cô ta đi ngang qua một cửa hàng tiện lợi gần trạm Numabukuro.",80]],[{
               "labels": [0,"vlstart",294,"vlstop"],
               "name": "習志野オペＢ",
               "pan": 0,
@@ -1717,7 +1717,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["習志野オペＢ",[[null,"We used AI prediction to narrow down the routes she could have taken from there.",80]],[{
+          }],["習志野オペＢ",[[null,"Chúng tôi đã sử dụng AI để dự đoán những tuyến đường mà cô ta có thể đi từ đó.",80]],[{
               "labels": [0,"vlstart",271,"vlstop"],
               "name": "習志野オペＢ",
               "pan": 0,
@@ -1796,7 +1796,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["習志野オペＢ",[[null,"Now we're having data satellites track those routes. 80 seconds until preparations are complete.",96]],[{
+          }],["習志野オペＢ",[[null,"Bây giờ chúng tôi đang có vệ tinh dữ liệu đang theo dõi những tuyến đường đó. Còn 80 giây cho đến khi hoàn tất việc chuẩn bị.",96]],[{
               "labels": [0,"vlstart",371,"vlstop"],
               "name": "習志野オペＢ",
               "pan": 0,
@@ -1875,7 +1875,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"...Where's she headed?",22]],[{
+          }],["グレアム",[[null,"...Cô ta đã tới đâu?",22]],[{
               "labels": [0,"vlstart",115,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -2033,7 +2033,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"Calling all units.",18]],[{
+          }],["グレアム",[[null,"Kêu gọi toàn bộ nhân sự.",18]],[{
               "labels": [0,"vlstart",79,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -2112,7 +2112,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"Bravo, split into three groups and wait for the target ahead.",61]],[{
+          }],["グレアム",[[null,"Đội Bravo, chia thành 3 nhóm và chờ mục tiêu ở phía trước.",61]],[{
               "labels": [0,"vlstart",133,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -2191,7 +2191,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"Charlie, search north of Numabukuro Station, just in case.",58]],[{
+          }],["グレアム",[[null,"Đội Charlie, do thám phía bắc trạm Numabukuro, không được để sót bất cứ nơi nào.",58]],[{
               "labels": [0,"vlstart",202,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -2270,7 +2270,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"Alpha and I'll follow the predicted routes to the south.",56]],[{
+          }],["グレアム",[[null,"Đội Alpha và tôi sẽ đi theo những tuyến đường đã được tiên đoán ở phía nam.",56]],[{
               "labels": [0,"vlstart",222,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -2349,7 +2349,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"Narashino, keep up the search. Rhino Leader, out.",49]],[{
+          }],["グレアム",[[null,"Narashino, hãy tiếp tục tìm kiếm. Chỉ huy Rhino, hết.",49]],[{
               "labels": [0,"vlstart",235,"vlstop"],
               "name": "グレアム",
               "pan": 0,

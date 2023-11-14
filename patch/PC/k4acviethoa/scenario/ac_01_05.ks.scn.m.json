@@ -424,7 +424,7 @@
         }],
       "postevals": ["resetZtmStat()","setZtmChr(1)","setZtmStat(0)"],
       "spCount": 11,
-      "texts": [["ポロン",[[null,"Aaagh, nếu mình có thể quay ngược thời gian và tát vào mặt mình thì mình quyết định làm luôn đấy...",73]],[{
+      "texts": [["ポロン",[[null,"Aaagh, ước gì mình có thể quay ngược thời gian và tát vào mặt mình...",73]],[{
               "labels": [0,"vlstart",249,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -4242,7 +4242,7 @@
         }],
       "postevals": ["setZtmStat(2)"],
       "spCount": 48,
-      "texts": [[null,[[null,"Tôi nhướng mày trong khi đang bối rối vì có thứ gì đó xuất hiện. Và tôi nhận ra đó là VFF.",75]],null,208,{
+      "texts": [[null,[[null,"Tôi nhướng mày bối rối vì có thứ gì đó xuất hiện. Và tôi nhận ra đó là VFF.",75]],null,208,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -4303,7 +4303,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Tôi tải cái ứng dụng này từ lâu lắm rồi, nhưng tôi chả bao giờ đụng tới nó. Tại sao nó lại đột nhiên xuất hiện như vậy?",99]],null,192,{
+          }],[null,[[null,"Tôi tải cái ứng dụng này từ lâu lắm rồi nhưng tôi chả bao giờ đụng tới nó. Tại sao nó lại đột nhiên xuất hiện như vậy?",99]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -5389,7 +5389,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"...Ừ rồi, tôi hiểu rồi. Tôi biết là tôi phải đối mặt với những gì mình đã gây ra.",51]],[{
+          }],["ポロン",[[null,"...Ừ, tôi hiểu rồi. Tôi biết là tôi phải đối mặt với những gì mình đã gây ra.",51]],[{
               "labels": [0,"vlstart",272,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -5460,7 +5460,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Tôi nhìn ra sân hiên trước ga Nakano.",51]],null,208,{
+          }],[null,[[null,"Tôi nhìn ra sân hiên trước trạm Nakano.",51]],null,208,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -8240,7 +8240,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ウインド",[[null,"Don't lose hope! I'm rooting for you!",37]],[{
+          }],["ウインド",[[null,"Đừng để mất hy vọng! Tôi sẽ cổ vũ cho cậu!",37]],[{
               "labels": [0,"vlstart",279,"vlstop"],
               "name": "ウインド",
               "pan": 0,
@@ -8561,7 +8561,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Things would get a whole lot more hopeful if he just left...",60]],null,192,{
+          }],[null,[[null,"Chuyện này sẽ có nhiều hy vọng hơn từ tôi nếu như cậu ấy rời đi...",60]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -8872,7 +8872,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["あああ",[[null,"Your elopement plan has a fatal flaw.",37]],[{
+          }],["あああ",[[null,"Kế hoạch dẫn gái bỏ nhà theo trai của bạn có một lỗi lớn.",37]],[{
               "labels": [0,"vlstart",201,"vlstop"],
               "name": "あああ",
               "pan": 0,
@@ -9138,7 +9138,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["あああ",[[null,"The odds of both nobody coming and impending upset are 100\\%. That's \\#42 from a Carnegie quote compilation. Actually, that was a lie.",132]],[{
+          }],["あああ",[[null,"%80Tỉ lệ cả hai sẽ không gặp được nhau và sự khó chịu của mọi người đang ở mức 100\\%. Đó là câu số 42 trong tổng hợp những câu trích dẫn của Carnegie. Thật ra, đó chỉ là một lời nói dối.",132]],[{
               "labels": [0,"vlstart",688,"vlstop"],
               "name": "あああ",
               "pan": 0,
@@ -9231,7 +9231,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["あああ",[[null,"By the way, research shows that most minors who elope come back within 48 hours.",80]],[{
+          }],["あああ",[[null,"Nhân tiện, nghiên cứu cho thấy hầu hết con gái ở độ tuổi thành niên khi bỏ nhà theo trai đều quay lại trong vòng 48 giờ.",80]],[{
               "labels": [0,"vlstart",494,"vlstop"],
               "name": "あああ",
               "pan": 0,
@@ -9324,7 +9324,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I really didn't need to know that. This thing was completely useless, so I just turned it off.",94]],null,192,{
+          }],[null,[[null,"Tôi đâu cần phải biết điều đó. Thứ này thật là vô dụng, vậy nên tôi quyết định tắt nó.",94]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -9407,7 +9407,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["あああ",[[null,"VFF shutting down.",18]],[{
+          }],["あああ",[[null,"VFF đang được tắt.",18]],[{
               "labels": [0,"vlstart",103,"vlstop"],
               "name": "あああ",
               "pan": 0,
@@ -9680,7 +9680,7 @@
         }],
       "postevals": ["resetZtmStat()"],
       "spCount": 3,
-      "texts": [["ポロン",[[null,"I know no one's comin'.",23]],[{
+      "texts": [["ポロン",[[null,"Bản thân mình biết là không ai sẽ tới.",23]],[{
               "labels": [0,"vlstart",91,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -12064,7 +12064,7 @@
           "type": 0
         }],
       "spCount": 53,
-      "texts": [["ポロン",[[null,"That's why I came up with a plan to get me through this.",56]],[{
+      "texts": [["ポロン",[[null,"Đó là lý do mình đã lập kế hoạch để đưa mình thoát khỏi chuyện này.",56]],[{
               "labels": [0,"vlstart",178,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -12157,7 +12157,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"No turnin' back now.",20]],[{
+          }],["ポロン",[[null,"Mình không còn đường lùi nữa.",20]],[{
               "labels": [0,"vlstart",245,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -12250,7 +12250,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"All I had to do was find a girl who would walk around town with me for, like, five minutes.",91]],null,192,{
+          }],[null,[[null,"Điều duy nhất mà tôi phải làm là tìm một cô gái có thể cùng tôi đi dạo quanh thị trấn khoảng năm phút.",91]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -12311,90 +12311,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"And to do that, I'd downloaded that matchmaking app everyone was using, <tips,12,FateDate>.",91]],null,192,{
-            "data": [["bg","stage",{
-                  "action": [["zpos",233.33333333333337]],
-                  "class": "stage",
-                  "name": "bg",
-                  "redraw": {
-                    "disp": 2,
-                    "imageFile": {
-                      "file": "acb_0030e"
-                    },
-                    "posName": null
-                  },
-                  "showmode": 3,
-                  "type": null
-                }],["bgm","bgm",{
-                  "name": "bgm",
-                  "replay": {
-                    "filename": "bgm03",
-                    "loop": 1,
-                    "start": null,
-                    "state": 1,
-                    "volume": 100.0
-                  },
-                  "update": {
-                    "state": 1
-                  }
-                }],["bmi_infogadget","bmi_common",{
-                  "action": [["originz",-620],["$num",0],["zpos",-23.07692307692308],["$progress",0],["$anim",0]],
-                  "class": "bmi_common",
-                  "name": "bmi_infogadget",
-                  "redraw": {
-                    "disp": 2,
-                    "imageFile": {
-                      "file": "acb_004a.mtn",
-                      "options": {
-                        "chara": "acb_004a",
-                        "motion": "stand",
-                        "speed": 1.0,
-                        "tickcount": 1.0,
-                        "variables": {
-                          "progress": 0.0
-                        }
-                      }
-                    },
-                    "posName": null
-                  },
-                  "showmode": 3,
-                  "type": null
-                }],["retina_frame","retina_ui",{
-                  "action": [["originz",-400],["$state",0]],
-                  "class": "retina_ui",
-                  "name": "retina_frame",
-                  "redraw": {
-                    "disp": 2,
-                    "imageFile": {
-                      "file": "ac_envretinaui.mtn",
-                      "options": {
-                        "chara": "bmi",
-                        "motion": "stand",
-                        "speed": 1.0,
-                        "tickcount": 0.0,
-                        "variables": {
-                          "state": 0.0
-                        }
-                      }
-                    },
-                    "posName": null
-                  },
-                  "showmode": 3,
-                  "type": null
-                }],["se","se",{
-                  "name": "se"
-                }],["ポロン","character",{
-                  "class": "character",
-                  "link": "",
-                  "name": "ポロン",
-                  "showmode": 0,
-                  "type": null
-                }]],
-            "env": {
-              "name": "env"
-            },
-            "msgwin": 0
-          }],[null,[[null,"That'd do the trick.",20]],null,192,{
+          }],[null,[[null,"Và để làm vậy, tôi đã tải ứng dụng hẹn hò mà ai cũng sử dụng, đó là <tips,12,FateDate>.",91]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -12477,7 +12394,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I tried using it normally first.",32]],null,192,{
+          }],[null,[[null,"Cách này sẽ có tác dụng.",20]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -12560,7 +12477,90 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"...No matches, huh?",19]],[{
+          }],[null,[[null,"Tôi bắt đầu sử dụng nó một cách bình thường.",32]],null,192,{
+            "data": [["bg","stage",{
+                  "action": [["zpos",233.33333333333337]],
+                  "class": "stage",
+                  "name": "bg",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "acb_0030e"
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["bgm","bgm",{
+                  "name": "bgm",
+                  "replay": {
+                    "filename": "bgm03",
+                    "loop": 1,
+                    "start": null,
+                    "state": 1,
+                    "volume": 100.0
+                  },
+                  "update": {
+                    "state": 1
+                  }
+                }],["bmi_infogadget","bmi_common",{
+                  "action": [["originz",-620],["$num",0],["zpos",-23.07692307692308],["$progress",0],["$anim",0]],
+                  "class": "bmi_common",
+                  "name": "bmi_infogadget",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "acb_004a.mtn",
+                      "options": {
+                        "chara": "acb_004a",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 1.0,
+                        "variables": {
+                          "progress": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["retina_frame","retina_ui",{
+                  "action": [["originz",-400],["$state",0]],
+                  "class": "retina_ui",
+                  "name": "retina_frame",
+                  "redraw": {
+                    "disp": 2,
+                    "imageFile": {
+                      "file": "ac_envretinaui.mtn",
+                      "options": {
+                        "chara": "bmi",
+                        "motion": "stand",
+                        "speed": 1.0,
+                        "tickcount": 0.0,
+                        "variables": {
+                          "state": 0.0
+                        }
+                      }
+                    },
+                    "posName": null
+                  },
+                  "showmode": 3,
+                  "type": null
+                }],["se","se",{
+                  "name": "se"
+                }],["ポロン","character",{
+                  "class": "character",
+                  "link": "",
+                  "name": "ポロン",
+                  "showmode": 0,
+                  "type": null
+                }]],
+            "env": {
+              "name": "env"
+            },
+            "msgwin": 0
+          }],["ポロン",[[null,"...Không ghép được ai ư?",19]],[{
               "labels": [0,"vlstart",100,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -12653,7 +12653,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Well, that figures.",19]],null,192,{
+          }],[null,[[null,"Hiển nhiên là vậy rồi.",19]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -12736,7 +12736,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"FateDate had fairly low matchmaking rates—only about one in 4,000.",66]],null,192,{
+          }],[null,[[null,"FateDate có tỉ lệ ghép được cặp khá thấp — chỉ khoảng 0.025%.",66]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -12819,7 +12819,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"It was way too high-risk to rely on. I knew that from the start.",64]],null,192,{
+          }],[null,[[null,"Khó mà có thể dựa dẫm vào cái thứ này, và tôi đã biết điều này ngay từ đầu.",64]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -12902,7 +12902,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"That's why I was gonna pull a little trick.",43]],null,192,{
+          }],[null,[[null,"Đó là lý do tôi sẽ thực hiện một mẹo nhỏ.",43]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -12985,7 +12985,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"I'm gonna mess with the app and force a match, just this once.",62]],[{
+          }],["ポロン",[[null,"Mình sẽ nghịch ứng dụng này và buộc nó phải ghép cặp với ai đó, chỉ lần này thôi.",62]],[{
               "labels": [0,"vlstart",345,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -13078,7 +13078,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Then I'll take off with whichever girl shows up. All's right with the world.",76]],[{
+          }],["ポロン",[[null,"Rồi mình sẽ đi cùng bất kỳ cô gái nào xuất hiện từ ứng dụng. Mọi chuyện vẫn sẽ ổn thỏa.",76]],[{
               "labels": [0,"vlstart",110,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -13171,7 +13171,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Who said the future can't be changed?",37]],[{
+          }],["ポロン",[[null,"Ai mà lại nói tương lai không thể bị thay đổi cơ chứ?",37]],[{
               "labels": [0,"vlstart",160,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -13264,7 +13264,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"This plan's perfect.",20]],[{
+          }],["ポロン",[[null,"Kế hoạch này thật hoàn hảo.",20]],[{
               "labels": [0,"vlstart",93,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -13357,7 +13357,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["クロス",[[null,"Are you cracking it?",20]],[{
+          }],["クロス",[[null,"Em đang bẻ khóa nó à?",20]],[{
               "labels": [0,"vlstart",69,"vlstop"],
               "name": "クロス",
               "pan": 0,
@@ -13791,7 +13791,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["クロス",[[null,"An aspiring hero cracks an app just to protect his ego...",57]],[{
+          }],["クロス",[[null,"Người anh hùng đầy tham vọng đi bẻ khóa ứng dụng chỉ để bảo vệ cái tôi của mình...",57]],[{
               "labels": [0,"vlstart",351,"vlstop"],
               "name": "クロス",
               "pan": 0,
@@ -14008,7 +14008,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["クロス",[[null,"The same person who always denies being a hacker.",49]],[{
+          }],["クロス",[[null,"Cũng là người luôn từ chối mình là hacker.",49]],[{
               "labels": [0,"vlstart",210,"vlstop"],
               "name": "クロス",
               "pan": 0,
@@ -14442,7 +14442,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I had no comeback.",18]],null,192,{
+          }],[null,[[null,"Tôi không còn lời nào để đáp trả.",18]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -14649,7 +14649,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Yeah, what I was about to do was against every moral fiber in my body, the antithesis to every one of my ideals.",112]],null,192,{
+          }],[null,[[null,"Cũng đúng thôi, điều mà tôi sắp làm hoàn toàn trái ngược với giá trị đạo đức của tôi, nó còn là sự đối lập với lý tưởng của tôi.",112]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -14856,7 +14856,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Hearing Cross call me out like that, I felt ashamed that I'd even come up with the idea.",88]],null,192,{
+          }],[null,[[null,"Nghe Cross trêu tôi như thế, tôi cảm thấy xấu hổ vì đã nảy ra ý tưởng này",88]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -15063,7 +15063,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"I...I won't crack it.",21]],[{
+          }],["ポロン",[[null,"Em...em sẽ không bẻ khóa nó.",21]],[{
               "labels": [0,"vlstart",221,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -15280,7 +15280,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["クロス",[[null,"Good call.",10]],[{
+          }],["クロス",[[null,"Quyết định đúng đấy.",10]],[{
               "labels": [0,"vlstart",45,"vlstop"],
               "name": "クロス",
               "pan": 0,
@@ -15497,7 +15497,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I'd already 'fessed up to Cross that the whole elopement thing was just a big lie.",82]],null,192,{
+          }],[null,[[null,"Tôi thú nhận với Cross rằng toàn bộ chuyện \"ny của tôi\" bỏ nhà theo trai chỉ là một lời nói dối.",82]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -15682,7 +15682,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"He knew no one was coming.",26]],null,192,{
+          }],[null,[[null,"Anh ấy biết rằng sẽ chẳng có ai tới đây.",26]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -15867,7 +15867,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["クロス",[[null,"Nothing good can come from this, you know. If you want to confess and apologize to Wind, I'll go with you.",106]],[{
+          }],["クロス",[[null,"Chẳng có gì tốt đẹp sẽ tới từ lời nói dối này đâu. Nếu em muốn thú nhận và xin lỗi Wind, anh sẽ giúp em.",106]],[{
               "labels": [0,"vlstart",402,"vlstop"],
               "name": "クロス",
               "pan": 0,
@@ -16062,7 +16062,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"It's my mess... I'll clean it up myself.",40]],[{
+          }],["ポロン",[[null,"Đây là lỗi của em... Để em tự giải quyết nó.",40]],[{
               "labels": [0,"vlstart",143,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -16257,7 +16257,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["クロス",[[null,"Really?",7]],[{
+          }],["クロス",[[null,"Thật luôn?",7]],[{
               "labels": [0,"vlstart",42,"vlstop"],
               "name": "クロス",
               "pan": 0,
@@ -16452,7 +16452,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Really!",7]],[{
+          }],["ポロン",[[null,"Thật mà!",7]],[{
               "labels": [0,"vlstart",55,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -16647,7 +16647,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["クロス",[[null,"Good luck, then.",16]],[{
+          }],["クロス",[[null,"Vậy thì chúc em may mắn.",16]],[{
               "labels": [0,"vlstart",101,"vlstop"],
               "name": "クロス",
               "pan": 0,
@@ -16985,7 +16985,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I was cornered. There was no way out.",37]],null,192,{
+          }],[null,[[null,"Tôi hết cách rồi.",37]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -17118,7 +17118,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Wind wasn't a bad guy. If I just came clean, he'd probably make light of it all, then someday we'd look back on the whole thing and laugh.",138]],null,192,{
+          }],[null,[[null,"Wind không phải là kẻ xấu tính. Nếu tôi thú nhận, có thể cậu ấy sẽ coi nhẹ chuyện này, và rồi một ngày nào đó chúng tôi sẽ nhớ lại và cười.",138]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -17251,7 +17251,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"The only thing I had to lose was my worthless pride.",52]],null,192,{
+          }],[null,[[null,"Thứ duy nhất tôi phải đánh mất là niềm tự hào vô giá trị của mình.",52]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -17384,7 +17384,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Damn it...",10]],[{
+          }],["ポロン",[[null,"Khốn kiếp...",10]],[{
               "labels": [0,"vlstart",82,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -17527,7 +17527,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Yeah, apologizing was the best thing for it.",44]],null,192,{
+          }],[null,[[null,"Đúng vậy, xin lỗi là lựa chọn tốt nhất cho chuyện này.",44]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -17660,7 +17660,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"And when that was done, we could get outta here.",48]],null,192,{
+          }],[null,[[null,"Sau khi xin lỗi xong, chúng tôi sẽ rời khỏi đây.",48]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -17936,7 +17936,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Wind, there's somethin' I gotta tell ya.",40]],[{
+          }],["ポロン",[[null,"Wind, tôi có điều muốn nói với cậu.",40]],[{
               "labels": [0,"vlstart",133,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -18079,7 +18079,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ウインド",[[null,"Hm? What is it?",15]],[{
+          }],["ウインド",[[null,"Hửm? Gì thế?",15]],[{
               "labels": [0,"vlstart",140,"vlstop"],
               "name": "ウインド",
               "pan": 0,
@@ -20392,7 +20392,7 @@
           "type": 0
         }],
       "spCount": 37,
-      "texts": [["ポロン",[[null,"Well, you see...",16]],[{
+      "texts": [["ポロン",[[null,"Ờm, cậu thấy mà...",16]],[{
               "labels": [0,"vlstart",126,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -20599,7 +20599,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"This whole elopement thing's...",31]],[{
+          }],["ポロン",[[null,"Chuyện \"ny của tôi\" bỏ nhà theo trai ấy, nó...",31]],[{
               "labels": [0,"vlstart",119,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -20806,7 +20806,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["モモ・？？？","I'm here!",9]],[{
+          }],["モモ",[["モモ・？？？","Em tới rồi đây!",9]],[{
               "labels": [0,"vlstart",85,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -21053,7 +21053,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I heard a voice.",16]],null,192,{
+          }],[null,[[null,"Tôi chợt nghe một giọng nói.",16]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -21290,7 +21290,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"It was a girl's voice, and one I'd never heard before.",54]],null,192,{
+          }],[null,[[null,"Đó là giọng của một cô gái, và là người tôi chưa từng nghe.",54]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -21527,7 +21527,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"And it was real close.",22]],null,192,{
+          }],[null,[[null,"Và giọng nói đó ở rất gần.",22]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -21764,7 +21764,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Who?",4]],null,192,{
+          }],[null,[[null,"Đó là ai?",4]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -22001,7 +22001,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I turned around.",16]],null,192,{
+          }],[null,[[null,"Tôi quay người.",16]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -22238,7 +22238,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["着ぐるみの女の子","Sorry I'm late.",15]],[{
+          }],["モモ",[["着ぐるみの女の子","Xin lỗi, em tới muộn.",15]],[{
               "labels": [0,"vlstart",132,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -22688,7 +22688,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"...Huh?",7]],[{
+          }],["ポロン",[[null,"...Hả?",7]],[{
               "labels": [0,"vlstart",22,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -22913,7 +22913,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["クロス",[[null,"What is...going on?",19]],[{
+          }],["クロス",[[null,"Chuyện gì đang...xảy ra vậy?",19]],[{
               "labels": [0,"vlstart",63,"vlstop"],
               "name": "クロス",
               "pan": 0,
@@ -23138,7 +23138,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I heard Wind and the others going wild.",39]],null,192,{
+          }],[null,[[null,"Tôi nghe được tiếng Wind và những người khác hò hét cả lên.",39]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -23353,7 +23353,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I couldn't make out anything they were saying, though.",54]],null,192,{
+          }],[null,[[null,"Mặc dù vậy, tôi không thể hiểu họ đang nói gì.",54]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -23568,7 +23568,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"This strangely-dressed girl in front of me had blown my mind.",61]],null,192,{
+          }],[null,[[null,"Cô gái với kiểu ăn mặc kỳ lạ trước mặt đây đã làm tôi hớp hồn.",61]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -23783,7 +23783,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"...Who?",7]],null,192,{
+          }],[null,[[null,"...Cô ấy là ai?",7]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -23998,7 +23998,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Literally, who?",15]],null,192,{
+          }],[null,[[null,"Thật sự đấy. Cô ấy là ai?",15]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -24213,7 +24213,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Are you...Momo?",15]],[{
+          }],["ポロン",[[null,"Cô có phải... là Momo?",15]],[{
               "labels": [0,"vlstart",190,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -24438,7 +24438,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"No. No way. \"Momo Aizaki\" was a name I'd made up. She wasn't a real person.",75]],null,192,{
+          }],[null,[[null,"Không. Không thể nào. \"Momo Aizaki\" chỉ là cái tên tôi bịa ra. Cô ấy đâu có thật.",75]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -24653,7 +24653,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["着ぐるみの女の子","...*Huff*... Hah...",19]],[{
+          }],["モモ",[["着ぐるみの女の子","...*Thở dốc*... Hah...",19]],[{
               "labels": [0,"vlstart",167,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -24878,7 +24878,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"From the way she was panting, she must've run here.",51]],null,192,{
+          }],[null,[[null,"Nhìn cách cô ấy thở hổn hển, tôi chắc là cô ấy đã chạy tới đây.",51]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -25093,7 +25093,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["着ぐるみの女の子","Phew.",5]],[{
+          }],["モモ",[["着ぐるみの女の子","Phù.",5]],[{
               "labels": [0,"vlstart",38,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -25318,7 +25318,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"And once she caught her breath...",33]],null,192,{
+          }],[null,[[null,"Và một khi cô ấy lấy lại được hơi thở...",33]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -25533,7 +25533,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["着ぐるみの女の子","Let's go, then.",15]],[{
+          }],["モモ",[["着ぐるみの女の子","Cùng đi nào.",15]],[{
               "labels": [0,"vlstart",91,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -25758,7 +25758,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"It was like she knew me...",26]],null,192,{
+          }],[null,[[null,"Cô ấy cư xử như kiểu biết tôi là ai...",26]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -25971,7 +25971,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Like I was someone she was gonna elope with...",46]],null,192,{
+          }],[null,[[null,"Như kiểu tôi là người mà cô ấy sẽ quyết định bỏ nhà theo trai...",46]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -26184,7 +26184,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"She grabbed my hand and started walking.",40]],null,192,{
+          }],[null,[[null,"Cô ấy nắm tay tôi và chúng tôi bắt đầu đi bộ.",40]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
