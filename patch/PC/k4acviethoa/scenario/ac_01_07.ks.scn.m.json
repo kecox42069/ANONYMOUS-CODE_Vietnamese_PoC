@@ -5769,7 +5769,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Chúng tôi đi bộ được tầm 5 phút, trong khi nắm tay.",55]],null,192,{
+          }],[null,[[null,"Chúng tôi nắm tay nhau và đi bộ được tầm 5 phút rồi.",55]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337],["xpos",2000],["zoomy",150],["ypos",-300],["zoomx",150]],
                   "class": "stage",
@@ -12009,7 +12009,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["着ぐるみの女の子","If it doesn't offend the Momo you know, that is.",48]],[{
+          }],["モモ",[["着ぐるみの女の子","Nếu việc này xúc phạm tới Momo mà cậu biết...",48]],[{
               "labels": [0,"vlstart",212,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -12144,7 +12144,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["着ぐるみの女の子","I'm sorry...",12]],[{
+          }],["モモ",[["着ぐるみの女の子","Thì tôi xin lỗi...",12]],[{
               "labels": [0,"vlstart",54,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -12414,7 +12414,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Oh yeah, I'd called her \"Momo\" without really thinking.",55]],null,192,{
+          }],[null,[[null,"À đúng rồi, tôi gọi cô ấy là \"Momo\" mà không hề nghĩ ngợi gì.",55]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -12539,7 +12539,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"And now, since she didn't want to give me her real name, she just used the name she got from me.",96]],null,192,{
+          }],[null,[[null,"Và giờ cô ấy không muốn cho tôi biết tên thật, cô ấy liền dùng cái tên mà tôi bịa ra.",96]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -12664,7 +12664,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Man...",6]],[{
+          }],["ポロン",[[null,"Trời ơi...",6]],[{
               "labels": [0,"vlstart",52,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -12794,7 +12794,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I felt stupid for getting so excited.",37]],null,192,{
+          }],[null,[[null,"Tôi cảm thấy mình thật ngu ngốc vì đã hào hứng như vậy.",37]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -12914,7 +12914,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["着ぐるみの女の子","Is Momo your friend?",20]],[{
+          }],["モモ",[["着ぐるみの女の子","Momo là bạn cậu à?",20]],[{
               "labels": [0,"vlstart",99,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -13048,7 +13048,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"N-no.",5]],[{
+          }],["ポロン",[[null,"K-không.",5]],[{
               "labels": [0,"vlstart",92,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -13182,7 +13182,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["着ぐるみの女の子","Oh. Is she your girlfriend, then?",33]],[{
+          }],["モモ",[["着ぐるみの女の子","Oh. Vậy có phải cô ấy là bạn gái cậu?",33]],[{
               "labels": [0,"vlstart",151,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -13312,7 +13312,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"No, damn it.",12]],[{
+          }],["ポロン",[[null,"Không, trời ơi.",12]],[{
               "labels": [0,"vlstart",82,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -13572,7 +13572,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"It doesn't matter. Don't ask.",29]],[{
+          }],["ポロン",[[null,"Nó không quan trọng đâu. Cô đừng hỏi gì thêm.",29]],[{
               "labels": [0,"vlstart",196,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -13702,7 +13702,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["着ぐるみの女の子","Oh...okay?",10]],[{
+          }],["モモ",[["着ぐるみの女の子","Oh...ok...?",10]],[{
               "labels": [0,"vlstart",114,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -13836,7 +13836,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Ugh... That staring was too much!",33]],null,192,{
+          }],[null,[[null,"Ugh... Ánh mắt chằm chằm đấy khó chịu quá!",33]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -13960,7 +13960,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"...Momo Aizaki is just a name I made up!",40]],[{
+          }],["ポロン",[[null,"...Momo Aizaki chỉ là cái tên tôi bịa ra thôi!",40]],[{
               "labels": [0,"vlstart",228,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -14094,7 +14094,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Why'd you make me admit it?!",28]],[{
+          }],["ポロン",[[null,"Tại sao cô làm tôi phải thú nhận điều đó?!",28]],[{
               "labels": [0,"vlstart",113,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -14228,7 +14228,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"She hadn't even given me her real name, but off she went sticking her nose into my personal life.",97]],null,192,{
+          }],[null,[[null,"Cô ấy thậm chí còn không cho tôi biết tên thật, nhưng cô ấy lại chõ mũi vào cuộc sống riêng tư của tôi.",97]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -14352,7 +14352,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"What a pain...",14]],null,192,{
+          }],[null,[[null,"Mệt thật đấy...",14]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -14476,7 +14476,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["着ぐるみの女の子","Made up... I see.",17]],[{
+          }],["モモ",[["着ぐるみの女の子","Bịa ra à... tôi hiểu rồi.",17]],[{
               "labels": [0,"vlstart",187,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -14606,7 +14606,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["着ぐるみの女の子","Then...might I use that name?",29]],[{
+          }],["モモ",[["着ぐるみの女の子","Vậy...tôi có thể dùng cái tên đó được không?",29]],[{
               "labels": [0,"vlstart",229,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -14866,7 +14866,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["着ぐるみの女の子","Please, feel free to call me Momo.",34]],[{
+          }],["モモ",[["着ぐるみの女の子","Hãy cứ tự nhiên gọi tôi là Momo.",34]],[{
               "labels": [0,"vlstart",155,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -14996,7 +14996,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Was she serious...?",19]],null,192,{
+          }],[null,[[null,"Cô ấy nghiêm túc đấy à...?",19]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -15116,7 +15116,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["モモ・着ぐるみ","What about you?",15]],[{
+          }],["モモ",[["モモ・着ぐるみ","Còn cậu thì sao?",15]],[{
               "labels": [0,"vlstart",41,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -15246,7 +15246,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"...My name's on my profile.",27]],[{
+          }],["ポロン",[[null,"...Tên của tôi ở trong hồ sơ đấy.",27]],[{
               "labels": [0,"vlstart",110,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -15506,7 +15506,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"She seriously had no devices at all?",36]],null,192,{
+          }],[null,[[null,"Cô ấy không có thiết bị nào à?",36]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -15626,7 +15626,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"But then...why do you have an AR tattoo?",40]],[{
+          }],["ポロン",[[null,"Vậy...tại sao cô lại có hình xăm ảo đó?",40]],[{
               "labels": [0,"vlstart",183,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -15757,7 +15757,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["モモ・着ぐるみ","Excuse me? AR? Tattoo?",22]],[{
+          }],["モモ",[["モモ・着ぐるみ","Cái gì? Hình xăm? Ảo?",22]],[{
               "labels": [0,"vlstart",253,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -15888,7 +15888,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"The one on your cheek.",22]],[{
+          }],["ポロン",[[null,"Cái hình xăm ở má cô đấy.",22]],[{
               "labels": [0,"vlstart",40,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -16019,7 +16019,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["モモ・着ぐるみ","My cheek?",9]],[{
+          }],["モモ",[["モモ・着ぐるみ","Má tôi?",9]],[{
               "labels": [0,"vlstart",56,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -16150,7 +16150,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"She didn't even know it was there? Had someone put it there without telling her?",80]],null,192,{
+          }],[null,[[null,"Cô ấy còn không biết là có hình xăm ở má ư? Ai đó đã xăm nó mà không nói với cô ấy à?",80]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337],["zoomy",130],["ypos",-200],["zoomx",130]],
                   "class": "stage",
@@ -16271,7 +16271,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"My name's...Pollon Takaoka.",27]],[{
+          }],["ポロン",[[null,"Tên tôi là...Pollon Takaoka.",27]],[{
               "labels": [0,"vlstart",223,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -16531,7 +16531,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["モモ・着ぐるみ","Or, is that too familiar?",25]],[{
+          }],["モモ",[["モモ・着ぐるみ","Tôi gọi cậu như vậy được không?",25]],[{
               "labels": [0,"vlstart",116,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -16921,7 +16921,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Don't ask me! Call me whatever!",31]],[{
+          }],["ポロン",[[null,"Đừng hỏi tôi gì cả! Gọi tôi là gì cũng được hết!",31]],[{
               "labels": [0,"vlstart",113,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -17051,7 +17051,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"...Anyway, tell me what's up with you.",38]],[{
+          }],["ポロン",[[null,"...Dù sao thì hãy nói cho tôi biết chuyện gì đã xảy ra với cô.",38]],[{
               "labels": [0,"vlstart",210,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -17181,7 +17181,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["モモ・着ぐるみ","Oh, yes. I...suppose I should.",30]],[{
+          }],["モモ",[["モモ・着ぐるみ","Oh, được. Chắc là tôi...nên kể với cậu.",30]],[{
               "labels": [0,"vlstart",178,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -17311,7 +17311,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["モモ・着ぐるみ","Well...I'm looking for someone, but I don't have any leads. I'm also by myself, so...I'm kind of at a loss.",107]],[{
+          }],["モモ",[["モモ・着ぐるみ","Thì...tôi đang tìm một người, nhưng tôi không hề có manh mối nào cả. Tôi cũng đang đi một mình, nên là...tôi đang không biết phải đi đâu.",107]],[{
               "labels": [0,"vlstart",540,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -17442,7 +17442,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"That didn't explain anything.",29]],null,192,{
+          }],[null,[[null,"Kể vậy thì chả giải thích được gì.",29]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -17563,7 +17563,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"And if she was looking for someone, why did she have to pretend to be my gf to blend in with the crowd?",103]],null,192,{
+          }],[null,[[null,"Và nếu cô ấy đang tìm ai đó, tại sao cô ấy phải giả vờ là ny tôi và trà trộn vào đám đông?",103]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -17684,7 +17684,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Why'd you call out to me?",25]],[{
+          }],["ポロン",[[null,"Tại sao lúc đó cô lại gọi tôi?",25]],[{
               "labels": [0,"vlstart",115,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -17815,7 +17815,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["モモ・着ぐるみ","I'm not sure myself...",22]],[{
+          }],["モモ",[["モモ・着ぐるみ","Tôi cũng không chắc...",22]],[{
               "labels": [0,"vlstart",74,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -17946,7 +17946,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["モモ・着ぐるみ","But I do remember having an image—someone's face—flash into my mind, shortly before I met you.",94]],[{
+          }],["モモ",[["モモ・着ぐるみ","Nhưng tôi nhớ cái lúc khuôn mặt của ai đó chợt hiện lên trong tâm trí tôi, không lâu trước khi tôi gặp cậu.",94]],[{
               "labels": [0,"vlstart",327,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -18077,7 +18077,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["モモ・着ぐるみ","Looking back, that face might've been yours.",44]],[{
+          }],["モモ",[["モモ・着ぐるみ","Giờ nhớ lại thì khuôn mặt đó có khi là cậu.",44]],[{
               "labels": [0,"vlstart",239,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -18208,7 +18208,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["モモ・着ぐるみ","Perhaps that was why I called out to you back there. I did it without even thinking.",84]],[{
+          }],["モモ",[["モモ・着ぐるみ","Có lẽ đó là lý do tôi gọi cậu ở đó. Tôi gọi cậu mà không hề suy nghĩ gì.",84]],[{
               "labels": [0,"vlstart",341,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -18335,7 +18335,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"WH-HUH?",7]],[{
+          }],["ポロン",[[null,"HẢ--LÀ SAO?",7]],[{
               "labels": [0,"vlstart",88,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -18462,7 +18462,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Where did that come from?!",26]],null,192,{
+          }],[null,[[null,"Chuyện này từ đâu ra thế?!",26]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -18579,7 +18579,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Crap. I needed to stay in control of the situation. Calm down, Pollon!",70]],null,192,{
+          }],[null,[[null,"Tệ thật. Tôi cần phải kiểm soát được tình hình. Bình tĩnh nào Pollon!",70]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -18696,7 +18696,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Th-that's barely an answer. And that's not my point, either.",60]],[{
+          }],["ポロン",[[null,"Đ-đó khó mà gọi là câu trả lời. Và đó cũng không phải là vấn đề của tôi.",60]],[{
               "labels": [0,"vlstart",329,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -18822,7 +18822,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"For a person who's looking for someone, you seem awful concerned about getting spotted. What are you hiding?",108]],[{
+          }],["ポロン",[[null,"Đối với một người đang tìm kiếm ai đó, cô nhìn trông rất lo lắng việc bị phát hiện. Cô đang giấu gì à?",108]],[{
               "labels": [0,"vlstart",418,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -18948,7 +18948,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"You used me, yeah? I've got the right to know, then, don'tcha think?",68]],[{
+          }],["ポロン",[[null,"Cô đã lợi dụng tôi, đúng không? Vậy thì tôi có quyền được biết, cô có nghĩ thế không?",68]],[{
               "labels": [0,"vlstart",181,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -19074,7 +19074,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["モモ・着ぐるみ","...I'm sorry.",13]],[{
+          }],["モモ",[["モモ・着ぐるみ","...Tôi xin lỗi.",13]],[{
               "labels": [0,"vlstart",145,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -19200,7 +19200,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Ah. Shit. Was I being too harsh? No way, pretty sure I was in the right...",74]],null,192,{
+          }],[null,[[null,"Ah. Chết tiệt. Nói như thế có hơi thô lỗ không nhỉ? --- Không, chắc chắn là tôi đúng mà...",74]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -19442,7 +19442,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I could tell from her face that she was pretty tired.",53]],null,192,{
+          }],[null,[[null,"Nhìn mặt cô ấy là biết cô ấy khá là mệt rồi.",53]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -19558,7 +19558,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"...Geez.",8]],[{
+          }],["ポロン",[[null,"...Trời ơi.",8]],[{
               "labels": [0,"vlstart",54,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -19684,7 +19684,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I put our chat on hold so we could go to a nearby vending machine. I got two bottles of milk tea, then handed one to her.",121]],null,192,{
+          }],[null,[[null,"Tôi tạm gác cuộc trò chuyện và tới máy bán hàng ở gần đây. Tôi mua hai chai trà sữa, và đưa cô ấy một chai.",121]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337],["xpos",-800],["zoomy",130],["ypos",-200],["zoomx",130]],
                   "class": "stage",
@@ -19751,7 +19751,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Here.",5]],[{
+          }],["ポロン",[[null,"Đây.",5]],[{
               "labels": [0,"vlstart",33,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -20007,7 +20007,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["モモ・着ぐるみ","This is...for me?",17]],[{
+          }],["モモ",[["モモ・着ぐるみ","Chai này...dành cho tôi ư?",17]],[{
               "labels": [0,"vlstart",93,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -20135,7 +20135,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Yeah. This is, uh...my thanks to you. Kinda.",44]],[{
+          }],["ポロン",[[null,"Ừ. Đây là, uh...lời cảm ơn. Đại loại vậy.",44]],[{
               "labels": [0,"vlstart",338,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -20263,7 +20263,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["モモ・着ぐるみ","Your thanks?",12]],[{
+          }],["モモ",[["モモ・着ぐるみ","Lời cảm ơn?",12]],[{
               "labels": [0,"vlstart",26,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -20391,7 +20391,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"It was thanks to Momo that I'd gotten away with that elopement story, so things weren't all bad.",96]],null,192,{
+          }],[null,[[null,"Nhờ có Momo mà tôi mới thoát khỏi chuyện \"ny bỏ nhà theo trai\" đó, nên mọi chuyện không đến nỗi tệ.",96]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -20509,7 +20509,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Just take it.",13]],[{
+          }],["ポロン",[[null,"Cứ cầm đi.",13]],[{
               "labels": [0,"vlstart",93,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -20637,7 +20637,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I held out the bottle towards her. Kinda forcefully.",52]],null,192,{
+          }],[null,[[null,"Tôi đưa cái chai trước mặt cô ấy. Kiểu như buộc cô ấy phải cầm lấy nó.",52]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -20755,7 +20755,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["モモ・着ぐるみ","Thank you.",10]],[{
+          }],["モモ",[["モモ・着ぐるみ","Cảm ơn cậu.",10]],[{
               "labels": [0,"vlstart",115,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -20883,7 +20883,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"She accepted it politely, then took a hesitant sip.",51]],null,192,{
+          }],[null,[[null,"Cô ấy lịch sự cầm lấy nó, và ngập ngừng uống một ngụm.",51]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -21129,7 +21129,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["モモ・着ぐるみ","...It's warm.",13]],[{
+          }],["モモ",[["モモ・着ぐるみ","...Nó ấm thật đấy.",13]],[{
               "labels": [0,"vlstart",55,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -21354,7 +21354,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Suddenly, a single tear rolled down her cheek.",46]],null,192,{
+          }],[null,[[null,"Đột nhiên, nước mặt chảy xuống má cô ấy.",46]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -21441,7 +21441,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Huh?!",5]],[{
+          }],["ポロン",[[null,"Hả?!",5]],[{
               "labels": [0,"vlstart",33,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -21635,7 +21635,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["モモ・着ぐるみ","Ah. I'm sorry...",16]],[{
+          }],["モモ",[["モモ・着ぐるみ","Ah. Xin lỗi...",16]],[{
               "labels": [0,"vlstart",119,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -21732,7 +21732,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["モモ・着ぐるみ","*Sniffle*... *Hic*... I...didn't mean to...",43]],[{
+          }],["モモ",[["モモ・着ぐるみ","*Sụt sịt*... *Híc*... Tôi...không có ý...",43]],[{
               "labels": [0,"vlstart",330,"vlstop"],
               "name": "モモ",
               "pan": 0,
