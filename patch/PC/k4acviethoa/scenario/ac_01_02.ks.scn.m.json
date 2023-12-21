@@ -14817,7 +14817,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["クロス",[[null,"Ừ. Có quán cà phê tên là \"Incarnation\" ở đó.",34]],[{
+          }],["クロス",[[null,"Ừ. Có quán cà phê tên là “Incarnation” ở đó.",34]],[{
               "labels": [0,"vlstart",183,"vlstop"],
               "name": "クロス",
               "pan": 0,
@@ -15641,7 +15641,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["クロス",[[null,"Bởi vì đây chính xác là công việc mà hacker \"mũ trắng\" như chúng ta nên làm. Em đã làm việc này nhiều lần rồi phải không?",111]],[{
+          }],["クロス",[[null,"Bởi vì đây chính xác là công việc mà hacker “mũ trắng” như chúng ta nên làm. Em đã làm việc này nhiều lần rồi phải không?",111]],[{
               "labels": [0,"vlstart",293,"vlstop"],
               "name": "クロス",
               "pan": 0,
@@ -15858,7 +15858,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Ừm và em chán ngắt kiểu công việc này rồi. Em chỉ muốn ở nhà thôi. Dù sao em cũng muốn làm hacker mà.",100]],[{
+          }],["ポロン",[[null,"Ừm, và em chán ngắt kiểu công việc này rồi. Em chỉ muốn ở nhà thôi. Dù sao em cũng đâu có muốn làm hacker.",100]],[{
               "labels": [0,"vlstart",347,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -16075,7 +16075,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["クロス",[[null,"Khi nào có kỹ năng thì hẵng nói.",55]],[{
+          }],["クロス",[[null,"Khi nào có lý do hay hơn thì hẵng nói.",55]],[{
               "labels": [0,"vlstart",188,"vlstop"],
               "name": "クロス",
               "pan": 0,
@@ -18432,7 +18432,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Hai cái bánh. Một cái vị quế và một cái vị cổ điển.",54]],[{
+          }],["ポロン",[[null,"Làm hai cái đi. Một cái vị quế và một cái vị cổ điển.",54]],[{
               "labels": [0,"vlstart",208,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -19441,7 +19441,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Quán cà phê này có đầy tiên nữ và yêu tinh dựa trên <tips,3,Thực Tế Ảo>. Họ đúng hợp với cảm giác của nơi này.",96]],null,200,{
+          }],[null,[[null,"Quán cà phê này có đầy tiên nữ và yêu tinh <tips,3,AR>. Họ đúng hợp với cảm giác của nơi này.",96]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -22305,7 +22305,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ARカフェ店員",[[null,"Muốn tới phòng của chị tối nay không? Thôi nào, chúng ta sẽ có một đêm vui lắm đây. Chị biết là không nên làm việc này...nhưng chị có thể tạo ngoại lệ cho em đấy.",132]],[{
+          }],["ARカフェ店員",[[null,"%80Muốn tới phòng của chị tối nay không? Thôi nào, chúng ta sẽ có một đêm vui lắm đây. Chị biết là không nên làm việc này... nhưng chị có thể tạo ngoại lệ cho em đấy.",132]],[{
               "labels": [0,"vlstart",816,"vlstop"],
               "name": "arカフェ店員",
               "pan": 0,
@@ -22509,7 +22509,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"K-không. Tôi đang...làm việc.",30]],[{
+          }],["ポロン",[[null,"K-không. Tôi đang... làm việc.",30]],[{
               "labels": [0,"vlstart",266,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -23925,7 +23925,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Phew. Căng thẳng thật...",29]],null,200,{
+          }],[null,[[null,"Phù. Căng thẳng thật...",29]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -24323,7 +24323,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Không cần đâu. Em gái đó đúng là dễ thương, em phải thừa nhận, nhưng em phải để cô ấy đi.",69]],[{
+          }],["ポロン",[[null,"Không cần đâu. Chị gái đó đúng là dễ thương, em phải thừa nhận, nhưng em phải để cô ấy đi.",69]],[{
               "labels": [0,"vlstart",465,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -24731,7 +24731,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Một sự cố nhỏ nhưng tôi đã quay lại với công việc.",36]],null,200,{
+          }],[null,[[null,"Một sự cố nhỏ, nhưng tôi đã quay lại với công việc.",36]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -25333,7 +25333,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["クロス",[[null,"Nó là quán cà phê <tips,3,Thực Tế Ảo> nên anh tưởng em phải để ý, nhưng...",60]],[{
+          }],["クロス",[[null,"Nó là quán cà phê <tips,3,AR> nên anh tưởng em phải để ý, nhưng...",60]],[{
               "labels": [0,"vlstart",206,"vlstop"],
               "name": "クロス",
               "pan": 0,
@@ -26935,7 +26935,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Em có nghe về ý tưởng <tips,4,babiniku> đã trở nên phổ biến cách đây 20 năm, và những đàn ông muốn trở thành những cô gái xinh đẹp đều chuyển sang <tips,5,VR>.",144]],[{
+          }],["ポロン",[[null,"Em có nghe về ý tưởng <tips,4,babiniku> đã trở nên phổ biến cách đây 20 năm, và những người đàn ông muốn trở thành gái xinh đều chuyển sang <tips,5,VR>.",144]],[{
               "labels": [0,"vlstart",656,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -28139,7 +28139,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Thôi nào, đừng làm cho việc này nghe như vấn đề lớn.",42]],[{
+          }],["ポロン",[[null,"Thôi nào, đừng làm việc này nghe như vấn đề lớn.",42]],[{
               "labels": [0,"vlstart",91,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -29047,7 +29047,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Okay. Em hiểu rồi.",15]],[{
+          }],["ポロン",[[null,"Ok. Em hiểu rồi.",15]],[{
               "labels": [0,"vlstart",162,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -30057,7 +30057,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"\"Tên riêng dành cho công việc của họ\" được viết bằng phông chữ lớn trên áo chạy bộ của họ, điều này chỉ khiến tôi rơi thêm nước mắt.",124]],null,200,{
+          }],[null,[[null,"“Tên riêng dành cho công việc của họ” được viết bằng phông chữ lớn trên áo chạy bộ của họ, điều này chỉ khiến tôi rơi thêm nước mắt.",124]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -31504,7 +31504,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["クロス",[[null,"Ba ngày trước, ai đó đã lấy cắp thông tin của 40,000 người dùng của họ.",74]],[{
+          }],["クロス",[[null,"Ba ngày trước, ai đó đã lấy cắp thông tin của 40,000 người dùng từ họ.",74]],[{
               "labels": [0,"vlstart",293,"vlstop"],
               "name": "クロス",
               "pan": 0,
@@ -31737,7 +31737,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["クロス",[[null,"Sau khi xem xét lịch sử truy cập và những thứ khác, nó dẫn chúng ta đến Incarnation—chính là quán cà phê mà em đang ngồi ở trong.",88]],[{
+          }],["クロス",[[null,"Sau khi xem xét lịch sử truy cập và những thứ khác, nó dẫn chúng ta đến Incarnation - chính là quán cà phê mà em đang ngồi ở trong.",88]],[{
               "labels": [0,"vlstart",307,"vlstop"],
               "name": "クロス",
               "pan": 0,
@@ -33739,7 +33739,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Đèn sân khấu phát sáng khi 4 \"cô gái\" xinh đẹp bước ra.",60]],null,200,{
+          }],[null,[[null,"Đèn sân khấu phát sáng khi 4 “cô gái” xinh đẹp bước ra.",60]],null,200,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -35478,7 +35478,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Tôi đến đây chính xác là vì lý do này—để vào phòng nhân viên đang trống.",89]],null,200,{
+          }],[null,[[null,"Tôi đến đây chính xác là vì lý do này - để vào phòng nhân viên đang trống.",89]],null,200,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -36647,7 +36647,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Giờ tôi đã quá quen với nhiệm vụ liên quan đến lẻn vào đâu đó để đánh cắp dữ liệu.",76]],null,192,{
+          }],[null,[[null,"Giờ tôi đã quá quen với nhiệm vụ liên quan đến lẻn lút vào đâu đó để đánh cắp dữ liệu.",76]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -37029,7 +37029,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Tôi đặt tay lên nắm cửa nhưng trước khi tôi kịp kiểm tra xem nó có bị khóa không thì đột nhiên...",85]],null,192,{
+          }],[null,[[null,"Tôi đặt tay lên nắm cửa nhưng trước khi tôi kịp kiểm tra xem nó có bị khóa hay không thì đột nhiên...",85]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -38807,7 +38807,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Bằng cách đó, tôi có thể nghe thấy những người bên trong.",39]],null,192,{
+          }],[null,[[null,"Bằng cách đó, tôi có thể nghe những người bên trong.",39]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -40899,7 +40899,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["クロス",[[null,"Một nhân viên đã đăng lên <tips,8,mạng xã hội> rằng phó quản lý phụ của họ, có tên là Kido đang ở quán cà phê, mặc dù hôm nay là ngày nghỉ của hắn.",123]],[{
+          }],["クロス",[[null,"Một nhân viên đã đăng lên <tips,8,mạng xã hội> rằng phó quản lý của họ, có tên là Kido đang ở quán cà phê, mặc dù hôm nay là ngày nghỉ của hắn.",123]],[{
               "labels": [0,"vlstart",388,"vlstop"],
               "name": "クロス",
               "pan": 0,
@@ -41548,7 +41548,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Không có khuôn mặt nào trong đám tôi nhìn là Kido. Có khi hắn là người đeo kính Thực Tế Ảo.",90]],null,192,{
+          }],[null,[[null,"Không có khuôn mặt nào trong đám tôi nhìn là Kido. Có khi hắn là người đeo kính VR.",90]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -42529,7 +42529,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Tôi nhìn thấy màn hình máy tính bảng từ camera an ninh và nhận ra rằng có một màn hình hiển thị danh sách tên. Đó hẳn là dữ liệu khách hàng mà chúng tôi đến để xóa.",140]],null,192,{
+          }],[null,[[null,"%80Tôi nhìn thấy màn hình máy tính bảng từ camera an ninh và nhận ra rằng có một màn hình hiển thị danh sách tên. Đó hẳn là dữ liệu khách hàng mà chúng tôi đến để xóa.",140]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -42690,7 +42690,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Cái còn lại hình như là video được quay trong không gian Thực Tế Ảo. Liệu Kido có đang thấy điều tương tự bằng cái kính hàng cổ đó không?",123]],null,192,{
+          }],[null,[[null,"Cái còn lại hình như là video được quay trong không gian VR. Liệu Kido có đang thấy điều tương tự bằng cái kính cũ rích đó không?",123]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -42851,7 +42851,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Có hình một cô gái đang nằm trên giường. Cô ấy có khuôn mặt giống như trong anime nhưng lại có thân hình thật, cô ấy trông khá là dị.",127]],null,192,{
+          }],[null,[[null,"Có hình một cô gái đang nằm trên giường. Cô ấy có khuôn mặt giống như trong anime nhưng lại có thân hình của người thật, cô ấy trông khá là dị.",127]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -43173,7 +43173,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Đây có lẽ là điều họ đang nói đến khi nhắc cái tên \"Eve\" và \"Marie.\"",85]],null,192,{
+          }],[null,[[null,"Đây có lẽ là điều họ đang nói đến khi nhắc cái tên “Eve” và “Marie”.",85]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -43334,7 +43334,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Tôi bắt đầu sử dụng tính năng tìm kiếm hình ảnh và đúng như tôi đoán, tôi tìm được một đống hình ảnh về gái anime tên là \"Marie.\"",92]],null,192,{
+          }],[null,[[null,"Tôi bắt đầu sử dụng tính năng tìm kiếm hình ảnh và đúng như tôi đoán, tôi tìm được một đống hình ảnh về gái anime tên là “Marie”.",92]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -43495,7 +43495,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Họ đang làm phim sếch lậu bằng Thế Giới Ảo.",33]],null,192,{
+          }],[null,[[null,"Họ đang làm phim sếch hàng lậu bằng VR.",33]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -44159,7 +44159,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Thì ra máy chủ ở tầng 4. Vãi thật.",42]],[{
+          }],["ポロン",[[null,"Thì ra máy chủ ở tầng 4. Vãi, mình giỏi thật.",42]],[{
               "labels": [0,"vlstart",227,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -47531,7 +47531,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["クロス",[[null,"...Em lại lôi cái chuyện này à?",31]],[{
+          }],["クロス",[[null,"...Em lại lôi cái này à?",31]],[{
               "labels": [0,"vlstart",100,"vlstop"],
               "name": "クロス",
               "pan": 0,
@@ -48646,7 +48646,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Là \"Nakano Symphonies\"—một đội bao gồm những người ẩn danh có tương lai tươi sáng, những người không thể ngồi yên khi ai đó cần giúp đỡ.",100]],[{
+          }],["ポロン",[[null,"Là “Nakano Symphonies” - một đội bao gồm những người ẩn danh có tương lai tươi sáng, những người không thể ngồi yên khi ai đó cần giúp đỡ.",100]],[{
               "labels": [0,"vlstart",417,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -49092,7 +49092,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Thật ra chỉ có tôi và Cross thôi, không phải một đội lớn nhưng chúng tôi vẫn hoạt động ăn ý với nhau đấy thôi.",65]],null,192,{
+          }],[null,[[null,"Thật ra chỉ có tôi và Cross thôi, không phải là một đội lớn nhưng chúng tôi vẫn hoạt động ăn ý với nhau đấy thôi.",65]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -50054,7 +50054,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Nhìn qua có vẻ như trống rỗng, nhưng điều hòa của tầng này vẫn bật. Nơi này rất lạnh. Nhớ cái áo khoác của tôi ghê.",113]],null,208,{
+          }],[null,[[null,"Nhìn qua căn phòng có vẻ như trống rỗng, nhưng điều hòa của tầng này vẫn bật. Nơi này rất lạnh. Nhớ cái áo khoác của tôi ghê.",113]],null,208,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -50335,7 +50335,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Vậy đó là lý do mà bọn vừa nãy làm việc trên thiết bị cũ kĩ cùng với dây cáp cắm vào.",64]],null,192,{
+          }],[null,[[null,"Vậy đó là lý do mà bọn vừa nãy làm việc bằng đồ cũ cùng với dây cáp.",64]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -50748,7 +50748,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Chiếc túi khác của tôi đang đựng thêm những phím bấm khác nữa, nếu cần thì tôi có thể lắp chúng vào bàn phím.",72]],null,200,{
+          }],[null,[[null,"Chiếc túi của tôi đang đựng thêm những phím bấm khác nữa, nếu cần thì tôi có thể lắp chúng vào bàn phím.",72]],null,200,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -51015,7 +51015,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Ngay khi tôi đã kết nối dây cáp vào carrianode của tôi với máy chủ, tôi đã sẵn sàng bàn phím của mình.",98]],null,192,{
+          }],[null,[[null,"Ngay khi tôi kết nối dây vào Carrianode tới máy chủ, tôi đã sẵn sàng bàn phím của mình.",98]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",

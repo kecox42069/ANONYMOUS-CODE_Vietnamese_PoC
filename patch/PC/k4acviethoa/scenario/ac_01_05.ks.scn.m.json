@@ -4364,7 +4364,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Rồi tôi nhận ra rằng tôi đã đặt tên cho thứ này là \"aaa\". Tiếng rên vừa nãy hẳn là lý do nó xuất hiện.",84]],null,192,{
+          }],[null,[[null,"Rồi tôi nhận ra rằng tôi đã đặt tên cho thứ này là “aaa”. Tiếng rên vừa nãy hẳn là lý do nó xuất hiện.",84]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -4638,7 +4638,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["あああ",[[null,"Có vô số tác phẩm liên quan đến cỗ máy thời gian. Bạn có thể cung cấp thêm thông tin rõ ràng về thứ mà bạn đang tìm kiếm không?",121]],[{
+          }],["あああ",[[null,"Có vô số tác phẩm liên quan đến cỗ máy thời gian. Bạn có thể cung cấp thêm thông tin về thứ mà bạn đang tìm kiếm không?",121]],[{
               "labels": [0,"vlstart",360,"vlstop"],
               "name": "あああ",
               "pan": 0,
@@ -4780,7 +4780,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Đây chẳng phải là cuộc trò chuyện. Mà là một lời nhắc nhở...của lý do tôi không bao giờ muốn dùng VFF.",77]],null,192,{
+          }],[null,[[null,"Đây chẳng phải là cuộc trò chuyện. Mà là một lời nhắc nhở... của lý do tôi không bao giờ muốn dùng VFF.",77]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -4902,7 +4902,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Trời ơi, thế quái nào chuyện này lại xảy ra như này cơ chứ...",40]],[{
+          }],["ポロン",[[null,"Trời ơi, thế quái nào chuyện này lại như này cơ chứ...",40]],[{
               "labels": [0,"vlstart",252,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -5583,7 +5583,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Cậu ấy rủ Dub và Undo đi theo— hai người họ là nhân viên của trạm sửa chữa. Họ là những người đã sửa chiếc <tips,0,graper> của tôi.",131]],null,192,{
+          }],[null,[[null,"Cậu ấy rủ Dub và Undo đi theo— hai người họ là nhân viên của trạm sửa chữa. Họ là thợ sửa cho chiếc <tips,0,Graper> của tôi.",131]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -5645,7 +5645,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Wind kể cho họ nghe về vụ bỏ nhà theo trai và rõ ràng là sau khi họ nghe nó xong là muốn nhìn thấy ny tôi ngay.",104]],null,192,{
+          }],[null,[[null,"Wind kể cho họ nghe về vụ bỏ nhà theo trai, và rõ ràng sau khi họ nghe nó xong là muốn nhìn thấy ny tôi ngay.",104]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -5769,7 +5769,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ウインド",[[null,"Cô ấy đâu rồiii? Đợi đến phát ngán luôn rồiii.",39]],[{
+          }],["ウインド",[[null,"Cô ấy đâu rồiii? Đợi đến phát chán luôn rồiii.",39]],[{
               "labels": [0,"vlstart",229,"vlstop"],
               "name": "ウインド",
               "pan": 0,
@@ -6411,7 +6411,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ダブ",[[null,"Và giờ đã là 4 giờ 30 phút. Cô ấy hơi bị trễ đấy.",37]],[{
+          }],["ダブ",[[null,"Và giờ đã là 4:30. Cô ấy hơi bị trễ đấy.",37]],[{
               "labels": [0,"vlstart",276,"vlstop"],
               "name": "ダブ",
               "pan": 0,
@@ -7283,7 +7283,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["アンドゥ",[[null,"Hoặc có khi nào...Cô ấy đã chia tay Pollon...?",41]],[{
+          }],["アンドゥ",[[null,"Hoặc có khi nào... Cô ấy đã chia tay Pollon...?",41]],[{
               "labels": [0,"vlstart",240,"vlstop"],
               "name": "アンドゥ",
               "pan": 0,
@@ -7927,7 +7927,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Xàm xí như kiểu tôi không hề nghe ấy. Họ không có việc gì hay hơn để làm à?",77]],null,192,{
+          }],[null,[[null,"Lảm nhảm như kiểu tôi không hề nghe ấy. Họ không có việc gì hay hơn để làm à?",77]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -9231,7 +9231,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["あああ",[[null,"Nhân tiện, nghiên cứu cho thấy hầu hết con gái ở độ tuổi thành niên khi bỏ nhà theo trai đều quay lại trong vòng 48 giờ.",80]],[{
+          }],["あああ",[[null,"Nhân tiện, nghiên cứu cho thấy hầu hết những cô gái ở độ tuổi thành niên khi bỏ nhà theo trai đều quay lại trong vòng 48 giờ.",80]],[{
               "labels": [0,"vlstart",494,"vlstop"],
               "name": "あああ",
               "pan": 0,
@@ -12157,7 +12157,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Mình không còn đường lùi nữa.",20]],[{
+          }],["ポロン",[[null,"Không còn đường lùi nữa.",20]],[{
               "labels": [0,"vlstart",245,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -12736,7 +12736,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"FateDate có tỉ lệ ghép được cặp khá thấp — chỉ khoảng 0.025%.",66]],null,192,{
+          }],[null,[[null,"FateDate có tỉ lệ ghép được cặp khá thấp - chỉ khoảng một trong 4000.",66]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -15063,7 +15063,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Em...em sẽ không bẻ khóa nó.",21]],[{
+          }],["ポロン",[[null,"Em... em sẽ không bẻ khóa nó.",21]],[{
               "labels": [0,"vlstart",221,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -15497,7 +15497,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Tôi thú nhận với Cross rằng toàn bộ chuyện \"ny của tôi\" bỏ nhà theo trai chỉ là một lời nói dối.",82]],null,192,{
+          }],[null,[[null,"Tôi thú nhận với Cross rằng toàn bộ chuyện “ny của tôi” bỏ nhà theo trai chỉ là một lời nói dối.",82]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -16257,7 +16257,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["クロス",[[null,"Thật luôn?",7]],[{
+          }],["クロス",[[null,"Thật không?",7]],[{
               "labels": [0,"vlstart",42,"vlstop"],
               "name": "クロス",
               "pan": 0,
@@ -17118,7 +17118,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Wind không phải là kẻ xấu tính. Nếu tôi thú nhận, có thể cậu ấy sẽ coi nhẹ chuyện này, và rồi một ngày nào đó chúng tôi sẽ nhớ lại và cười.",138]],null,192,{
+          }],[null,[[null,"Wind không phải là kẻ xấu tính. Nếu tôi thú nhận, có thể cậu ấy sẽ coi nhẹ chuyện này, và rồi một ngày nào đó chúng tôi sẽ nhớ lại và cười về nó.",138]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -20599,7 +20599,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Chuyện \"ny của tôi\" bỏ nhà theo trai ấy, nó...",31]],[{
+          }],["ポロン",[[null,"Chuyện “ny của tôi” bỏ nhà theo trai ấy, nó...",31]],[{
               "labels": [0,"vlstart",119,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -23138,7 +23138,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Tôi nghe được tiếng Wind và những người khác hò hét cả lên.",39]],null,192,{
+          }],[null,[[null,"Tôi nghe được tiếng Wind và những người khác hò hét lên.",39]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -24438,7 +24438,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Không. Không thể nào. \"Momo Aizaki\" chỉ là cái tên tôi bịa ra. Cô ấy đâu có thật.",75]],null,192,{
+          }],[null,[[null,"Không. Không thể nào. “Momo Aizaki” chỉ là cái tên tôi bịa ra. Cô ấy đâu có thật.",75]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -25971,7 +25971,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Như kiểu tôi là người mà cô ấy sẽ quyết định bỏ nhà theo trai...",46]],null,192,{
+          }],[null,[[null,"Như kiểu tôi là người mà cô ấy quyết định bỏ nhà theo trai...",46]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",

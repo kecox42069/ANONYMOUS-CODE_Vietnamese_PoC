@@ -7118,7 +7118,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Nó là thứ tôi đã lấy cảm hứng cho tên nhóm mà tôi đã thành lập, đó là Nakano Symphonies.",76]],null,192,{
+          }],[null,[[null,"Nó là thứ tôi lấy cảm hứng cho tên nhóm mà tôi đã thành lập, đó là Nakano Symphonies.",76]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337],["xpos",-1200],["zoomy",150],["zoomx",150]],
                   "class": "stage",
@@ -7403,7 +7403,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Và chúng ta vẫn là \"những người ẩn danh trẻ tuổi có tương lai tươi sáng\". Có đầy lối đi trong cuộc sống đang chờ đợi chúng ta bước qua đấy thôi.",119]],[{
+          }],["ポロン",[[null,"Và chúng ta vẫn là “những người ẩn danh trẻ tuổi có tương lai tươi sáng”. Có đầy lối đi trong cuộc sống đang chờ đợi chúng ta bước qua đấy thôi.",119]],[{
               "labels": [0,"vlstart",413,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -7466,7 +7466,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Đó là lý do chúng ta sẽ phải từ bỏ cái công việc hacker này và tìm việc làm thực sự.",72]],[{
+          }],["ポロン",[[null,"Đó là lý do chúng ta sẽ phải từ bỏ làm hacker và tìm việc làm thực sự.",72]],[{
               "labels": [0,"vlstart",318,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -8599,7 +8599,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Ơ kìa anh!",5]],[{
+          }],["ポロン",[[null,"Ơ kìa!",5]],[{
               "labels": [0,"vlstart",67,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -8809,7 +8809,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ウインド",[[null,"Hmm...",13]],[{
+          }],["ウインド",[[null,"Hmm... Nhưng...",13]],[{
               "labels": [0,"vlstart",123,"vlstop"],
               "name": "ウインド",
               "pan": 0,
@@ -8988,7 +8988,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Tôi tưởng cậu ấy đang sử dụng BMI để chìm vào thế giới ảo như mọi khi, nhưng nhìn lại thì rõ ràng là cậu ấy đã lắng nghe chúng tôi.",133]],null,192,{
+          }],[null,[[null,"Tôi tưởng cậu ấy đang sử dụng BMI để đắm chìm vào VR như mọi khi, nhưng nhìn lại thì rõ ràng là cậu ấy đã lắng nghe chúng tôi.",133]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337],["xpos",800],["zoomy",130],["ypos",-200],["zoomx",130]],
                   "class": "stage",
@@ -9320,7 +9320,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Cậu ấy nói là muốn \"chơi thân với nhóm Nakano.\"",59]],null,192,{
+          }],[null,[[null,"Cậu ấy nói là muốn “chơi thân với nhóm Nakano”.",59]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337],["xpos",800],["zoomy",130],["ypos",-200],["zoomx",130]],
                   "class": "stage",
@@ -9431,7 +9431,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Rồi từ đó cậu ấy cứ đến đây mỗi ngày...trong khi chả có ai mời tới.",66]],null,192,{
+          }],[null,[[null,"Rồi từ đó cậu ấy cứ đến đây mỗi ngày... trong khi chả có ai mời tới.",66]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337],["xpos",800],["zoomy",130],["ypos",-200],["zoomx",130]],
                   "class": "stage",
@@ -9542,7 +9542,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Cậu ấy tới đây chỉ để tán gái trong <tips,9,VFF> và chả bao giờ cung cấp được cho chúng tôi thông tin hữu ích nào.",113]],null,192,{
+          }],[null,[[null,"Cậu ấy tới đây chủ yếu chỉ để tán gái trong <tips,9,VFF> và chẳng bao giờ cung cấp được cho chúng tôi thông tin hữu ích nào.",113]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337],["xpos",800],["zoomy",130],["ypos",-200],["zoomx",130]],
                   "class": "stage",
@@ -9773,7 +9773,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ウインド",[[null,"...Tôi phải nói thật, cậu có một điểm yếu lớn lắm đấy.",50]],[{
+          }],["ウインド",[[null,"...tôi phải nói thật, cậu có một điểm yếu lớn lắm đấy.",50]],[{
               "labels": [0,"vlstart",271,"vlstop"],
               "name": "ウインド",
               "pan": 0,
@@ -10013,7 +10013,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ウインド",[[null,"Ừ! Đó là cậu không thể đối mặt với gái!",29]],[{
+          }],["ウインド",[[null,"Ừ! Đó là cậu không thể bắt chuyện với gái!",29]],[{
               "labels": [0,"vlstart",165,"vlstop"],
               "name": "ウインド",
               "pan": 0,
@@ -10621,7 +10621,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ウインド",[[null,"Ý tôi là, đó cũng từng là \"gái\", và \"cô ấy\" đã khiến cậu rơi vào tình huống phức tạp đấy, anh bạn.",59]],[{
+          }],["ウインド",[[null,"Ý tôi là, đó cũng từng là “gái”, và “cô ấy” đã khiến cậu rơi vào tình huống phức tạp đấy, anh bạn.",59]],[{
               "labels": [0,"vlstart",250,"vlstop"],
               "name": "ウインド",
               "pan": 0,
@@ -10745,7 +10745,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ウインド",[[null,"Nhìn không hề \"chuyên nghiệp\" như cậu nói đâu.",37]],[{
+          }],["ウインド",[[null,"Nhìn không hề “chuyên nghiệp” như cậu nói đâu.",37]],[{
               "labels": [0,"vlstart",173,"vlstop"],
               "name": "ウインド",
               "pan": 0,
@@ -10997,7 +10997,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["クロス",[[null,"Bất kỳ ai cũng đều có sức mạnh và điểm yếu riêng mà.",50]],[{
+          }],["クロス",[[null,"À thì, bất kỳ ai cũng đều có sức mạnh và điểm yếu riêng mà.",50]],[{
               "labels": [0,"vlstart",162,"vlstop"],
               "name": "クロス",
               "pan": 0,
@@ -11341,7 +11341,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ウインド",[[null,"Trời ơi, Takaoka, cứ như này thì cậu sẽ chẳng bao giờ cảm thấy thoải mái trước mặt gái đấy.",74]],[{
+          }],["ウインド",[[null,"Ôi, Takaoka, cứ như này thì cậu sẽ chẳng bao giờ cảm thấy thoải mái trước mặt gái đấy.",74]],[{
               "labels": [0,"vlstart",289,"vlstop"],
               "name": "ウインド",
               "pan": 0,
@@ -11685,7 +11685,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ウインド",[[null,"Mua một em trong chiếc VFF và rồi dành thời gian vào Thực Tế Ảo. Cậu càng nói chuyện thì cô ấy sẽ hiểu cậu nhiều hơn đấy.",105]],[{
+          }],["ウインド",[[null,"Mua một em trong chiếc VFF và rồi dành thời gian vào VR. Cậu càng nói chuyện thì cô ấy sẽ hiểu cậu nhiều hơn đấy.",105]],[{
               "labels": [0,"vlstart",500,"vlstop"],
               "name": "ウインド",
               "pan": 0,
@@ -13280,7 +13280,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ウインド",[[null,"Hả? Cậu vẫn nghĩ có sự khác biệt giữa chúng ta và A.I ư? Bắt kịp với thời đại bây giờ đi, bro.",86]],[{
+          }],["ウインド",[[null,"Hả? Cậu vẫn nghĩ có sự khác biệt giữa chúng ta và A.I ư? Bắt kịp với thời đại đi, bro.",86]],[{
               "labels": [0,"vlstart",362,"vlstop"],
               "name": "ウインド",
               "pan": 0,
@@ -14205,7 +14205,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ウインド",[[null,"Dù sao thì họ cũng là thật! Cậu cũng có thể nhìn họ bất cứ lúc nào! Và điều quan trọng nhất: đó là họ dễ thương! Nào, nào. Bắt đầu đi.",122]],[{
+          }],["ウインド",[[null,"Dù sao thì họ cũng là thật! Cậu cũng có thể nhìn họ bất cứ lúc nào! Và điều quan trọng nhất: đó là họ dễ thương! Nào, nào. Làm đi.",122]],[{
               "labels": [0,"vlstart",546,"vlstop"],
               "name": "ウインド",
               "pan": 0,
@@ -14766,7 +14766,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ウインド",[[null,"Cậu sẽ không bao giờ ngầu nếu như cậu vẫn không thể nói chuyện với gái. Cậu nghĩ cậu có thể trở thành anh hùng trong khi cậu không hề ngầu ư?",106]],[{
+          }],["ウインド",[[null,"Cậu sẽ không bao giờ ngầu nếu như cậu không thể nói chuyện với gái. Cậu nghĩ cậu có thể trở thành anh hùng trong khi cậu không hề ngầu ư?",106]],[{
               "labels": [0,"vlstart",438,"vlstop"],
               "name": "ウインド",
               "pan": 0,
@@ -15514,7 +15514,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ウインド",[[null,"Bây giờ, cậu cứ mồm nói làm này nọ nhưng chả hề hành động gì, và cậu nên bỏ cái thói đấy đi.",69]],[{
+          }],["ウインド",[[null,"Bây giờ, cậu cứ mồm nói làm này nọ nhưng chẳng hề hành động gì, và cậu nên bỏ cái thói đấy đi.",69]],[{
               "labels": [0,"vlstart",293,"vlstop"],
               "name": "ウインド",
               "pan": 0,
@@ -17664,7 +17664,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Cậu ấy là một người thoải mái, đương nhiên là cậu ấy tin lời tôi vừa nói.",44]],null,192,{
+          }],[null,[[null,"Cậu ấy là một người dễ tính, đương nhiên là cậu ấy tin lời tôi vừa nói.",44]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337],["xpos",800],["zoomy",130],["ypos",-200],["zoomx",130]],
                   "class": "stage",
@@ -18814,7 +18814,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Cô ấy bằng tuổi của tôi...chắc vậy.",23]],[{
+          }],["ポロン",[[null,"Cô ấy bằng tuổi của tôi... chắc vậy.",23]],[{
               "labels": [0,"vlstart",203,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -19584,7 +19584,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"...Tôi phải nói bất cứ điều gì lọt vào mắt tôi.",55]],null,192,{
+          }],[null,[[null,"...tôi phải nói bất cứ điều gì lọt vào mắt tôi.",55]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337],["xpos",800],["zoomy",130],["ypos",-200],["zoomx",130]],
                   "class": "stage",
@@ -20216,7 +20216,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Nngh... Momo Ai, uh... Ai...zaki... chắc là vậy?",44]],[{
+          }],["ポロン",[[null,"Hửm?... Momo Ai, ờm... Ai...zaki... chắc là vậy?",44]],[{
               "labels": [0,"vlstart",513,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -20634,7 +20634,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ウインド",[[null,"Momo Aizaki! Tên nghe như <tips,10,idol> vậy! Nghe cái tên thôi là tôi biết cô ấy dễ thương rồi!",85]],[{
+          }],["ウインド",[[null,"Momo Aizaki! Tên nghe như <tips,10,thần tượng> vậy! Nghe cái tên thôi là tôi biết cô ấy dễ thương rồi!",85]],[{
               "labels": [0,"vlstart",455,"vlstop"],
               "name": "ウインド",
               "pan": 0,
@@ -21276,7 +21276,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ウインド",[[null,"Sao lại không?!",9]],[{
+          }],["ウインド",[[null,"Hả?! Sao lại không?!",9]],[{
               "labels": [0,"vlstart",42,"vlstop"],
               "name": "ウインド",
               "pan": 0,
@@ -21562,7 +21562,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["クロス",[[null,"Oh? Lý do ư?",12]],[{
+          }],["クロス",[[null,"Ồ? Lý do ư?",12]],[{
               "labels": [0,"vlstart",103,"vlstop"],
               "name": "クロス",
               "pan": 0,
@@ -22416,7 +22416,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Cô ấy...và tôi... Uhmm...",22]],[{
+          }],["ポロン",[[null,"Cô ấy... và tôi... Ờmmm...",22]],[{
               "labels": [0,"vlstart",383,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -22570,7 +22570,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"C-cô ấy đang...bỏ nhà theo trai!",18]],[{
+          }],["ポロン",[[null,"C-cô ấy đang... bỏ nhà theo trai!",18]],[{
               "labels": [0,"vlstart",176,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -23713,7 +23713,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Ah, ý tôi là...",14]],[{
+          }],["ポロン",[[null,"A, ý tôi là...",14]],[{
               "labels": [0,"vlstart",41,"vlstop"],
               "name": "ポロン",
               "pan": 0,

@@ -1125,7 +1125,7 @@
           "type": 0
         }],
       "spCount": 38,
-      "texts": [["習志野オペＡ",[[null,"Bravo One. Establish contact with the target at Minamidai Intersection in 12 seconds. 88\\% chance they'll turn right onto the road ahead of it.",142]],[{
+      "texts": [["習志野オペＡ",[[null,"Bravo 1. Mục tiêu của chúng ta sẽ tới giao lộ Minamidai trong 12 giây. Khả năng 88\\% chúng sẽ rẽ qua phải vào con đường phía trước.",142]],[{
               "labels": [0,"vlstart",459,"vlstop"],
               "name": "習志野オペＡ",
               "pan": 0,
@@ -1175,7 +1175,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["副官",[[null,"Bravo One, once you confirm the right turn, proceed 60 meters south.",68]],[{
+          }],["副官",[[null,"Bravo 1, một khi chúng rẽ qua phải, tiến 60 mét tới phía nam.",68]],[{
               "labels": [0,"vlstart",308,"vlstop"],
               "name": "副官",
               "pan": 0,
@@ -1247,7 +1247,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ブラボー１",[[null,"This is Bravo One, copy that.",29]],[{
+          }],["ブラボー１",[[null,"Đây là Bravo 1, tôi đã nắm rõ.",29]],[{
               "labels": [0,"vlstart",86,"vlstop"],
               "name": "ブラボー１",
               "pan": 0,
@@ -1319,7 +1319,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ブラボー１",[[null,"Target is taking the right turn. Heading south.",47]],[{
+          }],["ブラボー１",[[null,"Mục tiêu đang rẽ qua phải. Tiến tới phía nam.",47]],[{
               "labels": [0,"vlstart",202,"vlstop"],
               "name": "ブラボー１",
               "pan": 0,
@@ -1413,7 +1413,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["習志野オペＡ",[[null,"Intercept target again in 11 seconds.",37]],[{
+          }],["習志野オペＡ",[[null,"Chuẩn bị chặn đường chúng một lần nữa trong 11 giây tới.",37]],[{
               "labels": [0,"vlstart",156,"vlstop"],
               "name": "習志野オペＡ",
               "pan": 0,
@@ -1507,7 +1507,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["副官",[[null,"Bravo One, standby.",19]],[{
+          }],["副官",[[null,"Bravo 1, giữ vị trí.",19]],[{
               "labels": [0,"vlstart",161,"vlstop"],
               "name": "副官",
               "pan": 0,
@@ -1601,7 +1601,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["習志野オペＡ",[[null,"Target has turned right again. They're now passing the residential area and heading towards Loop 7.",99]],[{
+          }],["習志野オペＡ",[[null,"Mục tiêu lại rẽ qua phải rồi. Giờ chúng đang đi qua khu dân cư và hướng tới Loop 7.",99]],[{
               "labels": [0,"vlstart",228,"vlstop"],
               "name": "習志野オペＡ",
               "pan": 0,
@@ -1673,7 +1673,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["副官",[[null,"Where's Alpha Two?",18]],[{
+          }],["副官",[[null,"Alpha 2 đâu rồi?",18]],[{
               "labels": [0,"vlstart",88,"vlstop"],
               "name": "副官",
               "pan": 0,
@@ -1745,7 +1745,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["習志野オペＢ",[[null,"Heading south on Loop 7. They'll pass the Central Line in about 10 seconds.",75]],[{
+          }],["習志野オペＢ",[[null,"Đang tiến tới phía nam ở Loop 7. Chúng sẽ phải đi qua trung tâm tầm 10 giây nữa.",75]],[{
               "labels": [0,"vlstart",287,"vlstop"],
               "name": "習志野オペＢ",
               "pan": 0,
@@ -1817,7 +1817,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["副官",[[null,"Get them to the Honan police box, fast. Bravo One, remain on standby.",69]],[{
+          }],["副官",[[null,"Đưa họ tới trạm cảnh sát Honan ngay. Bravo 1, hãy tiếp tục giữ vị trí.",69]],[{
               "labels": [0,"vlstart",315,"vlstop"],
               "name": "副官",
               "pan": 0,
@@ -1889,7 +1889,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["習志野オペＡ",[[null,"The target will reach Honan Intersection in 28 seconds. Probability of them heading straight is at 61\\%. 24\\% chance they'll take a left turn.",140]],[{
+          }],["習志野オペＡ",[[null,"Mục tiêu sẽ tới giao lộ Honan trong 28 giây. Có khả năng 61\\% chúng sẽ đi thẳng. 24\\% còn lại là chúng sẽ rẽ trái.",140]],[{
               "labels": [0,"vlstart",486,"vlstop"],
               "name": "習志野オペＡ",
               "pan": 0,
@@ -1983,7 +1983,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["アルファ２",[[null,"This is Alpha Two. We'll need 60 seconds.",41]],[{
+          }],["アルファ２",[[null,"Đây là Alpha 2. Chúng tôi cần 60 giây.",41]],[{
               "labels": [0,"vlstart",157,"vlstop"],
               "name": "アルファ２",
               "pan": 0,
@@ -2077,7 +2077,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["副官",[[null,"What's the status on the <tips,1,mobile connection> to the graper?",66]],[{
+          }],["副官",[[null,"Quá trình kết nối tới chiếc Graper của chúng diễn ra sao rồi?",66]],[{
               "labels": [0,"vlstart",145,"vlstop"],
               "name": "副官",
               "pan": 0,
@@ -2149,7 +2149,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["習志野オペＣ",[[null,"No success yet. Target's changing their address manually every second...",72]],[{
+          }],["習志野オペＣ",[[null,"Vẫn chưa được. Mục tiêu cứ đang đổi địa chỉ mỗi giây...",72]],[{
               "labels": [0,"vlstart",243,"vlstop"],
               "name": "習志野オペＣ",
               "pan": 0,
@@ -2221,7 +2221,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["副官",[[null,"Keep trying until you get through.",34]],[{
+          }],["副官",[[null,"Cứ tiếp tục cho đến khi anh làm được.",34]],[{
               "labels": [0,"vlstart",92,"vlstop"],
               "name": "副官",
               "pan": 0,
@@ -2293,7 +2293,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"This is Rhino Leader. Alpha Two, fire warning shots. Doesn't matter if you can't see the target.",96]],[{
+          }],["グレアム",[[null,"Tôi là Chỉ huy Rhino. Alpha 2, bắn cảnh báo chúng. Nếu anh không thấy thì vẫn cứ bắn.",96]],[{
               "labels": [0,"vlstart",356,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -2365,7 +2365,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["副官",[[null,"This is a residential area. Are you sure?",41]],[{
+          }],["副官",[[null,"Đây là khu dân cư đấy. Anh chắc chứ?",41]],[{
               "labels": [0,"vlstart",193,"vlstop"],
               "name": "副官",
               "pan": 0,
@@ -2437,7 +2437,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"I am. I'll take responsibility.",31]],[{
+          }],["グレアム",[[null,"Có. Tôi sẽ chịu trách nhiệm.",31]],[{
               "labels": [0,"vlstart",129,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -2509,7 +2509,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["副官",[[null,"Roger that. Alpha Two, do as instructed.",40]],[{
+          }],["副官",[[null,"Đã nắm rõ. Alpha 2, làm như những gì anh ấy nói.",40]],[{
               "labels": [0,"vlstart",200,"vlstop"],
               "name": "副官",
               "pan": 0,
@@ -2581,7 +2581,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["アルファ２",[[null,"This is Alpha Two. Firing warning shots.",40]],[{
+          }],["アルファ２",[[null,"Đây là Alpha 2. Đang bắt đầu bắn cảnh báo.",40]],[{
               "labels": [0,"vlstart",140,"vlstop"],
               "name": "アルファ２",
               "pan": 0,
@@ -2653,7 +2653,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["習志野オペＡ",[[null,"The target will reach Honan Intersection in 6...3, 2, 1, left turn! They're heading south down Loop 7!",102]],[{
+          }],["習志野オペＡ",[[null,"Mục tiêu sẽ tới giao lộ Honan trong 6...3, 2, 1. Chúng rẽ trái! Chúng đang đi tới hướng nam Loop 7!",102]],[{
               "labels": [0,"vlstart",516,"vlstop"],
               "name": "習志野オペＡ",
               "pan": 0,
@@ -2727,7 +2727,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["副官",[[null,"That's checkmate...",19]],[{
+          }],["副官",[[null,"Bắt được chúng là cái chắc...",19]],[{
               "labels": [0,"vlstart",80,"vlstop"],
               "name": "副官",
               "pan": 0,

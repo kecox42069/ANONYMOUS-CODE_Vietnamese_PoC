@@ -10374,7 +10374,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["習志野オペＡ",[[null,"Bravo 1. Mục tiêu của chúng ta sẽ tới ngã tư Minamidai trong 12 giây. Khả năng 88\\% chúng sẽ rẽ qua phải vào con đường phía trước.",131]],[{
+          }],["習志野オペＡ",[[null,"Bravo 1. Mục tiêu của chúng ta sẽ tới giao lộ Minamidai trong 12 giây. Khả năng 88\\% chúng sẽ rẽ qua phải vào con đường phía trước.",142]],[{
               "labels": [0,"vlstart",447,"vlstop"],
               "name": "習志野オペＡ",
               "pan": 0,
@@ -10438,7 +10438,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["副官",[[null,"Bravo 1, một khi chúng rẽ qua phải, tiến 60 mét tới phía nam.",61]],[{
+          }],["副官",[[null,"Bravo 1, một khi chúng rẽ qua phải, tiến 60 mét tới phía nam.",68]],[{
               "labels": [0,"vlstart",291,"vlstop"],
               "name": "副官",
               "pan": 0,
@@ -10524,7 +10524,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ブラボー１",[[null,"Đây là Bravo 1, tôi đã nắm rõ.",30]],[{
+          }],["ブラボー１",[[null,"Đây là Bravo 1, tôi đã nắm rõ.",29]],[{
               "labels": [0,"vlstart",86,"vlstop"],
               "name": "ブラボー１",
               "pan": 0,
@@ -10610,7 +10610,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ブラボー１",[[null,"Mục tiêu đang rẽ qua phải. Tiến tới phía nam.",45]],[{
+          }],["ブラボー１",[[null,"Mục tiêu đang rẽ qua phải. Tiến tới phía nam.",47]],[{
               "labels": [0,"vlstart",202,"vlstop"],
               "name": "ブラボー１",
               "pan": 0,
@@ -10934,7 +10934,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["習志野オペＡ",[[null,"Mục tiêu lại rẽ qua phải rồi. Giờ chúng đang đi qua khu dân cư và hướng tới Loop 7.",83]],[{
+          }],["習志野オペＡ",[[null,"Mục tiêu lại rẽ qua phải rồi. Giờ chúng đang đi qua khu dân cư và hướng tới Loop 7.",99]],[{
               "labels": [0,"vlstart",243,"vlstop"],
               "name": "習志野オペＡ",
               "pan": 0,
@@ -11020,7 +11020,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["副官",[[null,"Alpha 2 đâu rồi?",16]],[{
+          }],["副官",[[null,"Alpha 2 đâu rồi?",18]],[{
               "labels": [0,"vlstart",83,"vlstop"],
               "name": "副官",
               "pan": 0,
@@ -11106,7 +11106,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["習志野オペＢ",[[null,"Đang tiến tới phía nam ở Loop 7. Chúng sẽ phải đi qua trung tâm tầm 10 giây nữa.",80]],[{
+          }],["習志野オペＢ",[[null,"Đang tiến tới phía nam ở Loop 7. Chúng sẽ phải đi qua trung tâm tầm 10 giây nữa.",75]],[{
               "labels": [0,"vlstart",274,"vlstop"],
               "name": "習志野オペＢ",
               "pan": 0,
@@ -11192,7 +11192,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["副官",[[null,"Đưa họ tới trạm cảnh sát Honan ngay. Bravo 1, hãy tiếp tục giữ vị trí.",70]],[{
+          }],["副官",[[null,"Đưa họ tới trạm cảnh sát Honan ngay. Bravo 1, hãy tiếp tục giữ vị trí.",69]],[{
               "labels": [0,"vlstart",322,"vlstop"],
               "name": "副官",
               "pan": 0,
@@ -11278,7 +11278,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["習志野オペＡ",[[null,"Mục tiêu sẽ tới ngã tư Honan trong 28 giây. Có khả năng 61\\% chúng sẽ đi thẳng. 24\\% còn lại là chúng sẽ rẽ trái.",115]],[{
+          }],["習志野オペＡ",[[null,"Mục tiêu sẽ tới giao lộ Honan trong 28 giây. Có khả năng 61\\% chúng sẽ đi thẳng. 24\\% còn lại là chúng sẽ rẽ trái.",140]],[{
               "labels": [0,"vlstart",511,"vlstop"],
               "name": "習志野オペＡ",
               "pan": 0,
@@ -11386,7 +11386,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["アルファ２",[[null,"Đây là Alpha 2. Chúng tôi cần 60 giây.",38]],[{
+          }],["アルファ２",[[null,"Đây là Alpha 2. Chúng tôi cần 60 giây.",41]],[{
               "labels": [0,"vlstart",157,"vlstop"],
               "name": "アルファ２",
               "pan": 0,
@@ -11580,7 +11580,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["習志野オペＣ",[[null,"Vẫn chưa được. Mục tiêu cứ đang đổi địa chỉ mỗi giây...",55]],[{
+          }],["習志野オペＣ",[[null,"Vẫn chưa được. Mục tiêu cứ đang đổi địa chỉ mỗi giây...",72]],[{
               "labels": [0,"vlstart",256,"vlstop"],
               "name": "習志野オペＣ",
               "pan": 0,
@@ -11666,7 +11666,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["副官",[[null,"Cứ tiếp tục cho đến khi anh làm được.",37]],[{
+          }],["副官",[[null,"Cứ tiếp tục cho đến khi anh làm được.",34]],[{
               "labels": [0,"vlstart",97,"vlstop"],
               "name": "副官",
               "pan": 0,
@@ -11752,7 +11752,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"Tôi là Chỉ huy Rhino. Alpha 2, bắn cảnh báo chúng. Nếu anh không thấy thì vẫn cứ bắn.",85]],[{
+          }],["グレアム",[[null,"Tôi là Chỉ huy Rhino. Alpha 2, bắn cảnh báo chúng. Nếu anh không thấy thì vẫn cứ bắn.",96]],[{
               "labels": [0,"vlstart",356,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -11838,7 +11838,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["副官",[[null,"Đây là khu dân cư đấy. Anh chắc chứ?",36]],[{
+          }],["副官",[[null,"Đây là khu dân cư đấy. Anh chắc chứ?",41]],[{
               "labels": [0,"vlstart",187,"vlstop"],
               "name": "副官",
               "pan": 0,
@@ -11924,7 +11924,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"Có. Tôi sẽ chịu trách nhiệm.",28]],[{
+          }],["グレアム",[[null,"Có. Tôi sẽ chịu trách nhiệm.",31]],[{
               "labels": [0,"vlstart",129,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -12010,7 +12010,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["副官",[[null,"Đã nắm rõ. Alpha 2, làm như những gì anh ấy nói.",48]],[{
+          }],["副官",[[null,"Đã nắm rõ. Alpha 2, làm như những gì anh ấy nói.",40]],[{
               "labels": [0,"vlstart",210,"vlstop"],
               "name": "副官",
               "pan": 0,
@@ -12096,7 +12096,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["アルファ２",[[null,"Đây là Alpha 2. Đang bắt đầu bắn cảnh báo.",42]],[{
+          }],["アルファ２",[[null,"Đây là Alpha 2. Đang bắt đầu bắn cảnh báo.",40]],[{
               "labels": [0,"vlstart",140,"vlstop"],
               "name": "アルファ２",
               "pan": 0,
@@ -12182,7 +12182,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["習志野オペＡ",[[null,"Mục tiêu sẽ tới ngã tư Honan trong 6...3, 2, 1. Chúng rẽ trái! Chúng đang đi tới hướng nam Loop 7!",98]],[{
+          }],["習志野オペＡ",[[null,"Mục tiêu sẽ tới giao lộ Honan trong 6...3, 2, 1. Chúng rẽ trái! Chúng đang đi tới hướng nam Loop 7!",102]],[{
               "labels": [0,"vlstart",550,"vlstop"],
               "name": "習志野オペＡ",
               "pan": 0,
@@ -12268,7 +12268,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["習志野オペＢ",[[null,"Bravo 3 đã vào vị trí ở Koshu-Kaido.",36]],[{
+          }],["習志野オペＢ",[[null,"Bravo 3 đã vào vị trí ở Koshu-Kaido.",48]],[{
               "labels": [0,"vlstart",178,"vlstop"],
               "name": "習志野オペＢ",
               "pan": 0,
@@ -12355,7 +12355,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["習志野オペＣ",[[null,"Kết nối thành công! Chúng tôi đã xâm nhập vào hệ thống của mục tiêu.",81]],[{
+          }],["習志野オペＣ",[[null,"Kết nối thành công! Chúng tôi đã xâm nhập vào hệ thống của mục tiêu.",57]],[{
               "labels": [0,"vlstart",215,"vlstop"],
               "name": "習志野オペＣ",
               "pan": 0,
@@ -12529,7 +12529,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["習志野オペＣ",[[null,"Rõ.",3]],[{
+          }],["習志野オペＣ",[[null,"Rõ.",6]],[{
               "labels": [0,"vlstart",28,"vlstop"],
               "name": "習志野オペＣ",
               "pan": 0,
@@ -12616,7 +12616,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["副官",[[null,"Bắt được chúng là cái chắc...",29]],[{
+          }],["副官",[[null,"Bắt được chúng là cái chắc...",19]],[{
               "labels": [0,"vlstart",75,"vlstop"],
               "name": "副官",
               "pan": 0,
@@ -12790,7 +12790,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["副官",[[null,"Gì thế?",7]],[{
+          }],["副官",[[null,"Gì thế?",11]],[{
               "labels": [0,"vlstart",37,"vlstop"],
               "name": "副官",
               "pan": 0,
@@ -12877,7 +12877,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["習志野オペＡ",[[null,"Mục tiêu đã dừng ở giữa trung tâm Ohara.",40]],[{
+          }],["習志野オペＡ",[[null,"Mục tiêu đã dừng ở giữa trung tâm Ohara.",57]],[{
               "labels": [0,"vlstart",142,"vlstop"],
               "name": "習志野オペＡ",
               "pan": 0,
@@ -12964,7 +12964,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["習志野オペＣ",[[null,"Chúng ta vẫn chưa kịp sử dụng mobcon để hack cơ mà.",51]],[{
+          }],["習志野オペＣ",[[null,"Chúng ta vẫn chưa kịp sử dụng mobcon để hack cơ mà.",44]],[{
               "labels": [0,"vlstart",158,"vlstop"],
               "name": "習志野オペＣ",
               "pan": 0,
@@ -13051,7 +13051,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["副官",[[null,"Cái gì? Bọn chúng biết kế hoạch của chúng ta à?",47]],[{
+          }],["副官",[[null,"Cái gì? Bọn chúng biết kế hoạch của chúng ta à?",35]],[{
               "labels": [0,"vlstart",110,"vlstop"],
               "name": "副官",
               "pan": 0,
@@ -13215,7 +13215,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"Ngã ba đã bị bao vây bởi những chiếc xe bọc thép.",49]],null,192,{
+          }],[null,[[null,"Giao lộ đã bị bao vây bởi những chiếc xe bọc thép.",61]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -13284,7 +13284,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"Trực thăng bay vòng vòng phía trên, nhưng họ không có ý định đáp xuống.",71]],null,208,{
+          }],[null,[[null,"Trực thăng bay vòng vòng phía trên, nhưng họ không có ý định đáp xuống.",58]],null,208,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -13353,7 +13353,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"Một thời gian ngắn sau đó, có chiếc xe bọc thép khác đã tiến tới ngã ba từ Nakano.",82]],null,192,{
+          }],[null,[[null,"Một thời gian ngắn sau đó, có chiếc xe bọc thép tiến tới từ Nakano.",85]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -13422,7 +13422,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"Trong khi những chiếc xe còn lại giữ khoảng cách, có duy nhất một tên đi thẳng tới xe graper.",93]],null,192,{
+          }],[null,[[null,"Trong khi những kẻ còn lại giữ khoảng cách, có duy nhất một tên đi thẳng tới chiếc Graper.",83]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -13491,7 +13491,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"Đúng vậy. Cứ giữ vững độ cao đó. Đừng hạ xuống. Chúng ta không biết bọn chúng đang làm gì đâu... Ừ. Mặc kệ những gì Ouranos nói đi.",131]],[{
+          }],["グレアム",[[null,"Đúng vậy. Cứ giữ vững độ cao đó. Đừng hạ xuống. Chúng ta không biết bọn chúng đang làm gì đâu... Ừ. Mặc kệ những gì Ouranos nói đi.",126]],[{
               "labels": [0,"vlstart",496,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -13592,7 +13592,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"Trong khi đang bàn tán mệnh lệnh bằng bộ đàm cũ rích, anh lính thân hình lực lưỡng bước ra khỏi xe để đối mặt với chàng trai và cô gái.",135]],null,200,{
+          }],[null,[[null,"Trong khi đang bàn tán mệnh lệnh bằng bộ đàm cũ rích, anh lính thân hình lực lưỡng bước ra khỏi xe để đối mặt với chàng trai và cô gái.",138]],null,200,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -13964,7 +13964,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"Nhóc đã tự dừng xe tại đây. Quả là nước đi sáng suốt đấy.",57]],[{
+          }],["グレアム",[[null,"Nhóc đã tự dừng xe tại đây. Quả là nước đi sáng suốt đấy.",36]],[{
               "labels": [0,"vlstart",143,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -14190,7 +14190,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"Đừng tỏ vẻ mình bạo lực như vậy. Tôi biết anh là người tốt mà, tôi nói đúng không?",87]],[{
+          }],["ポロン",[[null,"Đừng tỏ vẻ mình bạo lực như vậy. Tôi biết ông là người tốt mà, tôi nói đúng không?",57]],[{
               "labels": [0,"vlstart",216,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -14416,7 +14416,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"Để thua một thằng du côn như tôi hẳn là sẽ làm tổn thương lòng kiêu hãnh của một người lính như anh.",100]],[{
+          }],["ポロン",[[null,"Để thua một thằng như tôi hẳn là sẽ làm tổn thương lòng kiêu hãnh của một người lính như ông.",103]],[{
               "labels": [0,"vlstart",353,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -14642,7 +14642,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"Xin lỗi nhé, tôi đây không phải script kiddie.",46]],[{
+          }],["ポロン",[[null,"Xin lỗi nhé, tôi đây không phải script kiddie.",32]],[{
               "labels": [0,"vlstart",228,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -15094,7 +15094,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"Đưa con bé đây.",15]],[{
+          }],["グレアム",[[null,"Đưa con bé đây.",14]],[{
               "labels": [0,"vlstart",91,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -15546,7 +15546,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"Cô ấy không thuộc về anh.",29]],[{
+          }],["ポロン",[[null,"Cô ấy đâu phải là người của ông.",24]],[{
               "labels": [0,"vlstart",178,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -15772,7 +15772,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"Ta nói là: Đưa con bé đây.",27]],[{
+          }],["グレアム",[[null,"Ta nói là: Đưa con bé đây.",22]],[{
               "labels": [0,"vlstart",76,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -15998,7 +15998,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"Trao đổi một chút được không? Thỏa thuận ngon thì... tôi có thể sẽ đồng ý đấy.",78]],[{
+          }],["ポロン",[[null,"Trao đổi một chút được không? Thỏa thuận ngon thì... tôi có thể đồng ý đấy.",78]],[{
               "labels": [0,"vlstart",423,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -16224,7 +16224,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"Một tiếng súng kêu lên.",23]],null,192,{
+          }],[null,[[null,"Một tiếng súng kêu lên.",19]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -16440,7 +16440,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"Anh lính đã dùng súng lục bắn vào bánh sau của chiếc xe graper.",63]],null,192,{
+          }],[null,[[null,"Anh lính đã dùng súng lục bắn vào bánh sau của chiếc Graper.",67]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -16656,7 +16656,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"Sát thương lớn đã làm hỏng chiếc xe. Động cơ không còn hoạt động, chiếc graper sẽ không thể nào khởi động được nữa.",115]],null,192,{
+          }],[null,[[null,"Sát thương lớn đã làm hỏng chiếc xe. Động cơ không còn hoạt động, chiếc Graper sẽ không thể nào khởi động được nữa.",104]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -16872,7 +16872,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"Anh đần độn quá đấy... Quân đội nên trả lương đầy đủ cho anh để sửa chữa nó!",76]],[{
+          }],["ポロン",[[null,"Ông đần độn quá đấy... Quân đội nên trả lương đầy đủ cho ông để sửa chữa nó!",71]],[{
               "labels": [0,"vlstart",237,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -17057,7 +17057,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"Dù bị mất phương tiện trốn thoát, nhưng chàng trai vẫn không hề nao núng. Thực tế, anh ta nhìn chằm chằm người lính mãnh liệt hơn trước.",136]],null,192,{
+          }],[null,[[null,"Dù bị mất phương tiện trốn thoát, nhưng chàng trai vẫn không hề nao núng. Thực tế, anh ta nhìn chằm chằm người lính mãnh liệt hơn trước.",118]],null,192,{
             "data": [["bg","stage",{
                   "action": [["ypos",-300],["zpos",233.33333333333337]],
                   "class": "stage",
@@ -17232,7 +17232,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"Nhóc có vẻ không hiểu tình hình nhỉ.",35]],[{
+          }],["グレアム",[[null,"Nhóc có vẻ không hiểu tình hình nhỉ.",44]],[{
               "labels": [0,"vlstart",188,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -17458,7 +17458,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"Nhóc có hai lựa chọn. Vào tù, hoặc chết ở đây. Bọn ta sẽ ghi trong báo cáo rằng đây chỉ là tai nạn. Cho nhóc chọn đấy.",117]],[{
+          }],["グレアム",[[null,"Nhóc có hai lựa chọn. Vào tù, hoặc chết ở đây. Bọn ta sẽ ghi trong báo cáo rằng đây chỉ là tai nạn. Cho nhóc chọn đấy.",104]],[{
               "labels": [0,"vlstart",554,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -17684,7 +17684,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"Heh. Tôi đâu có muốn chọn.",26]],[{
+          }],["ポロン",[[null,"Heh. Tôi đâu có muốn chọn.",30]],[{
               "labels": [0,"vlstart",158,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -17910,7 +17910,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"Tương lai của ngươi đang ở trong tay ta.",39]],[{
+          }],["グレアム",[[null,"Tương lai của nhóc đang ở trong tay ta.",27]],[{
               "labels": [0,"vlstart",215,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -18136,7 +18136,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"Thật á? Ở trong bàn tay to, như siêu nhân của anh?",50]],[{
+          }],["ポロン",[[null,"Thật á? Ở trong bàn tay to, như siêu nhân của ông?",53]],[{
               "labels": [0,"vlstart",283,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -18362,7 +18362,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"Nói cho ta nghe câu trả lời.",29]],[{
+          }],["グレアム",[[null,"Cho ta câu trả lời.",20]],[{
               "labels": [0,"vlstart",181,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -18773,7 +18773,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"Đừng có đánh giá thấp ta như vậy.",34]],[{
+          }],["ポロン",[[null,"Đừng có đánh giá thấp ta như vậy.",23]],[{
               "labels": [0,"vlstart",75,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -18958,7 +18958,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"Hửm...?",7]],[{
+          }],["グレアム",[[null,"Hửm...?",6]],[{
               "labels": [0,"vlstart",25,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -19098,7 +19098,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"Nghe đây. Chính xác trong 51 giây tới, cái bộ đàm ngươi đang để ở đó sẽ sớm bị sập thôi.",86]],[{
+          }],["ポロン",[[null,"Nghe đây. Chính xác trong 51 giây tới, cái bộ đàm ngươi đang để ở đó sẽ sớm reo lên thôi.",89]],[{
               "labels": [0,"vlstart",422,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -19327,7 +19327,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"...Gì cơ?",9]],[{
+          }],["グレアム",[[null,"...Gì cơ?",8]],[{
               "labels": [0,"vlstart",31,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -19556,7 +19556,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"Ngươi sẽ được yêu cầu rút lui, và cả đội trưởng của ngươi cũng không làm được cái mẹ gì, đơn giản là vì mệnh lệnh đó đến từ chính phủ.",130]],[{
+          }],["ポロン",[[null,"Ngươi sẽ được yêu cầu rút lui, và cả đội trưởng của ngươi cũng không làm được cái mẹ gì, đơn giản là vì mệnh lệnh đó đến từ chính phủ.",139]],[{
               "labels": [0,"vlstart",635,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -19765,7 +19765,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"Trong khi các ngươi đều đang bối rối, ta sẽ đưa Momo chạy theo. Ngươi sẽ đuổi theo bọn ta, đương nhiên là vậy rồi...",116]],[{
+          }],["ポロン",[[null,"Trong khi các ngươi đều đang bối rối, ta sẽ đưa Momo chạy theo. Ngươi sẽ đuổi theo bọn ta, đương nhiên là vậy rồi...",93]],[{
               "labels": [0,"vlstart",467,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -19974,7 +19974,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"Nhưng ngươi sẽ không thể đuổi được xa, bởi vì có chiếc xe sẽ đi qua và làm ngươi nằm xuống đường.",93]],[{
+          }],["ポロン",[[null,"Nhưng ngươi sẽ không thể đuổi được xa, bởi vì có chiếc xe sẽ đi qua và làm ngươi nằm gục xuống đường.",79]],[{
               "labels": [0,"vlstart",474,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -20183,7 +20183,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"Đó là tương lai mà ta muốn.",28]],[{
+          }],["ポロン",[[null,"Đó là tương lai mà ta muốn.",25]],[{
               "labels": [0,"vlstart",149,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -20601,7 +20601,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"Nhóc kể chuyện đéo gì thế? Rút lui trong 51 giây nữa? Có chiếc xe đâm vào ta? Ta phải thừa nhận là ngươi làm ta cười sặc rồi đấy. Nhưng vậy là đủ rồi―",144]],[{
+          }],["グレアム",[[null,"Nhóc kể chuyện đéo gì thế? Rút lui trong 51 giây nữa? Có chiếc xe đâm vào ta? Ta phải thừa nhận là ngươi làm ta cười sặc rồi đấy. Nhưng vậy là đủ rồi―",129]],[{
               "labels": [0,"vlstart",622,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -21019,7 +21019,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"51 giây rồi đấy. Trả lời đi, anh lính.",38]],[{
+          }],["ポロン",[[null,"51 giây rồi đấy. Trả lời đi, anh lính.",39]],[{
               "labels": [0,"vlstart",251,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -21451,7 +21451,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["副官",[[null,"Chỉ huy, chúng ta được mệnh lệnh rút lui.",41]],[{
+          }],["副官",[[null,"Chỉ huy, chúng ta được mệnh lệnh rút lui.",36]],[{
               "labels": [0,"vlstart",135,"vlstop"],
               "name": "副官",
               "pan": 0,
@@ -21570,7 +21570,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"Mh?! Cái gì...?",15]],[{
+          }],["グレアム",[[null,"Mh?! Cái gì...?",13]],[{
               "labels": [0,"vlstart",116,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -21689,7 +21689,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["副官",[[null,"Chính trị gia của chúng ta hình như không làm được gì cả. Có vẻ như họ vẫn vô dụng như mọi khi.",94]],[{
+          }],["副官",[[null,"Chính trị gia của chúng ta không dám làm gì cả. Có vẻ như họ muốn giữ nguyên tình hình hiện tại.",88]],[{
               "labels": [0,"vlstart",230,"vlstop"],
               "name": "副官",
               "pan": 0,
@@ -21808,7 +21808,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"Nhưng mục tiêu đang ở ngay đây!",31]],[{
+          }],["グレアム",[[null,"Nhưng mục tiêu đang ở ngay đây!",28]],[{
               "labels": [0,"vlstart",98,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -21927,7 +21927,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"Chính ngươi đã biến cuộc truy đuổi này thành một tình huống phức tạp rồi. Là lỗi của các ngươi cả đấy, lũ ăn hại!",105]],[{
+          }],["ポロン",[[null,"Chính ngươi đã biến cuộc truy đuổi này thành một tình huống phức tạp rồi. Là lỗi của các ngươi cả đấy, lũ ăn hại!",82]],[{
               "labels": [0,"vlstart",260,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -22118,7 +22118,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"Aight then, peace!",18]],[{
+          }],["ポロン",[[null,"Chuyện trò đủ rồi, tạm biệt nhá!",18]],[{
               "labels": [0,"vlstart",124,"vlstop"],
               "name": "ポロン",
               "noplay": 1,
@@ -22229,7 +22229,7 @@
               "name": "env"
             },
             "msgwin": 1
-          },0],["グレアム",[[null,"Hold it!",8]],[{
+          },0],["グレアム",[[null,"Dừng lại!",8]],[{
               "labels": [0,"vlstart",42,"vlstop"],
               "name": "グレアム",
               "noplay": 1,
@@ -22340,7 +22340,7 @@
               "name": "env"
             },
             "msgwin": 1
-          },0],["グレアム",[[null,"You can’t escape...",19]],[{
+          },0],["グレアム",[[null,"Ngươi không thoát được đâu...",19]],[{
               "labels": [0,"vlstart",86,"vlstop"],
               "name": "グレアム",
               "noplay": 1,
@@ -22450,7 +22450,7 @@
               "name": "env"
             },
             "msgwin": 1
-          },0],["グレアム",[[null,"Hnh...?!",8]],[{
+          },0],["グレアム",[[null,"Hả...?!",8]],[{
               "labels": [0,"vlstart",40,"vlstop"],
               "name": "グレアム",
               "noplay": 1,
@@ -22560,7 +22560,7 @@
               "name": "env"
             },
             "msgwin": 1
-          },0],["グレアム",[[null,"Shit...!",8]],[{
+          },0],["グレアム",[[null,"Chết tiệt!",8]],[{
               "labels": [0,"vlstart",40,"vlstop"],
               "name": "グレアム",
               "noplay": 1,
@@ -22670,7 +22670,7 @@
               "name": "env"
             },
             "msgwin": 1
-          },0],[null,[[null,"Cánh cửa của chiếc xe mở, và người đàn ông ở trong gọi chàng trai.",66]],null,200,{
+          },0],[null,[[null,"Cánh cửa của chiếc xe mở, và người đàn ông ở trong gọi chàng trai.",62]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -22845,7 +22845,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"Anh muộn quá đấy, Oz!",21]],[{
+          }],["ポロン",[[null,"Anh muộn quá đấy, Oz!",16]],[{
               "labels": [0,"vlstart",112,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -22938,7 +22938,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["オズ",[[null,"Hả? Ừ...",12]],[{
+          }],["オズ",[[null,"Hả? Ừ...",9]],[{
               "labels": [0,"vlstart",117,"vlstop"],
               "name": "オズ",
               "pan": 0,
@@ -23031,7 +23031,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"Cùng với cô gái ngơ ngác bên cạnh, chàng trai liền nhảy vào chiếc xe hơi cổ điển.",86]],null,200,{
+          }],[null,[[null,"Cùng với cô gái ngơ ngác bên cạnh, chàng trai liền nhảy vào chiếc xe cổ.",74]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -23113,7 +23113,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"Phóng ra khỏi đây nào!",22]],[{
+          }],["ポロン",[[null,"Phóng ra khỏi đây nào!",12]],[{
               "labels": [0,"vlstart",33,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -23296,7 +23296,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"Chuyện này thật sự xảy ra rồi?! Hahahah!",40]],[{
+          }],["ポロン",[[null,"Chuyện này thật sự xảy ra rồi ha?! Hahahah!",36]],[{
               "labels": [0,"vlstart",286,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -23388,7 +23388,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"Mặc dù...",9]],[{
+          }],["ポロン",[[null,"Nhưng mà...",11]],[{
               "labels": [0,"vlstart",50,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -23480,7 +23480,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"Tại sao mọi chuyện lại xảy ra như thế này?",42]],[{
+          }],["ポロン",[[null,"Tại sao mọi chuyện lại xảy ra như thế này?",32]],[{
               "labels": [0,"vlstart",224,"vlstop"],
               "name": "ポロン",
               "pan": 0,

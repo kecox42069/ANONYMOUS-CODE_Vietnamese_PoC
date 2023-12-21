@@ -1131,7 +1131,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Next thing I knew, I was on the two-lane road, heading towards Loop 7. The scenery around me was flying past at incredible speed.",129]],null,200,{
+          }],[null,[[null,"Điều tiếp theo tôi thấy là tôi đang lái trên con đường hai chiều, hướng tới Loop 7. Khung cảnh xung quanh tôi đang lướt qua rất nhanh.",129]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -1277,7 +1277,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"There were no other cars on the road.",37]],null,200,{
+          }],[null,[[null,"Không có một chiếc xe nào trên đường.",37]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -1423,7 +1423,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Wh...What...?",13]],[{
+          }],["ポロン",[[null,"Cái... gì thế này?",13]],[{
               "labels": [0,"vlstart",126,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -1579,7 +1579,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Wasn't I at the airport just now?",33]],null,200,{
+          }],[null,[[null,"Chẳng phải tôi vừa mới ở sân bay sao?",33]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -1725,7 +1725,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"The pain all over my body had vanished.",39]],null,200,{
+          }],[null,[[null,"Cơn đau khắp cơ thể tôi đã biến mất.",39]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -1871,7 +1871,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"The soft, warm sensation on my back returned—Momo was clinging to me.",69]],null,200,{
+          }],[null,[[null,"Cảm giác mềm mại, ấm áp sau lưng tôi lại quay trở lại—Momo đang bám lấy tôi.",69]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -2017,7 +2017,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"That was when I realized I was driving my graper.",49]],null,200,{
+          }],[null,[[null,"Và đó là lúc tôi nhận ra tôi vẫn đang lái chiếc Graper.",49]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -2163,7 +2163,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Huh...? What?",13]],[{
+          }],["ポロン",[[null,"Hả...? Sao lại thế này?",13]],[{
               "labels": [0,"vlstart",126,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -2319,7 +2319,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"The shock and confusion were overwhelming. It felt like there was a thin layer of mist clouding my brain.",105]],null,200,{
+          }],[null,[[null,"Tôi hoàn toàn bối rối. Cảm giác như có một lớp sương mù mỏng che phủ tâm trí tôi",105]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -2465,7 +2465,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Completely lost, I looked around to get a handle on my situation.",65]],null,200,{
+          }],[null,[[null,"Hoàn toàn lạc lối, tôi nhìn quanh để tìm cách xử lý tình huống của mình.",65]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -2611,7 +2611,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Suddenly, I saw a pedestrian bridge ahead.",42]],null,200,{
+          }],[null,[[null,"Đột nhiên, tôi nhìn vào cây cầu đi bộ phía trước.",42]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -9513,7 +9513,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"\"HOW'S IT GOING TO END?\"",24]],null,200,{
+          }],[null,[[null,"“CHUYỆN NÀY SẼ KẾT THÚC RA SAO?”",24]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -9672,7 +9672,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"The street lights made it easy to read.",39]],null,200,{
+          }],[null,[[null,"Cột đèn giúp tôi dễ dàng đọc nó.",39]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -9831,7 +9831,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"It was familiar.",16]],null,200,{
+          }],[null,[[null,"Dòng chữ đó rất quen thuộc.",16]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -9990,7 +9990,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I'd seen it before.",19]],null,200,{
+          }],[null,[[null,"Tôi đã thấy nó trước đây.",19]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -10149,7 +10149,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Was that...a dream?",19]],null,200,{
+          }],[null,[[null,"Vừa rồi... có phải là mơ không?",19]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -10308,7 +10308,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Was I feeling some kind of <tips,15,déjà vu>?",45]],null,200,{
+          }],[null,[[null,"Có phải tôi vừa trải qua <tips,15,déjà vu>?",45]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -10467,7 +10467,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"If memory served, something bad was about to happen...",54]],null,200,{
+          }],[null,[[null,"Nếu tôi không nhầm thì... có chuyện gì đó tệ sẽ xảy ra.",54]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -10626,7 +10626,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"A chill ran down my spine.",26]],null,200,{
+          }],[null,[[null,"Một cơn ớn lạnh chạy dọc sống lưng tôi.",26]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -10785,7 +10785,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I rushed to hit the brakes.",27]],null,208,{
+          }],[null,[[null,"Tôi liền phanh chiếc xe.",27]],null,208,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -10923,7 +10923,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"A moment later...",17]],null,192,{
+          }],[null,[[null,"Một lúc sau đó...",17]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -11218,7 +11218,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"The system was hijacked, just like I remembered.",48]],null,200,{
+          }],[null,[[null,"Hệ thống đã bị chiếm, đúng như tôi nhớ.",48]],null,200,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -11365,7 +11365,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"It's the same...",16]],[{
+          }],["ポロン",[[null,"Giống hệt luôn...",16]],[{
               "labels": [0,"vlstart",45,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -11522,7 +11522,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"The mist around my mind vanished in an instant.",47]],null,200,{
+          }],[null,[[null,"Màn sương mù bao quanh tâm trí tôi biến mất ngay lập tức.",47]],null,200,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -11669,7 +11669,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I almost lost control, but I just managed to hit the brakes in time.",68]],null,200,{
+          }],[null,[[null,"Tôi gần như mất lái nhưng vẫn kịp phanh lại.",68]],null,200,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -11816,7 +11816,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"It was hard to stay balanced, but I slid sideways and brought us to a full stop.",80]],null,208,{
+          }],[null,[[null,"Khó để mà giữ thăng bằng, nên tôi rẽ sang một bên và dừng hẳn lại.",80]],null,208,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -12010,7 +12010,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"There. We weren't moving anymore...",35]],null,192,{
+          }],[null,[[null,"Được rồi. Chúng tôi không còn di chuyển nữa.",35]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -12102,7 +12102,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"This was the Koshu-Kaido intersection. The Shinjuku route was above us, and ahead was Loop 7, completely empty.",111]],null,192,{
+          }],[null,[[null,"Nơi đây là Koshu-Kaido. Tuyến đường Shinjuku ở phía trên chúng tôi và phía trước là Loop 7, hoàn toàn trống rỗng.",111]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -12296,7 +12296,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Sorry, but...",13]],[{
+          }],["ポロン",[[null,"Xin lỗi, nhưng mà...",13]],[{
               "labels": [0,"vlstart",113,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -12398,7 +12398,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"If my hunch...no, my memory...was right, then there were armored military cars around here, hidden by active camo.",114]],null,192,{
+          }],[null,[[null,"Nếu linh cảm của tôi... không, ký ức của tôi là đúng... thì có xe bọc thép của quân đội đang ở quanh đây, được che giấu bằng đồ ngụy trang.",114]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -12490,7 +12490,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["モモ",[["モモ・着ぐるみ","Ah! Look!",9]],[{
+          }],["モモ",[["モモ・着ぐるみ","A! Nhìn kìa!",9]],[{
               "labels": [0,"vlstart",75,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -12592,7 +12592,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"And there they were. Noticing that we'd stopped, the armored cars showed themselves.",84]],null,208,{
+          }],[null,[[null,"Và họ thật sự đã ở đó. Nhận thấy chúng tôi đã dừng lại, những chiếc xe bọc thép dần lộ diện.",84]],null,208,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337],["xpos",-600],["zoomy",120],["zoomx",120]],
                   "class": "stage",
@@ -12683,7 +12683,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"The cars that were trailing us had also caught up, quickly setting up a blockade around the intersection.",105]],null,192,{
+          }],[null,[[null,"Những chiếc xe bám theo chúng tôi cũng đuổi kịp, nhanh chóng lập chốt phong tỏa xung quanh giao lộ.",105]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337],["xpos",-600],["zoomy",120],["zoomx",120]],
                   "class": "stage",
@@ -12774,7 +12774,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"They got us surrounded...",25]],[{
+          }],["ポロン",[[null,"Họ bao vây chúng ta rồi...",25]],[{
               "labels": [0,"vlstart",94,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -12875,7 +12875,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Still, this was better than crashing and sliding across the asphalt.",68]],null,192,{
+          }],[null,[[null,"Nhưng vẫn tốt hơn là ngã xe và lăn lộn trên đường bê tông.",68]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337],["xpos",-600],["zoomy",120],["zoomx",120]],
                   "class": "stage",
@@ -12966,7 +12966,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I told Momo to climb off the graper, then did the same myself.",62]],null,192,{
+          }],[null,[[null,"Tôi bảo Momo xuống khỏi chiếc Graper và tôi cũng làm như vậy.",62]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337],["xpos",-600],["zoomy",120],["zoomx",120]],
                   "class": "stage",
@@ -13057,7 +13057,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I didn't know what this déjà vu was all about. I didn't even know if it was déjà vu. The memories felt pretty damn real to me.",126]],null,192,{
+          }],[null,[[null,"Tôi không biết cú déjà vu này là gì. Tôi thậm chí còn không biết đó có phải là déjà vu hay không. Những ký ức đó khá là chân thực đối với tôi.",126]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337],["xpos",-600],["zoomy",120],["zoomx",120]],
                   "class": "stage",
@@ -13148,7 +13148,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"It was more like I was re-experiencing something I'd already been through.",74]],null,192,{
+          }],[null,[[null,"Như kiểu tôi đang trải nghiệm lại điều gì đó mà tôi đã trải qua.",74]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337],["xpos",-600],["zoomy",120],["zoomx",120]],
                   "class": "stage",
@@ -13239,7 +13239,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Did that weird app do this?",27]],null,192,{
+          }],[null,[[null,"Có phải là do cái ứng dụng kỳ quái đó không?",27]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337],["xpos",-600],["zoomy",120],["zoomx",120]],
                   "class": "stage",
@@ -13330,7 +13330,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I couldn't tell, all I could do was act according to my memories.",65]],null,192,{
+          }],[null,[[null,"Tôi không thể nào biết được, những gì tôi có thể làm bây giờ là hành động theo ký ức của mình.",65]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337],["xpos",-600],["zoomy",120],["zoomx",120]],
                   "class": "stage",
@@ -13421,7 +13421,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Another armored car appeared before long.",41]],null,192,{
+          }],[null,[[null,"Một chiếc xe bọc thép khác xuất hiện không lâu sau đó.",41]],null,192,{
             "data": [["bg","stage",{
                   "action": [["xpos",-200],["zpos",233.33333333333337]],
                   "class": "stage",
@@ -13512,7 +13512,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"While the others were keeping the blockade from a distance, this one stopped right in front of us.",98]],null,192,{
+          }],[null,[[null,"Trong khi những người khác đang phong tỏa từ xa thì người này dừng lại ngay trước mặt chúng tôi.",98]],null,192,{
             "data": [["bg","stage",{
                   "action": [["xpos",-200],["zpos",233.33333333333337]],
                   "class": "stage",
@@ -13603,7 +13603,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["グレアム",[[null,"That's right. Standby at high altitude. Don't come down. We don't know what they're up to... Yes. Disregard what Ouranos says.",126]],[{
+          }],["グレアム",[[null,"Đúng vậy. Cứ giữ vững độ cao đó. Đừng hạ xuống. Chúng ta không biết bọn chúng đang làm gì đâu... Ừ. Mặc kệ những gì Ouranos nói đi.",126]],[{
               "labels": [0,"vlstart",477,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -13726,7 +13726,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"The tatted baldy-builder relayed some orders over a transceiver.",64]],null,200,{
+          }],[null,[[null,"Gã đầu trọc cơ bắp đó đưa ra mệnh lệnh bằng bộ đàm.",64]],null,200,{
             "data": [["bg","stage",{
                   "action": [["xpos",-200],["zpos",233.33333333333337]],
                   "class": "stage",
@@ -13839,7 +13839,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"Then, he looked right at me.",28]],null,200,{
+          }],[null,[[null,"Và rồi, hắn nhìn thẳng vào tôi.",28]],null,200,{
             "data": [["bg","stage",{
                   "action": [["xpos",-200],["zpos",233.33333333333337]],
                   "class": "stage",
@@ -14256,7 +14256,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I strained my ears and heard a chopper in the distance.",55]],null,192,{
+          }],[null,[[null,"Tôi căng tai và nghe được tiếng trực thăng ở phía xa.",55]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -14398,7 +14398,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I focused, and thought hard about the best way to get out of this.",66]],null,192,{
+          }],[null,[[null,"Tôi tập trung và suy nghĩ kỹ về cách tốt nhất để thoát khỏi đây.",66]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -14540,7 +14540,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"And I soon had my answer.",25]],null,192,{
+          }],[null,[[null,"Và tôi đã sớm có câu trả lời cho mình.",25]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -14682,7 +14682,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["グレアム",[[null,"You stopped by yourself. Smart move.",36]],[{
+          }],["グレアム",[[null,"Nhóc đã tự dừng xe tại đây. Quả là nước đi sáng suốt đấy.",36]],[{
               "labels": [0,"vlstart",139,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -14834,7 +14834,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"What I had to do was...",23]],null,192,{
+          }],[null,[[null,"Điều tôi phải làm là...",23]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -14976,7 +14976,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Don't put up a front. I know you're relieved, am I right?",57]],[{
+          }],["ポロン",[[null,"Đừng tỏ vẻ mình bạo lực như vậy. Tôi biết ông là người tốt mà, tôi nói đúng không?",57]],[{
               "labels": [0,"vlstart",220,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -15128,7 +15128,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"...provoke him and keep the conversation going.",47]],null,192,{
+          }],[null,[[null,"...chọc tức hắn và tiếp tục cuộc trò chuyện.",47]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -15270,7 +15270,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Gettin' your ass handed to you by a li'l punk like me must've done a number on your pride as a soldier.",103]],[{
+          }],["ポロン",[[null,"Để thua một thằng như tôi hẳn là sẽ làm tổn thương lòng kiêu hãnh của một người lính như ông.",103]],[{
               "labels": [0,"vlstart",341,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -15422,7 +15422,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Sorry, but I'm no <tips,2,script kiddie>.",41]],[{
+          }],["ポロン",[[null,"Xin lỗi nhé, tôi đây không phải <tips,2,script kiddie>.",41]],[{
               "labels": [0,"vlstart",225,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -15726,7 +15726,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["グレアム",[[null,"Hand her over.",14]],[{
+          }],["グレアム",[[null,"Đưa con bé đây.",14]],[{
               "labels": [0,"vlstart",83,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -16030,7 +16030,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"She's not your property.",24]],[{
+          }],["ポロン",[[null,"Cô ấy đâu phải là người của ông.",24]],[{
               "labels": [0,"vlstart",178,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -16182,7 +16182,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["グレアム",[[null,"I said, hand her over.",22]],[{
+          }],["グレアム",[[null,"Ta nói là: Đưa con bé đây.",22]],[{
               "labels": [0,"vlstart",76,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -16334,7 +16334,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"How about you offer somethin' in return? Sweeten the deal and I might say yes.",78]],[{
+          }],["ポロン",[[null,"Trao đổi một chút được không? Thỏa thuận ngon thì... tôi có thể đồng ý đấy.",78]],[{
               "labels": [0,"vlstart",454,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -16486,7 +16486,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"A gunshot.",10]],null,192,{
+          }],[null,[[null,"Một tiếng súng kêu lên.",10]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -16628,7 +16628,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"The guy had gone and shot my graper's rear wheel with his handgun.",66]],null,192,{
+          }],[null,[[null,"Hắn dùng súng lục bắn vào bánh sau của chiếc Graper.",66]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -16770,7 +16770,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Shit. That was no way to treat a man's ride.",44]],null,192,{
+          }],[null,[[null,"Chết tiệt. Hắn dám đối xử mất dạy với chiếc xe của tôi.",44]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -16912,7 +16912,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"And he got where the superconducting motor was. A graper wasn't roadworthy without it.",86]],null,192,{
+          }],[null,[[null,"Và hắn đã bắn trúng động cơ siêu dẫn. Chiếc Graper sẽ không thể chạy nếu không có nó.",86]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -17054,7 +17054,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I couldn't let him see I was panicking, though.",47]],null,192,{
+          }],[null,[[null,"Tuy nhiên, tôi không thể để hắn thấy tôi đang hoảng loạn.",47]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -17196,7 +17196,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I went and glared right at him instead.",39]],null,192,{
+          }],[null,[[null,"Tôi trừng mắt nhìn thẳng vào hắn ta.",39]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -17338,7 +17338,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"You jackass... The army better pay you enough to cover the repair bill!",71]],[{
+          }],["ポロン",[[null,"Ông đần độn quá đấy... Quân đội nên trả lương đầy đủ cho ông để sửa chữa nó!",71]],[{
               "labels": [0,"vlstart",287,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -17490,7 +17490,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["グレアム",[[null,"You don't seem to understand your situation.",44]],[{
+          }],["グレアム",[[null,"Nhóc có vẻ không hiểu tình hình nhỉ.",44]],[{
               "labels": [0,"vlstart",185,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -17642,7 +17642,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["グレアム",[[null,"You have two options. Spend your life in jail, or die here. We'll write it off as an accident. Pick one.",104]],[{
+          }],["グレアム",[[null,"Nhóc có hai lựa chọn. Vào tù, hoặc chết ở đây. Bọn ta sẽ ghi trong báo cáo rằng đây chỉ là tai nạn. Cho nhóc chọn đấy.",104]],[{
               "labels": [0,"vlstart",523,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -17794,7 +17794,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Heh. I don't vibe with either.",30]],[{
+          }],["ポロン",[[null,"Heh. Tôi đâu có muốn chọn.",30]],[{
               "labels": [0,"vlstart",137,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -17946,7 +17946,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["グレアム",[[null,"Your future is in my hands.",27]],[{
+          }],["グレアム",[[null,"Tương lai của nhóc đang ở trong tay ta.",27]],[{
               "labels": [0,"vlstart",186,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -18098,7 +18098,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Really? In those huge, transhuman paws you got there?",53]],[{
+          }],["ポロン",[[null,"Thật á? Ở trong bàn tay to, như siêu nhân của ông?",53]],[{
               "labels": [0,"vlstart",329,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -18250,7 +18250,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["グレアム",[[null,"Give me your answer.",20]],[{
+          }],["グレアム",[[null,"Cho ta câu trả lời.",20]],[{
               "labels": [0,"vlstart",215,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -18554,7 +18554,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Don't underestimate me.",23]],[{
+          }],["ポロン",[[null,"Đừng có đánh giá thấp ta như vậy.",23]],[{
               "labels": [0,"vlstart",72,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -18655,7 +18655,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["グレアム",[[null,"Mm...?",6]],[{
+          }],["グレアム",[[null,"Hửm...?",6]],[{
               "labels": [0,"vlstart",28,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -18756,7 +18756,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Listen up. In exactly 51 seconds, that transceiver you got hangin' there is gonna go off.",89]],[{
+          }],["ポロン",[[null,"Nghe đây. Chính xác trong 51 giây tới, cái bộ đàm ngươi đang để ở đó sẽ sớm reo lên thôi.",89]],[{
               "labels": [0,"vlstart",424,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -18909,7 +18909,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["グレアム",[[null,"...What?",8]],[{
+          }],["グレアム",[[null,"...Gì cơ?",8]],[{
               "labels": [0,"vlstart",36,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -19062,7 +19062,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"This was a gamble.",18]],null,192,{
+          }],[null,[[null,"Đây đúng là cuộc may rủi.",18]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -19205,7 +19205,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"If it worked out, I'd be a goddamn prophet.",43]],null,192,{
+          }],[null,[[null,"Nếu thành công, tôi sẽ là một nhà tiên tri mất.",43]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -19348,7 +19348,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"You're gonna get an order to retreat, and your captain's authority won't mean shit 'cause that order's coming straight from the government.",139]],[{
+          }],["ポロン",[[null,"Ngươi sẽ được yêu cầu rút lui, và cả đội trưởng của ngươi cũng không làm được cái mẹ gì, đơn giản là vì mệnh lệnh đó đến từ chính phủ.",139]],[{
               "labels": [0,"vlstart",660,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -19501,7 +19501,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"While you're all shook up, I'll take Momo and run. You'll come chasing after us, of course...",93]],[{
+          }],["ポロン",[[null,"Trong khi các ngươi đều đang bối rối, ta sẽ đưa Momo chạy theo. Ngươi sẽ đuổi theo bọn ta, đương nhiên là vậy rồi...",93]],[{
               "labels": [0,"vlstart",504,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -19654,7 +19654,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"But you won't get far, 'cause a passing car's gonna knock you flat on the road.",79]],[{
+          }],["ポロン",[[null,"Nhưng ngươi sẽ không thể đuổi được xa, bởi vì có chiếc xe sẽ đi qua và làm ngươi nằm gục xuống đường.",79]],[{
               "labels": [0,"vlstart",510,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -19807,7 +19807,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"That's the future I want.",25]],[{
+          }],["ポロン",[[null,"Đó là tương lai mà ta muốn.",25]],[{
               "labels": [0,"vlstart",181,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -20114,7 +20114,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["グレアム",[[null,"What kind of shit is that? Retreat order in 51 seconds? A car hitting me? You crack me up, I'll give you that. But that's enough―",129]],[{
+          }],["グレアム",[[null,"Nhóc kể chuyện đéo gì thế? Rút lui trong 51 giây nữa? Có chiếc xe đâm vào ta? Ta phải thừa nhận là ngươi làm ta cười sặc rồi đấy. Nhưng vậy là đủ rồi―",129]],[{
               "labels": [0,"vlstart",624,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -20426,7 +20426,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"It actually went off! I was surprised myself, but I didn't show it.",67]],null,192,{
+          }],[null,[[null,"Bộ đàm thật sự reo! Đến tôi cũng bất ngờ, nhưng tôi không thể hiện nó ra.",67]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -20574,7 +20574,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"That's 51 seconds. Answer it, army guy.",39]],[{
+          }],["ポロン",[[null,"51 giây rồi đấy. Trả lời đi, anh lính.",39]],[{
               "labels": [0,"vlstart",249,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -20889,7 +20889,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["グレアム",[[null,"This is Rhino Leader.",21]],[{
+          }],["グレアム",[[null,"Đây là Chỉ huy Rhino.",21]],[{
               "labels": [0,"vlstart",143,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -21013,7 +21013,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["副官",[[null,"Captain, we were ordered to retreat.",36]],[{
+          }],["副官",[[null,"Chỉ huy, chúng ta được mệnh lệnh rút lui.",36]],[{
               "labels": [0,"vlstart",135,"vlstop"],
               "name": "副官",
               "pan": 0,
@@ -21137,7 +21137,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"Mh?! What...?",13]],[{
+          }],["グレアム",[[null,"Mh?! Cái gì...?",13]],[{
               "labels": [0,"vlstart",133,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -21261,7 +21261,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["副官",[[null,"Our politicians higher up the food chain chickened out. Seems they favor the status quo.",88]],[{
+          }],["副官",[[null,"Chính trị gia của chúng ta không dám làm gì cả. Có vẻ như họ muốn giữ nguyên tình hình hiện tại.",88]],[{
               "labels": [0,"vlstart",230,"vlstop"],
               "name": "副官",
               "pan": 0,
@@ -21385,7 +21385,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"But the target's right here!",28]],[{
+          }],["グレアム",[[null,"Nhưng mục tiêu đang ở ngay đây!",28]],[{
               "labels": [0,"vlstart",106,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -21509,7 +21509,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"You're the ones who turned the chase into a shitshow. It's your own fault, losers!",82]],[{
+          }],["ポロン",[[null,"Chính ngươi đã biến cuộc truy đuổi này thành một tình huống phức tạp rồi. Là lỗi của các ngươi cả đấy, lũ ăn hại!",82]],[{
               "labels": [0,"vlstart",259,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -21633,7 +21633,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"Aight then, peace!",18]],[{
+          }],["ポロン",[[null,"Chuyện trò đủ rồi, tạm biệt nhá!",18]],[{
               "labels": [0,"vlstart",105,"vlstop"],
               "name": "ポロン",
               "noplay": 1,
@@ -21744,7 +21744,7 @@
               "name": "env"
             },
             "msgwin": 1
-          },0],["グレアム",[[null,"Hold it!",8]],[{
+          },0],["グレアム",[[null,"Dừng lại!",8]],[{
               "labels": [0,"vlstart",47,"vlstop"],
               "name": "グレアム",
               "noplay": 1,
@@ -21855,7 +21855,7 @@
               "name": "env"
             },
             "msgwin": 1
-          },0],["グレアム",[[null,"You can't escape...",19]],[{
+          },0],["グレアム",[[null,"Ngươi không thoát được đâu...",19]],[{
               "labels": [0,"vlstart",86,"vlstop"],
               "name": "グレアム",
               "noplay": 1,
@@ -21965,7 +21965,7 @@
               "name": "env"
             },
             "msgwin": 1
-          },0],["グレアム",[[null,"Hnh...?!",8]],[{
+          },0],["グレアム",[[null,"Hả...?!",8]],[{
               "labels": [0,"vlstart",47,"vlstop"],
               "name": "グレアム",
               "noplay": 1,
@@ -22075,7 +22075,7 @@
               "name": "env"
             },
             "msgwin": 1
-          },0],["グレアム",[[null,"Shit...!",8]],[{
+          },0],["グレアム",[[null,"Chết tiệt!",8]],[{
               "labels": [0,"vlstart",48,"vlstop"],
               "name": "グレアム",
               "noplay": 1,
@@ -22185,7 +22185,7 @@
               "name": "env"
             },
             "msgwin": 1
-          },0],["オズ",[[null,"Get in!",7]],[{
+          },0],["オズ",[[null,"Vào đi!",7]],[{
               "labels": [0,"vlstart",45,"vlstop"],
               "name": "オズ",
               "pan": 0,
@@ -22278,7 +22278,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Everything was just as I remembered!",36]],null,200,{
+          }],[null,[[null,"Mọi thứ đều như tôi nhớ!",36]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -22361,7 +22361,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"You're late, Oz!",16]],[{
+          }],["ポロン",[[null,"Ông muộn quá đấy, Oz!",16]],[{
               "labels": [0,"vlstart",120,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -22454,7 +22454,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["オズ",[[null,"Oh? Uh...",9]],[{
+          }],["オズ",[[null,"Hả? Ừ...",9]],[{
               "labels": [0,"vlstart",85,"vlstop"],
               "name": "オズ",
               "pan": 0,
@@ -22547,7 +22547,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"The old dude was surprised I called him by his name, but I ignored him and pushed Momo into the rear seat.",106]],null,192,{
+          }],[null,[[null,"Ông ấy ngạc nhiên khi tôi gọi ông bằng tên nhưng tôi phớt lờ và đẩy Momo vào ghế sau.",106]],null,192,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -22623,7 +22623,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Hit the gas!",12]],[{
+          }],["ポロン",[[null,"Phóng ra khỏi đây nào!",12]],[{
               "labels": [0,"vlstart",31,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -22709,7 +22709,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I shouted as I slipped into the passenger seat.",47]],null,192,{
+          }],[null,[[null,"Tôi hét lên ngay khi ngồi vào ghế.",47]],null,192,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -22876,7 +22876,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"It actually happened, huh?! Hahahah!",36]],[{
+          }],["ポロン",[[null,"Chuyện này thật sự xảy ra rồi ha?! Hahahah!",36]],[{
               "labels": [0,"vlstart",297,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -22967,7 +22967,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"It went so well it actually felt kinda good!",44]],null,192,{
+          }],[null,[[null,"Mọi chuyện diễn ra tốt đẹp đến mức tinh thần của tôi tốt lên hẳn!",44]],null,192,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -23048,7 +23048,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["オズ",[[null,"How'd ya know my name, kid?",27]],[{
+          }],["オズ",[[null,"Sao cậu biết tên của tôi hả nhóc?",27]],[{
               "labels": [0,"vlstart",207,"vlstop"],
               "name": "オズ",
               "pan": 0,
@@ -23139,7 +23139,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"I'd answer that later.",22]],null,192,{
+          }],[null,[[null,"Tôi sẽ trả lời câu đó sau.",22]],null,192,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -23220,7 +23220,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"Nonno, an armored car's gonna come after us. Blind 'em with that weird rocket of yours!",87]],[{
+          }],["ポロン",[[null,"Nonno, có xe bọc thép sẽ đuổi theo chúng ta. Hãy làm mù họ bằng súng phóng tên lửa kỳ quặc đấy của em!",87]],[{
               "labels": [0,"vlstart",284,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -23311,7 +23311,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ノンノ",[[null,"Huh? Huh?",9]],[{
+          }],["ノンノ",[[null,"Hả? Hả?",9]],[{
               "labels": [0,"vlstart",80,"vlstop"],
               "name": "ノンノ",
               "pan": 0,
@@ -23402,7 +23402,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"It's right under your feet, yeah? Uhh, Beary-whatever! The thing that shoots fireworks!",87]],[{
+          }],["ポロン",[[null,"Nó ở ngay dưới chân em, phải không? Ờmm, khẩu Beary- gì gì đó! Cái thứ bắn ra pháo hoa ấy!",87]],[{
               "labels": [0,"vlstart",412,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -23493,7 +23493,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ノンノ",[[null,"Whah?! How do you know that?! Telepathy? Sympathy? Villainy?!",61]],[{
+          }],["ノンノ",[[null,"Hả?! Sao anh biết được?! Anh có thần giao cách cảm à?",61]],[{
               "labels": [0,"vlstart",283,"vlstop"],
               "name": "ノンノ",
               "pan": 0,
@@ -23584,7 +23584,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"All right, all right! Look, I know you're a virtuoso!",53]],[{
+          }],["ポロン",[[null,"Được rồi, được rồi! Nhìn này, anh biết em là một bậc thầy!",53]],[{
               "labels": [0,"vlstart",183,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -23675,7 +23675,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ノンノ",[[null,"Ah! Y-yeah! I'm a virtuoso!",27]],[{
+          }],["ノンノ",[[null,"A! Đ-đúng rồi! Em là một bậc thầy!",27]],[{
               "labels": [0,"vlstart",218,"vlstop"],
               "name": "ノンノ",
               "pan": 0,
@@ -23766,7 +23766,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"So I can count on you, right?!",30]],[{
+          }],["ポロン",[[null,"Nên là anh sẽ dựa dẫm vào em, được chưa?",30]],[{
               "labels": [0,"vlstart",45,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -23857,7 +23857,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ノンノ",[[null,"Wuheheheh! You really know what a lady likes! You're nothing like Oz!",69]],[{
+          }],["ノンノ",[[null,"Hehehe! Anh hiểu con gái thật đấy! Không như Oz!",69]],[{
               "labels": [0,"vlstart",352,"vlstop"],
               "name": "ノンノ",
               "pan": 0,
@@ -23948,7 +23948,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"Clearly happy, she quickly took her mini rocket launcher and stuck herself out of the sunroof.",94]],null,216,{
+          }],[null,[[null,"Cô bé đang rất vui, nhanh chóng lấy súng phóng tên lửa bé nhỏ của mình và thò qua nóc xe.",94]],null,216,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -24051,7 +24051,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["モモ",[["モモ・着ぐるみ","Huh? A-are we really doing this?!",33]],[{
+          }],["モモ",[["モモ・着ぐるみ","Hả? C-chúng ta thật sự làm vậy ư?",33]],[{
               "labels": [0,"vlstart",142,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -24164,7 +24164,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"It's fine, just shoot!",22]],[{
+          }],["ポロン",[[null,"Sẽ ổn thôi, cứ bắn đi!",22]],[{
               "labels": [0,"vlstart",74,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -24277,7 +24277,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ノンノ",[[null,"Roger-dodger yessiree!",22]],[{
+          }],["ノンノ",[[null,"Nghe rõ, thưa chỉ huy!",22]],[{
               "labels": [0,"vlstart",106,"vlstop"],
               "name": "ノンノ",
               "pan": 0,
@@ -27300,7 +27300,7 @@
           "type": 0
         }],
       "spCount": 59,
-      "texts": [["ノンノ",[[null,"FIRE!",5]],[{
+      "texts": [["ノンノ",[[null,"KHAI HỎA!",5]],[{
               "labels": [0,"vlstart",69,"vlstop"],
               "name": "ノンノ",
               "pan": 0,
@@ -27416,7 +27416,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"The rocket flew through the air, leaving a trail of white smoke as it shot straight for the armored car.",104]],null,200,{
+          }],[null,[[null,"Tên lửa bay trên không trung, để lại một vệt khói trắng khi bắn thẳng vào chiếc xe bọc thép.",104]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -27510,7 +27510,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"Right before impact, it blew up, triggering an explosion of colorful fireworks.",79]],null,216,{
+          }],[null,[[null,"Ngay trước khi tên lửa đâm tới, nó phát nổ, pháo hoa đầy màu sắc hiện ra.",79]],null,216,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -27613,7 +27613,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ノンノ",[[null,"SHWOO! BOOM! BLAST THE POWDER KEG!",34]],[{
+          }],["ノンノ",[[null,"XÈO! BÙM! THUỐC NỔ BẮN TÓE LOE!",34]],[{
               "labels": [0,"vlstart",268,"vlstop"],
               "name": "ノンノ",
               "pan": 0,
@@ -27726,7 +27726,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"Caught by surprise, the armored car lost balance and stopped.",61]],null,200,{
+          }],[null,[[null,"Bị bất ngờ, chiếc xe bọc thép mất thăng bằng và dừng lại.",61]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -27829,7 +27829,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"There weren't any other cars chasing us, and I couldn't hear the chopper anymore either.",88]],null,192,{
+          }],[null,[[null,"Không còn xe nào truy đuổi chúng tôi nữa, tôi cũng không nghe thấy tiếng trực thăng nào.",88]],null,192,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -27896,7 +27896,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"We were probably still under surveillance from a military sat...",64]],null,192,{
+          }],[null,[[null,"Có thể chúng tôi vẫn bị theo dõi bởi vệ tinh quân đội...",64]],null,192,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -27963,7 +27963,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"...but they'd been ordered to retreat, so I guess it was safe to assume they'd given up their pursuit...right?",110]],null,192,{
+          }],[null,[[null,"...nhưng họ đã rút lui rồi, chắc giờ cứ coi như họ đã từ bỏ việc truy đuổi đi ha...",110]],null,192,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -28030,7 +28030,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"We did it...",12]],[{
+          }],["ポロン",[[null,"Chúng ta làm được rồi...",12]],[{
               "labels": [0,"vlstart",58,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -28127,7 +28127,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"I looked back at Momo, who seemed like she was in a hell of a daze.",67]],null,192,{
+          }],[null,[[null,"Tôi nhìn Momo, cô ấy trông rất choáng váng.",67]],null,192,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -28311,7 +28311,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"She was kinda spacing out...",28]],null,192,{
+          }],[null,[[null,"Cô ấy hình như vẫn không hiểu chuyện gì vừa xảy ra...",28]],null,192,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -28398,7 +28398,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"But she was here with me.",25]],null,192,{
+          }],[null,[[null,"Nhưng cô ấy vẫn ở đây với tôi.",25]],null,192,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -28485,7 +28485,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"That felt like a miracle in itself.",35]],null,192,{
+          }],[null,[[null,"Cảm giác như là một phép màu vậy.",35]],null,192,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -28572,7 +28572,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["オズ",[[null,"Hey, you.",9]],[{
+          }],["オズ",[[null,"Này nhóc.",9]],[{
               "labels": [0,"vlstart",84,"vlstop"],
               "name": "オズ",
               "pan": 0,
@@ -28669,7 +28669,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"Oz grabbed me by the chest, his other hand still on the steering wheel.",71]],null,192,{
+          }],[null,[[null,"Oz kéo lấy áo tôi, tay kia của ông ấy vẫn cầm tay lái.",71]],null,192,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -28757,7 +28757,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["オズ",[[null,"How'd ya know our names? Why were they after ya? Who the hell are ya?",69]],[{
+          }],["オズ",[[null,"Sao nhóc biết tên của bọn tôi? Tại sao bọn chúng truy đuổi hai đứa? Hai đứa là ai?",69]],[{
               "labels": [0,"vlstart",337,"vlstop"],
               "name": "オズ",
               "pan": 0,
@@ -28855,7 +28855,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"Um... How should I put it...",28]],[{
+          }],["ポロン",[[null,"Ờm... Phải nói sao giờ...",28]],[{
               "labels": [0,"vlstart",135,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -28953,7 +28953,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"Sorry... Not gonna lie, I dunno what the hell's going on myself.",64]],[{
+          }],["ポロン",[[null,"Xin lỗi ông... Nói thật, đến cả tôi cũng không biết chuyện quái gì đang xảy ra nữa.",64]],[{
               "labels": [0,"vlstart",405,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -29051,7 +29051,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["モモ",[["モモ・着ぐるみ","It's not him, it's me!",22]],[{
+          }],["モモ",[["モモ・着ぐるみ","Không phải do cậu ấy - là tôi cả đấy!",22]],[{
               "labels": [0,"vlstart",100,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -29148,7 +29148,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["モモ",[["モモ・着ぐるみ","Pollon put himself in danger, just to help me!",46]],[{
+          }],["モモ",[["モモ・着ぐるみ","Pollon tự đưa mình vào nguy hiểm chỉ để giúp tôi!",46]],[{
               "labels": [0,"vlstart",259,"vlstop"],
               "name": "モモ",
               "pan": 0,
@@ -29245,7 +29245,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"Momo hastily tried to cover for me.",35]],null,192,{
+          }],[null,[[null,"Momo vội vàng bao che tôi.",35]],null,192,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -29332,7 +29332,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"Oz seemed to know who was after her.",36]],null,192,{
+          }],[null,[[null,"Oz có vẻ như biết những kẻ truy đuổi cô ấy.",36]],null,192,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -29419,7 +29419,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"But in any case, one thing was plain as day.",44]],null,192,{
+          }],[null,[[null,"Nhưng dù thế nào đi nữa, có một điều đã rất rõ ràng rồi.",44]],null,192,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -29519,7 +29519,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"Momo hadn't lost them for good.",31]],null,216,{
+          }],[null,[[null,"Bọn chúng vẫn chưa ngừng truy đuổi Momo.",31]],null,216,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -29644,7 +29644,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"We might've escaped them for now, but I'd be a fool to think this was all over.",79]],null,200,{
+          }],[null,[[null,"Có thể bây giờ chúng tôi đã thoát khỏi chúng, nhưng không thể nào mọi chuyện đã kết thúc.",79]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -29769,7 +29769,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"What could we do to get rid of them once and for all?",53]],null,200,{
+          }],[null,[[null,"Chúng tôi phải làm gì để xử lý họ?",53]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -29894,7 +29894,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"Was police protection even an option here?",42]],null,200,{
+          }],[null,[[null,"Liệu nhờ cảnh sát có được không?",42]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -30019,7 +30019,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"Or would we have to leave Tokyo altogether?",43]],null,200,{
+          }],[null,[[null,"Hay chúng tôi có nên rời khỏi Tokyo?",43]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -30144,7 +30144,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["オズ",[[null,"What's your name?",17]],[{
+          }],["オズ",[[null,"Tên nhóc là gì?",17]],[{
               "labels": [0,"vlstart",121,"vlstop"],
               "name": "オズ",
               "pan": 0,
@@ -30248,7 +30248,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ポロン",[[null,"I'm Pollon Takaoka—",19]],[{
+          }],["ポロン",[[null,"Tôi là Pollon Takaoka-",19]],[{
               "labels": [0,"vlstart",91,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -30339,7 +30339,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ノンノ",[[null,"Ah! In front!",13]],[{
+          }],["ノンノ",[[null,"A! Phía trước kìa!",13]],[{
               "labels": [0,"vlstart",72,"vlstop"],
               "name": "ノンノ",
               "pan": 0,
@@ -35186,7 +35186,7 @@
           "type": 0
         }],
       "spCount": 71,
-      "texts": [[null,[[null,"A woman with an umbrella was standing right in front of us.",59]],null,216,{
+      "texts": [[null,[[null,"Có một người phụ nữ cầm ô đứng phía trước chúng tôi",59]],null,216,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -35374,7 +35374,7 @@
               "tagname": "quake",
               "vmax": "3"
             }
-          }],[null,[[null,"Oz quickly turned the wheel.",28]],null,192,{
+          }],[null,[[null,"Oz nhanh chóng bẻ lái.",28]],null,192,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -35443,7 +35443,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"It...didn't feel like we'd hit anyone.",38]],null,192,{
+          }],[null,[[null,"Cảm giác như... chúng tôi chưa hề đâm ai.",38]],null,192,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -35512,7 +35512,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"We had no of knowing whether she'd dodged us either, since the car was throwing us left and right.",98]],null,192,{
+          }],[null,[[null,"Không biết liệu cô ấy có né được hay không vì chiếc xe đang nghiêng bọn tôi qua trái và phải liên tục.",98]],null,192,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -35581,7 +35581,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Oz did what he could to right our balance.",42]],null,192,{
+          }],[null,[[null,"Oz làm những gì ông ấy có thể để lấy lại thăng bằng.",42]],null,192,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -35650,7 +35650,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"But right in front of us was a steel plate wall used in construction sites.",75]],null,216,{
+          }],[null,[[null,"Nhưng ngay trước mặt chúng tôi là bức tường thép được dùng trong xây dựng.",75]],null,216,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -35763,7 +35763,7 @@
               "tagname": "quake",
               "vmax": "3"
             }
-          }],[null,[[null,"Beyond it was the Shinjuku Crater—a reconstruction zone, and an off-limits area.",80]],null,200,{
+          }],[null,[[null,"Bên trong nó là Hố lõm Shinjuku – một khu xây dựng và là một khu miễn vào.",80]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -35876,7 +35876,7 @@
               "tagname": "quake",
               "vmax": "3"
             }
-          }],["オズ",[[null,"We're goin' in!",15]],[{
+          }],["オズ",[[null,"Chúng ta đang tiến vào!",15]],[{
               "labels": [0,"vlstart",61,"vlstop"],
               "name": "オズ",
               "pan": 0,
@@ -35999,7 +35999,7 @@
               "tagname": "quake",
               "vmax": "3"
             }
-          }],[null,[[null,"I braced for impact.",20]],null,200,{
+          }],[null,[[null,"Tôi sẵn sàng cho cú va chạm.",20]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -36112,7 +36112,7 @@
               "tagname": "quake",
               "vmax": "3"
             }
-          }],[null,[[null,"Beyond the wall were a load of construction vehicles, as well as cars that probably belonged to the people working here.",120]],null,208,{
+          }],[null,[[null,"Phía sau bức tường là hàng đống xe xây dựng cũng như ô tô, có lẽ là của những người làm việc ở đây.",120]],null,208,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -36201,7 +36201,7 @@
               "tagname": "quake",
               "vmax": "3"
             }
-          }],[null,[[null,"Further ahead was the edge of the crater—one of the scars left on the city after the events of the Sad Morning.",111]],null,192,{
+          }],[null,[[null,"Xa hơn về phía trước là rìa của hố lõm - một trong những dấu vết được để lại trong thành phố sau sự kiện Sad Morning.",111]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -36290,7 +36290,7 @@
               "tagname": "quake",
               "vmax": "3"
             }
-          }],["オズ",[[null,"Who was that woman?!",20]],[{
+          }],["オズ",[[null,"Cô gái đó là ai vậy?",20]],[{
               "labels": [0,"vlstart",169,"vlstop"],
               "name": "オズ",
               "pan": 0,
@@ -36389,7 +36389,7 @@
               "tagname": "quake",
               "vmax": "3"
             }
-          }],["ポロン",[[null,"Dude, stop the car! That's the edge of the crater right there!",62]],[{
+          }],["ポロン",[[null,"Này ông chú, dừng xe ngay đi! Có cái hố lõm phía trước kìa!",62]],[{
               "labels": [0,"vlstart",271,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -36488,7 +36488,7 @@
               "tagname": "quake",
               "vmax": "3"
             }
-          }],[null,[[null,"Suddenly, there was a shocking side-on impact.",46]],null,192,{
+          }],[null,[[null,"Đột nhiên, có một cú va chạm bất ngờ xảy ra.",46]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337],["xpos",-1200],["zoomy",150],["zoomx",150]],
                   "class": "stage",
@@ -36578,7 +36578,7 @@
               "tagname": "quake",
               "vmax": "3"
             }
-          }],[null,[[null,"A parked car had suddenly stirred to life and rammed into us.",61]],null,216,{
+          }],[null,[[null,"Một chiếc ô tô đang đỗ bỗng nhiên chạy và đâm thẳng vào chúng tôi.",61]],null,216,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337],["xpos",-1200],["zoomy",150],["zoomx",150]],
                   "class": "stage",
@@ -36690,7 +36690,7 @@
               "tagname": "quake",
               "vmax": "3"
             }
-          }],[null,[[null,"It was like it was being controlled by something.",49]],null,200,{
+          }],[null,[[null,"Như kiểu nó bị điều khiển bởi thứ gì đó.",49]],null,200,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337],["xpos",-1200],["zoomy",150],["zoomx",150]],
                   "class": "stage",
@@ -36802,7 +36802,7 @@
               "tagname": "quake",
               "vmax": "3"
             }
-          }],[null,[[null,"Was this remote control?!",25]],null,200,{
+          }],[null,[[null,"Có phải là điều khiển từ xa không?!",25]],null,200,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337],["xpos",-1200],["zoomy",150],["zoomx",150]],
                   "class": "stage",
@@ -36914,7 +36914,7 @@
               "tagname": "quake",
               "vmax": "3"
             }
-          }],[null,[[null,"It wasn't just one car, either. A bunch of others joined in on the thrashing.",77]],null,200,{
+          }],[null,[[null,"Không chỉ có một chiếc, mà là một đống chiếc xe khác đang cố đâm vào chúng tôi.",77]],null,200,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337],["xpos",-1200],["zoomy",150],["zoomx",150]],
                   "class": "stage",
@@ -37026,7 +37026,7 @@
               "tagname": "quake",
               "vmax": "3"
             }
-          }],[null,[[null,"Even though we were moving, they were smashing into us with crazy precision.",76]],null,200,{
+          }],[null,[[null,"Ngay cả khi bọn tôi đang đi rất nhanh, những chiếc xe đó vẫn đâm trúng vào bọn tôi.",76]],null,200,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337],["xpos",1200],["zoomy",150],["zoomx",150]],
                   "class": "stage",
@@ -37138,7 +37138,7 @@
               "tagname": "quake",
               "vmax": "3"
             }
-          }],["ポロン",[[null,"Fuck, one after the other...!",29]],[{
+          }],["ポロン",[[null,"Con mẹ nó! Hết lần này đến lần khác!",29]],[{
               "labels": [0,"vlstart",98,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -37260,7 +37260,7 @@
               "tagname": "quake",
               "vmax": "3"
             }
-          }],["オズ",[[null,"Goddammit!",10]],[{
+          }],["オズ",[[null,"Khốn kiếp!",10]],[{
               "labels": [0,"vlstart",124,"vlstop"],
               "name": "オズ",
               "pan": 0,
@@ -37382,7 +37382,7 @@
               "tagname": "quake",
               "vmax": "3"
             }
-          }],[null,[[null,"Oz hit the brakes and somehow stopped the car from falling into the crater.",75]],null,192,{
+          }],[null,[[null,"Oz đạp phanh và kịp dừng chiếc xe trước khi rơi vào cái hố.",75]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -37470,7 +37470,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["オズ",[[null,"Phew... You all okay...?",24]],[{
+          }],["オズ",[[null,"Phù... Mọi người ổn chứ...?",24]],[{
               "labels": [0,"vlstart",213,"vlstop"],
               "name": "オズ",
               "pan": 0,
@@ -37562,7 +37562,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Was that the army too?!",23]],[{
+          }],["ポロン",[[null,"Vừa nãy có phải do quân đội không?",23]],[{
               "labels": [0,"vlstart",112,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -37654,7 +37654,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Before I got an answer, one of the unmanned cars suddenly came speeding towards us from behind.",95]],null,216,{
+          }],[null,[[null,"Trước khi tôi tìm được câu trả lời, một chiếc xe không người lái bỗng dưng phóng tới chúng tôi từ phía sau.",95]],null,216,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -37758,7 +37758,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["オズ",[[null,"Shit! Hop out!",14]],[{
+          }],["オズ",[[null,"Chết tiệt! Nhảy ra đi!",14]],[{
               "labels": [0,"vlstart",109,"vlstop"],
               "name": "オズ",
               "pan": 0,
@@ -37872,7 +37872,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Oz grabbed Nonno and leapt out of the car.",42]],null,200,{
+          }],[null,[[null,"Oz tóm lấy Nonno và nhảy ra khỏi xe.",42]],null,200,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -38204,7 +38204,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"I tried to take her hand and get out.",37]],null,200,{
+          }],[null,[[null,"Tôi cố bắt lấy tay cô ấy và nhảy ra.",37]],null,200,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -38308,7 +38308,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"But before I could do that...",29]],null,192,{
+          }],[null,[[null,"Nhưng trước khi tôi kịp làm vậy...",29]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -38411,7 +38411,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"...I felt the shock of an intense impact. The car tilted hard and...",68]],null,192,{
+          }],[null,[[null,"...Tôi bị sốc do một va chạm mạnh nào đó. Chiếc xe rung mạnh và...",68]],null,192,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -38616,7 +38616,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Suddenly, we were in mid-air.",29]],null,200,{
+          }],[null,[[null,"Đột nhiên, chúng tôi bay giữa không trung.",29]],null,200,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -38715,7 +38715,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],[null,[[null,"Momo and I were flung out through the open door.",48]],null,200,{
+          }],[null,[[null,"Momo và tôi bị đẩy ra ngoài bằng cánh cửa đang mở.",48]],null,200,{
             "data": [["bg","stage",{
                   "action": [["zpos",233.33333333333337]],
                   "class": "stage",
@@ -40327,7 +40327,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"The umbrella-wielding woman looked down with great disinterest, as though whatever had happened below was barely worth her attention.",133]],null,200,{
+          }],[null,[[null,"Người phụ nữ cầm ô nhìn xuống trông vô cùng thờ ơ, như thể những gì xảy ra ở dưới đều không đáng để cô ấy chú ý.",133]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -40406,7 +40406,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"She was on the roof of a 52-story building.",43]],null,200,{
+          }],[null,[[null,"Cô ta đang đứng ở trên nóc tòa nhà 52 tầng.",43]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -40484,7 +40484,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"Her gaze was, at this moment, fixed upon something far in the distance.",71]],null,200,{
+          }],[null,[[null,"Lúc này, ánh mắt của cô ta nhìn vào một thứ gì đó ở rất xa.",71]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
@@ -40562,7 +40562,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],[null,[[null,"It was as if she was staring directly at the edge of the faraway crater, precisely where the car had just crashed.",114]],null,200,{
+          }],[null,[[null,"Cứ như cô ấy đang nhìn thẳng vào rìa của hố lõm xa kia, đúng cái nơi mà chiếc xe vừa đâm.",114]],null,200,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {

@@ -5286,7 +5286,7 @@
           "type": 0
         }],
       "spCount": 91,
-      "texts": [["富岡",[[null,"Nhanh tay vào công việc nào. Tao cảm giác có ai đó đang theo dõi chúng ta.",45]],[{
+      "texts": [["富岡",[[null,"Nhanh tay vào việc nào. Tao cảm giác có ai đó đang theo dõi chúng ta.",45]],[{
               "labels": [0,"vlstart",204,"vlstop"],
               "name": "富岡",
               "pan": 0,
@@ -6366,7 +6366,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["富岡",[[null,"Con mẹ! Sao lại vậy?! Chúng ta đã chặn máy chủ khỏi những truy cập bên ngoài rồi cơ mà! Khốn kiếp! Này, rút cái dây đ—",91]],[{
+          }],["富岡",[[null,"Con mẹ! Sao lại vậy?! Chúng ta đã chặn máy chủ khỏi truy cập bên ngoài rồi cơ mà! Khốn kiếp! Này, rút cái dây đ—",91]],[{
               "labels": [0,"vlstart",307,"vlstop"],
               "name": "富岡",
               "pan": 0,
@@ -7014,7 +7014,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["五井",[[null,"Hả...? Dữ liệu...bị mất rồi ư?",26]],[{
+          }],["五井",[[null,"Hả...? Dữ liệu...bị xóa rồi ư?",26]],[{
               "labels": [0,"vlstart",158,"vlstop"],
               "name": "五井",
               "pan": 0,
@@ -8297,7 +8297,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Cảm ơn sự hỗ trợ, Cross. Việc này chắc chắn sẽ không diễn ra suôn sẻ nếu không có anh.",90]],[{
+          }],["ポロン",[[null,"Cảm ơn vì sự hỗ trợ, Cross. Nếu không có anh thì việc này chắc chắn sẽ không diễn ra suôn sẻ rồi.",90]],[{
               "labels": [0,"vlstart",294,"vlstop"],
               "name": "ポロン",
               "pan": 0,
@@ -9503,7 +9503,7 @@
               "name": "env"
             },
             "msgwin": 0
-          }],["ポロン",[[null,"Nhưng khi chúng ta suy nghĩ về nó thì anh kiểu: \"Ừ, nghe cũng ngầu đét.\"",64]],[{
+          }],["ポロン",[[null,"Nhưng khi chúng ta suy nghĩ về nó thì anh kiểu: “Ừ, nghe cũng ngầu đét.”",64]],[{
               "labels": [0,"vlstart",158,"vlstop"],
               "name": "ポロン",
               "pan": 0,

@@ -1751,7 +1751,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ユアン",[[null,"The chopper will be ready in two minutes.",41]],[{
+          }],["ユアン",[[null,"Trực thăng sẽ sẵn sàng sau hai phút nữa.",41]],[{
               "labels": [0,"vlstart",133,"vlstop"],
               "name": "ユアン",
               "pan": 0,
@@ -1842,7 +1842,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["アスマ",[[null,"Tsk. Why the hell do I have to go? Just leave it to the army.",61]],[{
+          }],["アスマ",[[null,"Tại sao ta phải đi? Cứ giao việc cho bọn quân đội là được.",61]],[{
               "labels": [0,"vlstart",395,"vlstop"],
               "name": "アスマ",
               "pan": 0,
@@ -1933,7 +1933,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ユアン",[[null,"The government's orders were for you.",37]],[{
+          }],["ユアン",[[null,"Lệnh của chính phủ là dành cho ngài.",37]],[{
               "labels": [0,"vlstart",160,"vlstop"],
               "name": "ユアン",
               "pan": 0,
@@ -2024,7 +2024,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["ユアン",[[null,"You should comply, even if it's just for show. They're virtually our sponsors, after all.",89]],[{
+          }],["ユアン",[[null,"Ngài nên làm theo mệnh lệnh, ngay cả khi ngài không cần làm gì ở đó. Họ đều là nhà tài trợ của chúng ta.",89]],[{
               "labels": [0,"vlstart",401,"vlstop"],
               "name": "ユアン",
               "pan": 0,
@@ -2115,7 +2115,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["アスマ",[[null,"Who are you to boss me around, you lanky nerd?",46]],[{
+          }],["アスマ",[[null,"Ngươi là gì mà dám ra lệnh với ta hả, thằng gầy ốm?",46]],[{
               "labels": [0,"vlstart",210,"vlstop"],
               "name": "アスマ",
               "pan": 0,
@@ -2206,7 +2206,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["アスマ",[[null,"I should tell the government where to stick it, too. They must think I'm their dog or something. Those bastards...",114]],[{
+          }],["アスマ",[[null,"Ta cũng nên bảo chính phủ tự làm việc nấy. Chắc bọn này nghĩ ta là con chó của bọn nó rồi. Đám khốn nạn...",114]],[{
               "labels": [0,"vlstart",328,"vlstop"],
               "name": "アスマ",
               "pan": 0,
@@ -2297,7 +2297,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["アスマ",[[null,"I have no idea what's so special about that woman...",52]],[{
+          }],["アスマ",[[null,"Ta không biết con ả đó có gì đặc biệt...",52]],[{
               "labels": [0,"vlstart",175,"vlstop"],
               "name": "アスマ",
               "pan": 0,
@@ -2388,7 +2388,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["アスマ",[[null,"...but she can't be more important than my GAIA.",48]],[{
+          }],["アスマ",[[null,"...dù sao thì ả cũng không quan trọng bằng GAIA của ta.",48]],[{
               "labels": [0,"vlstart",289,"vlstop"],
               "name": "アスマ",
               "pan": 0,

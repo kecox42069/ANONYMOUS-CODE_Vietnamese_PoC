@@ -1243,7 +1243,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"Làm thế nào mà lại để dân thường có thể lọt qua? Tôi biết chúng ta đâu có muốn nhiệm vụ này, nhưng chúng ta vẫn phải nghiêm túc thực hiện nó.",109]],[{
+          }],["グレアム",[[null,"Làm thế nào mà cô ta có thể lọt qua? Tôi biết chúng ta đâu có muốn nhiệm vụ này, nhưng chúng ta vẫn phải nghiêm túc thực hiện nó.",109]],[{
               "labels": [0,"vlstart",318,"vlstop"],
               "name": "グレアム",
               "pan": 0,
@@ -1717,7 +1717,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["習志野オペＢ",[[null,"Chúng tôi đã sử dụng AI để dự đoán những tuyến đường mà cô ta có thể đi từ đó.",80]],[{
+          }],["習志野オペＢ",[[null,"Chúng tôi đã sử dụng A.I để dự đoán những tuyến đường mà cô ta có thể đi từ đó.",80]],[{
               "labels": [0,"vlstart",271,"vlstop"],
               "name": "習志野オペＢ",
               "pan": 0,
@@ -1796,7 +1796,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["習志野オペＢ",[[null,"Bây giờ chúng tôi đang có vệ tinh dữ liệu đang theo dõi những tuyến đường đó. Còn 80 giây cho đến khi hoàn tất việc chuẩn bị.",96]],[{
+          }],["習志野オペＢ",[[null,"Bây giờ chúng tôi đang dùng dữ liệu vệ tinh để theo dõi những tuyến đường đó. Còn 80 giây cho đến khi hoàn tất việc chuẩn bị.",96]],[{
               "labels": [0,"vlstart",371,"vlstop"],
               "name": "習志野オペＢ",
               "pan": 0,
@@ -2033,7 +2033,7 @@
               "name": "env"
             },
             "msgwin": 1
-          }],["グレアム",[[null,"Kêu gọi toàn bộ nhân sự.",18]],[{
+          }],["グレアム",[[null,"Kêu gọi toàn bộ đơn vị.",18]],[{
               "labels": [0,"vlstart",79,"vlstop"],
               "name": "グレアム",
               "pan": 0,

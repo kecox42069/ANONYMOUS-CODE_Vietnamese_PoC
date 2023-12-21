@@ -1,0 +1,3048 @@
+{
+  "easing": [[{
+        "p": [0.0,1.68982148,0.787155747,0.857203,1.55292118,1.26248765,9.095557,0.0],
+        "x": [0.0,0.1158681,0.242341921,0.6348478,0.7531947,0.8568723,0.94082576,1.0],
+        "y": [0.0,0.05917426,0.1431277,0.49311322,0.625633538,0.757658064,0.8841319,1.0]
+      }]],
+  "id": "motion",
+  "label": "acb_005a",
+  "metadata": null,
+  "object": {
+    "acb_005a": {
+      "metadata": null,
+      "motion": {
+        "anim_control": {
+          "bounds": {
+            "bottom": 0,
+            "left": 0,
+            "right": 0,
+            "top": 0
+          },
+          "lastTime": 3,
+          "layer": [{
+              "children": [],
+              "coordinate": 0,
+              "exportSelf": 1,
+              "frameList": [{
+                  "content": {
+                    "icon": "number_blue",
+                    "mask": 524288,
+                    "motion": {
+                      "mask": 0,
+                      "timeOffset": 0
+                    },
+                    "src": "acb_005a"
+                  },
+                  "time": 0,
+                  "type": 2
+                },{
+                  "content": {
+                    "icon": "number_anim",
+                    "mask": 524288,
+                    "motion": {
+                      "mask": 0,
+                      "timeOffset": 0
+                    },
+                    "src": "acb_005a"
+                  },
+                  "time": 1,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [0.0,2.0,0.0],
+                    "icon": "arrival_anim",
+                    "mask": 524290,
+                    "motion": {
+                      "mask": 0,
+                      "timeOffset": 0
+                    },
+                    "src": "acb_005a"
+                  },
+                  "time": 2,
+                  "type": 2
+                },{
+                  "time": 3,
+                  "type": 0
+                }],
+              "groundCorrection": 0,
+              "inheritMask": 33556476,
+              "joinTarget": 1,
+              "label": "anim_control",
+              "meshCombine": 0,
+              "meshTransform": 0,
+              "metadata": null,
+              "motionIndependentLayerInherit": 0,
+              "parameterize": null,
+              "stencilType": 0,
+              "transformOrder": [0,3,2,1],
+              "type": 3,
+              "uid": ""
+            }],
+          "layerIndexMap": {
+            "anim_control": 0
+          },
+          "loopTime": -1,
+          "metadata": null,
+          "parameter": [{
+              "discretization": 1,
+              "division": 2,
+              "enabled": 1,
+              "id": "anim",
+              "rangeBegin": 0,
+              "rangeEnd": 2
+            }],
+          "parameterize": 0,
+          "priority": [{
+              "content": [0],
+              "time": 0,
+              "type": 1
+            },{
+              "content": null,
+              "time": 3,
+              "type": 1
+            }],
+          "referenceModelFileList": [],
+          "referenceProjectFileList": [],
+          "tag": [],
+          "type": 0,
+          "variable": []
+        },
+        "arrival_anim": {
+          "bounds": {
+            "bottom": 0,
+            "left": 0,
+            "right": 0,
+            "top": 0
+          },
+          "lastTime": 20,
+          "layer": [{
+              "children": [],
+              "coordinate": 0,
+              "exportSelf": 1,
+              "frameList": [{
+                  "content": {
+                    "color": 4285268223,
+                    "icon": "0027",
+                    "mask": 9824,
+                    "opa": 0,
+                    "src": "tex",
+                    "zcc": 0,
+                    "zx": 0,
+                    "zy": 0
+                  },
+                  "time": 0,
+                  "type": 3
+                },{
+                  "content": {
+                    "color": 4285268223,
+                    "icon": "0027",
+                    "mask": 9824,
+                    "opa": 191,
+                    "src": "tex",
+                    "zcc": 0,
+                    "zx": 1.2,
+                    "zy": 1.2
+                  },
+                  "time": 14,
+                  "type": 3
+                },{
+                  "content": {
+                    "bm": 0,
+                    "icon": "0027",
+                    "mask": 131072,
+                    "src": "tex"
+                  },
+                  "time": 19,
+                  "type": 2
+                },{
+                  "time": 20,
+                  "type": 0
+                }],
+              "groundCorrection": 0,
+              "inheritMask": 33556476,
+              "joinTarget": 1,
+              "label": "運転中",
+              "meshCombine": 0,
+              "meshTransform": 0,
+              "metadata": null,
+              "objTriPriority": 2,
+              "parameterize": null,
+              "stencilType": 0,
+              "transformOrder": [0,3,2,1],
+              "type": 0,
+              "uid": ""
+            }],
+          "layerIndexMap": {
+            "運転中": 0
+          },
+          "loopTime": -1,
+          "metadata": null,
+          "parameter": [],
+          "parameterize": null,
+          "priority": [{
+              "content": [0],
+              "time": 0,
+              "type": 1
+            },{
+              "content": null,
+              "time": 20,
+              "type": 1
+            }],
+          "referenceModelFileList": [],
+          "referenceProjectFileList": [],
+          "tag": [],
+          "type": 0,
+          "variable": []
+        },
+        "autopilot_rotate": {
+          "bounds": {
+            "bottom": 0,
+            "left": 0,
+            "right": 0,
+            "top": 0
+          },
+          "lastTime": 288,
+          "layer": [{
+              "children": [],
+              "coordinate": 0,
+              "exportSelf": 1,
+              "frameList": [{
+                  "content": {
+                    "icon": "0026",
+                    "mask": 0,
+                    "src": "tex"
+                  },
+                  "time": 0,
+                  "type": 3
+                },{
+                  "content": {
+                    "angle": 180,
+                    "icon": "0026",
+                    "mask": 16,
+                    "src": "tex"
+                  },
+                  "time": 144,
+                  "type": 3
+                },{
+                  "content": {
+                    "angle": 270,
+                    "icon": "0026",
+                    "mask": 16,
+                    "src": "tex"
+                  },
+                  "time": 216,
+                  "type": 3
+                },{
+                  "content": {
+                    "icon": "0026",
+                    "mask": 0,
+                    "src": "tex"
+                  },
+                  "time": 288,
+                  "type": 2
+                },{
+                  "time": 289,
+                  "type": 0
+                }],
+              "groundCorrection": 0,
+              "inheritMask": 33556476,
+              "joinTarget": 1,
+              "label": "回転ゲージ",
+              "meshCombine": 0,
+              "meshTransform": 0,
+              "metadata": null,
+              "objTriPriority": 2,
+              "parameterize": null,
+              "stencilType": 0,
+              "transformOrder": [0,3,2,1],
+              "type": 0,
+              "uid": ""
+            }],
+          "layerIndexMap": {
+            "回転ゲージ": 0
+          },
+          "loopTime": 0,
+          "metadata": null,
+          "parameter": [],
+          "parameterize": null,
+          "priority": [{
+              "content": [0],
+              "time": 0,
+              "type": 1
+            },{
+              "content": null,
+              "time": 288,
+              "type": 1
+            }],
+          "referenceModelFileList": [],
+          "referenceProjectFileList": [],
+          "tag": [],
+          "type": 0,
+          "variable": []
+        },
+        "close": {
+          "bounds": {
+            "bottom": 0,
+            "left": 0,
+            "right": 0,
+            "top": 0
+          },
+          "lastTime": 31,
+          "layer": [{
+              "children": [{
+                  "children": [],
+                  "coordinate": 0,
+                  "exportSelf": 1,
+                  "frameList": [{
+                      "time": 0,
+                      "type": 0
+                    },{
+                      "content": {
+                        "icon": "white",
+                        "mask": 524288,
+                        "motion": {
+                          "mask": 0,
+                          "timeOffset": 0
+                        },
+                        "src": "acb_005a"
+                      },
+                      "time": 1,
+                      "type": 2
+                    },{
+                      "time": 31,
+                      "type": 0
+                    }],
+                  "groundCorrection": 0,
+                  "inheritMask": 33556476,
+                  "joinTarget": 1,
+                  "label": "white",
+                  "meshCombine": 0,
+                  "meshTransform": 0,
+                  "metadata": null,
+                  "motionIndependentLayerInherit": 0,
+                  "parameterize": null,
+                  "stencilType": 0,
+                  "transformOrder": [0,3,2,1],
+                  "type": 3,
+                  "uid": ""
+                },{
+                  "children": [],
+                  "coordinate": 0,
+                  "exportSelf": 1,
+                  "frameList": [{
+                      "content": {
+                        "icon": "0025",
+                        "mask": 0,
+                        "src": "tex"
+                      },
+                      "time": 0,
+                      "type": 3
+                    },{
+                      "content": {
+                        "icon": "0025",
+                        "mask": 1024,
+                        "opa": 0,
+                        "src": "tex"
+                      },
+                      "time": 10.0,
+                      "type": 2
+                    },{
+                      "time": 11,
+                      "type": 0
+                    },{
+                      "time": 31,
+                      "type": 0
+                    }],
+                  "groundCorrection": 0,
+                  "inheritMask": 33556476,
+                  "joinTarget": 1,
+                  "label": "ベース",
+                  "meshCombine": 0,
+                  "meshTransform": 0,
+                  "metadata": null,
+                  "objTriPriority": 2,
+                  "parameterize": null,
+                  "stencilType": 0,
+                  "transformOrder": [0,3,2,1],
+                  "type": 0,
+                  "uid": ""
+                }],
+              "coordinate": 0,
+              "exportSelf": 1,
+              "frameList": [{
+                  "content": {
+                    "icon": "0028",
+                    "mask": 536870912,
+                    "src": "tex",
+                    "stc": {
+                      "wcc": null,
+                      "wrt": 0.0,
+                      "wrv": 0,
+                      "wsf": 0.0
+                    }
+                  },
+                  "time": 0,
+                  "type": 3
+                },{
+                  "content": {
+                    "icon": "0028",
+                    "mask": 536870912,
+                    "src": "tex",
+                    "stc": {
+                      "wcc": null,
+                      "wrt": 1.0,
+                      "wrv": 0,
+                      "wsf": 0.0
+                    }
+                  },
+                  "time": 30,
+                  "type": 3
+                },{
+                  "time": 31,
+                  "type": 0
+                }],
+              "groundCorrection": 0,
+              "inheritMask": 37750780,
+              "joinTarget": 1,
+              "label": "グラデーションマスク",
+              "meshCombine": 0,
+              "meshTransform": 0,
+              "metadata": null,
+              "parameterize": null,
+              "stencilCompositeMaskLayerList": [],
+              "stencilType": 1,
+              "transformOrder": [0,3,2,1],
+              "type": 12,
+              "uid": ""
+            }],
+          "layerIndexMap": {
+            "white": 1,
+            "グラデーションマスク": 0,
+            "ベース": 2
+          },
+          "loopTime": -1,
+          "metadata": null,
+          "parameter": [],
+          "parameterize": null,
+          "priority": [{
+              "content": [2,1,0],
+              "time": 0,
+              "type": 1
+            },{
+              "content": null,
+              "time": 31,
+              "type": 1
+            }],
+          "referenceModelFileList": [],
+          "referenceProjectFileList": [],
+          "tag": [],
+          "type": 0,
+          "variable": []
+        },
+        "normal": {
+          "bounds": {
+            "bottom": 0,
+            "left": 0,
+            "right": 0,
+            "top": 0
+          },
+          "lastTime": 1,
+          "layer": [{
+              "children": [],
+              "coordinate": 0,
+              "exportSelf": 1,
+              "frameList": [{
+                  "content": {
+                    "icon": "0025",
+                    "mask": 0,
+                    "src": "tex"
+                  },
+                  "time": 0,
+                  "type": 2
+                },{
+                  "time": 1,
+                  "type": 0
+                }],
+              "groundCorrection": 0,
+              "inheritMask": 33556476,
+              "joinTarget": 1,
+              "label": "ベース",
+              "meshCombine": 0,
+              "meshTransform": 0,
+              "metadata": null,
+              "objTriPriority": 2,
+              "parameterize": null,
+              "stencilType": 0,
+              "transformOrder": [0,3,2,1],
+              "type": 0,
+              "uid": ""
+            },{
+              "children": [],
+              "coordinate": 0,
+              "exportSelf": 1,
+              "frameList": [{
+                  "content": {
+                    "coord": [-5.0,-5,0.0],
+                    "icon": "autopilot_rotate",
+                    "mask": 524290,
+                    "motion": {
+                      "mask": 0,
+                      "timeOffset": 0
+                    },
+                    "src": "acb_005a"
+                  },
+                  "time": 0,
+                  "type": 2
+                },{
+                  "time": 1,
+                  "type": 0
+                }],
+              "groundCorrection": 0,
+              "inheritMask": 33556476,
+              "joinTarget": 1,
+              "label": "autopilot_rotate",
+              "meshCombine": 0,
+              "meshTransform": 0,
+              "metadata": null,
+              "motionIndependentLayerInherit": 0,
+              "parameterize": null,
+              "stencilType": 0,
+              "transformOrder": [0,3,2,1],
+              "type": 3,
+              "uid": ""
+            },{
+              "children": [],
+              "coordinate": 0,
+              "exportSelf": 1,
+              "frameList": [{
+                  "content": {
+                    "icon": "0023",
+                    "mask": 0,
+                    "src": "tex"
+                  },
+                  "time": 0,
+                  "type": 2
+                },{
+                  "time": 1,
+                  "type": 0
+                }],
+              "groundCorrection": 0,
+              "inheritMask": 33556476,
+              "joinTarget": 1,
+              "label": "ゲージ用マスク",
+              "meshCombine": 0,
+              "meshTransform": 0,
+              "metadata": null,
+              "objTriPriority": 2,
+              "parameterize": null,
+              "stencilType": 0,
+              "transformOrder": [0,3,2,1],
+              "type": 0,
+              "uid": ""
+            },{
+              "children": [],
+              "coordinate": 0,
+              "exportSelf": 1,
+              "frameList": [{
+                  "content": {
+                    "coord": [-5.0,-7.0,0.0],
+                    "icon": "anim_control",
+                    "mask": 524290,
+                    "motion": {
+                      "mask": 0,
+                      "timeOffset": 0
+                    },
+                    "src": "acb_005a"
+                  },
+                  "time": 0,
+                  "type": 2
+                },{
+                  "time": 1,
+                  "type": 0
+                }],
+              "groundCorrection": 0,
+              "inheritMask": 33556476,
+              "joinTarget": 1,
+              "label": "number_blue",
+              "meshCombine": 0,
+              "meshTransform": 0,
+              "metadata": null,
+              "motionIndependentLayerInherit": 0,
+              "parameterize": null,
+              "stencilType": 0,
+              "transformOrder": [0,3,2,1],
+              "type": 3,
+              "uid": ""
+            }],
+          "layerIndexMap": {
+            "autopilot_rotate": 1,
+            "number_blue": 3,
+            "ゲージ用マスク": 2,
+            "ベース": 0
+          },
+          "loopTime": 0,
+          "metadata": null,
+          "parameter": [],
+          "parameterize": null,
+          "priority": [{
+              "content": [3,2,1,0],
+              "time": 0,
+              "type": 1
+            },{
+              "content": null,
+              "time": 1,
+              "type": 1
+            }],
+          "referenceModelFileList": [],
+          "referenceProjectFileList": [],
+          "tag": [],
+          "type": 0,
+          "variable": []
+        },
+        "number_anim": {
+          "bounds": {
+            "bottom": 0,
+            "left": 0,
+            "right": 0,
+            "top": 0
+          },
+          "lastTime": 31,
+          "layer": [{
+              "children": [],
+              "coordinate": 0,
+              "exportSelf": 1,
+              "frameList": [{
+                  "content": {
+                    "icon": "number_blue",
+                    "mask": 524288,
+                    "motion": {
+                      "mask": 0,
+                      "timeOffset": 0
+                    },
+                    "src": "acb_005a"
+                  },
+                  "time": 0,
+                  "type": 2
+                },{
+                  "time": 31,
+                  "type": 0
+                }],
+              "groundCorrection": 0,
+              "inheritMask": 33556476,
+              "joinTarget": 1,
+              "label": "number_blue",
+              "meshCombine": 0,
+              "meshTransform": 0,
+              "metadata": null,
+              "motionIndependentLayerInherit": 0,
+              "parameterize": null,
+              "stencilType": 0,
+              "transformOrder": [0,3,2,1],
+              "type": 3,
+              "uid": ""
+            },{
+              "children": [],
+              "coordinate": 0,
+              "exportSelf": 1,
+              "frameList": [{
+                  "content": {
+                    "icon": "number_orange",
+                    "mask": 524288,
+                    "motion": {
+                      "mask": 0,
+                      "timeOffset": 0
+                    },
+                    "src": "acb_005a"
+                  },
+                  "time": 0,
+                  "type": 3
+                },{
+                  "content": {
+                    "icon": "number_orange",
+                    "mask": 525312,
+                    "motion": {
+                      "mask": 0,
+                      "timeOffset": 30
+                    },
+                    "opa": 0,
+                    "src": "acb_005a"
+                  },
+                  "time": 30,
+                  "type": 3
+                },{
+                  "time": 31,
+                  "type": 0
+                }],
+              "groundCorrection": 0,
+              "inheritMask": 33556476,
+              "joinTarget": 1,
+              "label": "number_orange",
+              "meshCombine": 0,
+              "meshTransform": 0,
+              "metadata": null,
+              "motionIndependentLayerInherit": 0,
+              "parameterize": null,
+              "stencilType": 0,
+              "transformOrder": [0,3,2,1],
+              "type": 3,
+              "uid": ""
+            },{
+              "children": [],
+              "coordinate": 0,
+              "exportSelf": 1,
+              "frameList": [{
+                  "content": {
+                    "coord": [0.0,2.0,0.0],
+                    "icon": "time_gauge",
+                    "mask": 524290,
+                    "motion": {
+                      "mask": 0,
+                      "timeOffset": 0
+                    },
+                    "src": "acb_005a"
+                  },
+                  "time": 0,
+                  "type": 2
+                },{
+                  "time": 31,
+                  "type": 0
+                }],
+              "groundCorrection": 0,
+              "inheritMask": 33556476,
+              "joinTarget": 1,
+              "label": "time_gauge",
+              "meshCombine": 0,
+              "meshTransform": 0,
+              "metadata": null,
+              "motionIndependentLayerInherit": 0,
+              "parameterize": null,
+              "stencilType": 0,
+              "transformOrder": [0,3,2,1],
+              "type": 3,
+              "uid": ""
+            }],
+          "layerIndexMap": {
+            "number_blue": 0,
+            "number_orange": 1,
+            "time_gauge": 2
+          },
+          "loopTime": -1,
+          "metadata": null,
+          "parameter": [],
+          "parameterize": null,
+          "priority": [{
+              "content": [2,1,0],
+              "time": 0,
+              "type": 1
+            },{
+              "content": null,
+              "time": 31,
+              "type": 1
+            }],
+          "referenceModelFileList": [],
+          "referenceProjectFileList": [],
+          "tag": [],
+          "type": 0,
+          "variable": []
+        },
+        "number_blue": {
+          "bounds": {
+            "bottom": 0,
+            "left": 0,
+            "right": 0,
+            "top": 0
+          },
+          "lastTime": 60,
+          "layer": [{
+              "children": [],
+              "coordinate": 0,
+              "exportSelf": 1,
+              "frameList": [{
+                  "content": {
+                    "coord": [0.0,2.0,0.0],
+                    "icon": "0021",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 0,
+                  "type": 2
+                },{
+                  "time": 60,
+                  "type": 0
+                }],
+              "groundCorrection": 0,
+              "inheritMask": 33556476,
+              "joinTarget": 1,
+              "label": "blue",
+              "meshCombine": 0,
+              "meshTransform": 0,
+              "metadata": null,
+              "objTriPriority": 2,
+              "parameterize": null,
+              "stencilType": 0,
+              "transformOrder": [0,3,2,1],
+              "type": 0,
+              "uid": ""
+            },{
+              "children": [],
+              "coordinate": 0,
+              "exportSelf": 1,
+              "frameList": [{
+                  "content": {
+                    "coord": [-31.0,0.0,0.0],
+                    "icon": "0000",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 0,
+                  "type": 2
+                },{
+                  "time": 60,
+                  "type": 0
+                }],
+              "groundCorrection": 0,
+              "inheritMask": 33556476,
+              "joinTarget": 1,
+              "label": "0",
+              "meshCombine": 0,
+              "meshTransform": 0,
+              "metadata": null,
+              "objTriPriority": 2,
+              "parameterize": null,
+              "stencilType": 0,
+              "transformOrder": [0,3,2,1],
+              "type": 0,
+              "uid": ""
+            },{
+              "children": [],
+              "coordinate": 0,
+              "exportSelf": 1,
+              "frameList": [{
+                  "content": {
+                    "icon": "0000",
+                    "mask": 0,
+                    "src": "tex"
+                  },
+                  "time": 0,
+                  "type": 2
+                },{
+                  "content": {
+                    "icon": "0002",
+                    "mask": 0,
+                    "src": "tex"
+                  },
+                  "time": 10,
+                  "type": 2
+                },{
+                  "content": {
+                    "icon": "0004",
+                    "mask": 0,
+                    "src": "tex"
+                  },
+                  "time": 20,
+                  "type": 2
+                },{
+                  "content": {
+                    "icon": "0006",
+                    "mask": 0,
+                    "src": "tex"
+                  },
+                  "time": 30,
+                  "type": 2
+                },{
+                  "content": {
+                    "icon": "0008",
+                    "mask": 0,
+                    "src": "tex"
+                  },
+                  "time": 40,
+                  "type": 2
+                },{
+                  "content": {
+                    "icon": "0010",
+                    "mask": 0,
+                    "src": "tex"
+                  },
+                  "time": 50,
+                  "type": 2
+                },{
+                  "time": 60,
+                  "type": 0
+                }],
+              "groundCorrection": 0,
+              "inheritMask": 33556476,
+              "joinTarget": 1,
+              "label": "0",
+              "meshCombine": 0,
+              "meshTransform": 0,
+              "metadata": null,
+              "objTriPriority": 2,
+              "parameterize": null,
+              "stencilType": 0,
+              "transformOrder": [0,3,2,1],
+              "type": 0,
+              "uid": ""
+            },{
+              "children": [],
+              "coordinate": 0,
+              "exportSelf": 1,
+              "frameList": [{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0000",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 0,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0.0,0.0],
+                    "icon": "0002",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 1,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0004",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 2,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0006",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 3,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0008",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 4,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0010",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 5,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0012",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 6,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0014",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 7,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0016",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 8,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0019",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 9,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0000",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 10,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0.0,0.0],
+                    "icon": "0002",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 11,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0004",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 12,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0006",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 13,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0008",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 14,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0010",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 15,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0012",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 16,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0014",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 17,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0016",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 18,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0019",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 19,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0000",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 20,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0.0,0.0],
+                    "icon": "0002",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 21,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0004",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 22,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0006",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 23,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0008",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 24,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0010",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 25,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0012",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 26,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0014",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 27,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0016",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 28,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0019",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 29,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0000",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 30,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0.0,0.0],
+                    "icon": "0002",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 31,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0004",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 32,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0006",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 33,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0008",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 34,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0010",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 35,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0012",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 36,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0014",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 37,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0016",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 38,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0019",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 39,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0000",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 40,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0.0,0.0],
+                    "icon": "0002",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 41,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0004",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 42,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0006",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 43,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0008",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 44,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0010",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 45,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0012",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 46,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0014",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 47,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0016",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 48,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0019",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 49,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0000",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 50,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0.0,0.0],
+                    "icon": "0002",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 51,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0004",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 52,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0006",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 53,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0008",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 54,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0010",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 55,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0012",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 56,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0014",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 57,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0016",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 58,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0019",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 59,
+                  "type": 2
+                },{
+                  "time": 60,
+                  "type": 0
+                }],
+              "groundCorrection": 0,
+              "inheritMask": 33556476,
+              "joinTarget": 1,
+              "label": "1",
+              "meshCombine": 0,
+              "meshTransform": 0,
+              "metadata": null,
+              "objTriPriority": 2,
+              "parameterize": null,
+              "stencilType": 0,
+              "transformOrder": [0,3,2,1],
+              "type": 0,
+              "uid": ""
+            }],
+          "layerIndexMap": {
+            "0": 2,
+            "1": 3,
+            "blue": 0
+          },
+          "loopTime": -1,
+          "metadata": null,
+          "parameter": [{
+              "discretization": 1,
+              "division": 59,
+              "enabled": 1,
+              "id": "num",
+              "rangeBegin": 0,
+              "rangeEnd": 59
+            }],
+          "parameterize": 0,
+          "priority": [{
+              "content": [3,2,1,0],
+              "time": 0,
+              "type": 1
+            },{
+              "content": null,
+              "time": 60,
+              "type": 1
+            }],
+          "referenceModelFileList": [],
+          "referenceProjectFileList": [],
+          "tag": [],
+          "type": 0,
+          "variable": []
+        },
+        "number_orange": {
+          "bounds": {
+            "bottom": 0,
+            "left": 0,
+            "right": 0,
+            "top": 0
+          },
+          "lastTime": 60,
+          "layer": [{
+              "children": [],
+              "coordinate": 0,
+              "exportSelf": 1,
+              "frameList": [{
+                  "content": {
+                    "coord": [0,2,0.0],
+                    "icon": "0022",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 0,
+                  "type": 2
+                },{
+                  "time": 60,
+                  "type": 0
+                }],
+              "groundCorrection": 0,
+              "inheritMask": 33556476,
+              "joinTarget": 1,
+              "label": "orange",
+              "meshCombine": 0,
+              "meshTransform": 0,
+              "metadata": null,
+              "objTriPriority": 2,
+              "parameterize": null,
+              "stencilType": 0,
+              "transformOrder": [0,3,2,1],
+              "type": 0,
+              "uid": ""
+            },{
+              "children": [],
+              "coordinate": 0,
+              "exportSelf": 1,
+              "frameList": [{
+                  "content": {
+                    "coord": [-31.0,0.0,0.0],
+                    "icon": "0001",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 0,
+                  "type": 2
+                },{
+                  "time": 60,
+                  "type": 0
+                }],
+              "groundCorrection": 0,
+              "inheritMask": 33556476,
+              "joinTarget": 1,
+              "label": "0",
+              "meshCombine": 0,
+              "meshTransform": 0,
+              "metadata": null,
+              "objTriPriority": 2,
+              "parameterize": null,
+              "stencilType": 0,
+              "transformOrder": [0,3,2,1],
+              "type": 0,
+              "uid": ""
+            },{
+              "children": [],
+              "coordinate": 0,
+              "exportSelf": 1,
+              "frameList": [{
+                  "content": {
+                    "icon": "0001",
+                    "mask": 0,
+                    "src": "tex"
+                  },
+                  "time": 0,
+                  "type": 2
+                },{
+                  "content": {
+                    "icon": "0003",
+                    "mask": 0,
+                    "src": "tex"
+                  },
+                  "time": 10,
+                  "type": 2
+                },{
+                  "content": {
+                    "icon": "0005",
+                    "mask": 0,
+                    "src": "tex"
+                  },
+                  "time": 20,
+                  "type": 2
+                },{
+                  "content": {
+                    "icon": "0007",
+                    "mask": 0,
+                    "src": "tex"
+                  },
+                  "time": 30,
+                  "type": 2
+                },{
+                  "content": {
+                    "icon": "0009",
+                    "mask": 0,
+                    "src": "tex"
+                  },
+                  "time": 40,
+                  "type": 2
+                },{
+                  "content": {
+                    "icon": "0011",
+                    "mask": 0,
+                    "src": "tex"
+                  },
+                  "time": 50,
+                  "type": 2
+                },{
+                  "time": 60,
+                  "type": 0
+                }],
+              "groundCorrection": 0,
+              "inheritMask": 33556476,
+              "joinTarget": 1,
+              "label": "0",
+              "meshCombine": 0,
+              "meshTransform": 0,
+              "metadata": null,
+              "objTriPriority": 2,
+              "parameterize": null,
+              "stencilType": 0,
+              "transformOrder": [0,3,2,1],
+              "type": 0,
+              "uid": ""
+            },{
+              "children": [],
+              "coordinate": 0,
+              "exportSelf": 1,
+              "frameList": [{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0001",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 0,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0.0,0.0],
+                    "icon": "0003",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 1,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0005",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 2,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0007",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 3,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0009",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 4,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0011",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 5,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0013",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 6,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0015",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 7,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0017",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 8,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0020",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 9,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0001",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 10,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0.0,0.0],
+                    "icon": "0003",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 11,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0005",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 12,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0007",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 13,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0009",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 14,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0011",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 15,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0013",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 16,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0015",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 17,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0017",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 18,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0020",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 19,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0001",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 20,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0.0,0.0],
+                    "icon": "0003",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 21,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0005",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 22,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0007",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 23,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0009",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 24,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0011",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 25,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0013",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 26,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0015",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 27,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0017",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 28,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0020",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 29,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0001",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 30,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0.0,0.0],
+                    "icon": "0003",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 31,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0005",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 32,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0007",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 33,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0009",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 34,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0011",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 35,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0013",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 36,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0015",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 37,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0017",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 38,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0020",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 39,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0001",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 40,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0.0,0.0],
+                    "icon": "0003",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 41,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0005",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 42,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0007",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 43,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0009",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 44,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0011",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 45,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0013",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 46,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0015",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 47,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0017",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 48,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0020",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 49,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0001",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 50,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0.0,0.0],
+                    "icon": "0003",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 51,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0005",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 52,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0007",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 53,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0009",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 54,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0011",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 55,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0013",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 56,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0015",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 57,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0017",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 58,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [31,0,0.0],
+                    "icon": "0020",
+                    "mask": 2,
+                    "src": "tex"
+                  },
+                  "time": 59,
+                  "type": 2
+                },{
+                  "time": 60,
+                  "type": 0
+                }],
+              "groundCorrection": 0,
+              "inheritMask": 33556476,
+              "joinTarget": 1,
+              "label": "1",
+              "meshCombine": 0,
+              "meshTransform": 0,
+              "metadata": null,
+              "objTriPriority": 2,
+              "parameterize": null,
+              "stencilType": 0,
+              "transformOrder": [0,3,2,1],
+              "type": 0,
+              "uid": ""
+            }],
+          "layerIndexMap": {
+            "0": 2,
+            "1": 3,
+            "orange": 0
+          },
+          "loopTime": -1,
+          "metadata": null,
+          "parameter": [{
+              "discretization": 1,
+              "division": 59,
+              "enabled": 1,
+              "id": "num",
+              "rangeBegin": 0,
+              "rangeEnd": 59
+            }],
+          "parameterize": 0,
+          "priority": [{
+              "content": [3,2,1,0],
+              "time": 0,
+              "type": 1
+            },{
+              "content": null,
+              "time": 60,
+              "type": 1
+            }],
+          "referenceModelFileList": [],
+          "referenceProjectFileList": [],
+          "tag": [],
+          "type": 0,
+          "variable": []
+        },
+        "show": {
+          "bounds": {
+            "bottom": 0,
+            "left": 0,
+            "right": 0,
+            "top": 0
+          },
+          "lastTime": 31,
+          "layer": [{
+              "children": [{
+                  "children": [],
+                  "coordinate": 0,
+                  "exportSelf": 1,
+                  "frameList": [{
+                      "content": {
+                        "icon": "white",
+                        "mask": 524288,
+                        "motion": {
+                          "mask": 0,
+                          "timeOffset": 0
+                        },
+                        "src": "acb_005a"
+                      },
+                      "time": 0,
+                      "type": 2
+                    },{
+                      "time": 30,
+                      "type": 0
+                    },{
+                      "time": 31,
+                      "type": 0
+                    }],
+                  "groundCorrection": 0,
+                  "inheritMask": 33556476,
+                  "joinTarget": 1,
+                  "label": "white",
+                  "meshCombine": 0,
+                  "meshTransform": 0,
+                  "metadata": null,
+                  "motionIndependentLayerInherit": 0,
+                  "parameterize": null,
+                  "stencilType": 0,
+                  "transformOrder": [0,3,2,1],
+                  "type": 3,
+                  "uid": ""
+                },{
+                  "children": [],
+                  "coordinate": 0,
+                  "exportSelf": 1,
+                  "frameList": [{
+                      "time": 0,
+                      "type": 0
+                    },{
+                      "content": {
+                        "icon": "0025",
+                        "mask": 1024,
+                        "opa": 0,
+                        "src": "tex"
+                      },
+                      "time": 20,
+                      "type": 3
+                    },{
+                      "content": {
+                        "icon": "0025",
+                        "mask": 0,
+                        "src": "tex"
+                      },
+                      "time": 30,
+                      "type": 2
+                    },{
+                      "time": 31,
+                      "type": 0
+                    }],
+                  "groundCorrection": 0,
+                  "inheritMask": 33556476,
+                  "joinTarget": 1,
+                  "label": "ベース",
+                  "meshCombine": 0,
+                  "meshTransform": 0,
+                  "metadata": null,
+                  "objTriPriority": 2,
+                  "parameterize": null,
+                  "stencilType": 0,
+                  "transformOrder": [0,3,2,1],
+                  "type": 0,
+                  "uid": ""
+                }],
+              "coordinate": 0,
+              "exportSelf": 1,
+              "frameList": [{
+                  "content": {
+                    "icon": "0028",
+                    "mask": 536870912,
+                    "src": "tex",
+                    "stc": {
+                      "wcc": null,
+                      "wrt": 1.0,
+                      "wrv": 0,
+                      "wsf": 0.0
+                    }
+                  },
+                  "time": 0,
+                  "type": 3
+                },{
+                  "content": {
+                    "icon": "0028",
+                    "mask": 536870912,
+                    "src": "tex",
+                    "stc": {
+                      "wcc": null,
+                      "wrt": 0.0,
+                      "wrv": 0,
+                      "wsf": 0.0
+                    }
+                  },
+                  "time": 30,
+                  "type": 3
+                },{
+                  "time": 31,
+                  "type": 0
+                }],
+              "groundCorrection": 0,
+              "inheritMask": 37750780,
+              "joinTarget": 1,
+              "label": "グラデーションマスク",
+              "meshCombine": 0,
+              "meshTransform": 0,
+              "metadata": null,
+              "parameterize": null,
+              "stencilCompositeMaskLayerList": [],
+              "stencilType": 1,
+              "transformOrder": [0,3,2,1],
+              "type": 12,
+              "uid": ""
+            },{
+              "children": [],
+              "coordinate": 0,
+              "exportSelf": 1,
+              "frameList": [{
+                  "time": 0,
+                  "type": 0
+                },{
+                  "time": 31,
+                  "type": 0
+                }],
+              "groundCorrection": 0,
+              "inheritMask": 33556476,
+              "joinTarget": 1,
+              "label": "autopilot_rotate",
+              "meshCombine": 0,
+              "meshTransform": 0,
+              "metadata": null,
+              "motionIndependentLayerInherit": 0,
+              "parameterize": null,
+              "stencilType": 0,
+              "transformOrder": [0,3,2,1],
+              "type": 3,
+              "uid": ""
+            },{
+              "children": [],
+              "coordinate": 0,
+              "exportSelf": 1,
+              "frameList": [{
+                  "time": 0,
+                  "type": 0
+                },{
+                  "time": 31,
+                  "type": 0
+                }],
+              "groundCorrection": 0,
+              "inheritMask": 33556476,
+              "joinTarget": 1,
+              "label": "ゲージ用マスク",
+              "meshCombine": 0,
+              "meshTransform": 0,
+              "metadata": null,
+              "objTriPriority": 2,
+              "parameterize": null,
+              "stencilType": 0,
+              "transformOrder": [0,3,2,1],
+              "type": 0,
+              "uid": ""
+            },{
+              "children": [],
+              "coordinate": 0,
+              "exportSelf": 1,
+              "frameList": [{
+                  "time": 0,
+                  "type": 0
+                },{
+                  "time": 31,
+                  "type": 0
+                }],
+              "groundCorrection": 0,
+              "inheritMask": 33556476,
+              "joinTarget": 1,
+              "label": "number_blue",
+              "meshCombine": 0,
+              "meshTransform": 0,
+              "metadata": null,
+              "motionIndependentLayerInherit": 0,
+              "parameterize": null,
+              "stencilType": 0,
+              "transformOrder": [0,3,2,1],
+              "type": 3,
+              "uid": ""
+            }],
+          "layerIndexMap": {
+            "autopilot_rotate": 3,
+            "number_blue": 5,
+            "white": 1,
+            "グラデーションマスク": 0,
+            "ゲージ用マスク": 4,
+            "ベース": 2
+          },
+          "loopTime": -1,
+          "metadata": null,
+          "parameter": [],
+          "parameterize": null,
+          "priority": [{
+              "content": [5,4,3,2,1,0],
+              "time": 0,
+              "type": 1
+            },{
+              "content": null,
+              "time": 31,
+              "type": 1
+            }],
+          "referenceModelFileList": [],
+          "referenceProjectFileList": [],
+          "tag": [],
+          "type": 0,
+          "variable": []
+        },
+        "stand": {
+          "bounds": {
+            "bottom": 0,
+            "left": 0,
+            "right": 0,
+            "top": 0
+          },
+          "lastTime": 3,
+          "layer": [{
+              "children": [],
+              "coordinate": 0,
+              "exportSelf": 1,
+              "frameList": [{
+                  "content": {
+                    "coord": [-844.0,-424.0,0.0],
+                    "icon": "show",
+                    "mask": 524290,
+                    "motion": {
+                      "mask": 0,
+                      "timeOffset": 0
+                    },
+                    "src": "acb_005a"
+                  },
+                  "time": 0,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [-844,-424,0.0],
+                    "icon": "normal",
+                    "mask": 524290,
+                    "motion": {
+                      "mask": 0,
+                      "timeOffset": 0
+                    },
+                    "src": "acb_005a"
+                  },
+                  "time": 1,
+                  "type": 2
+                },{
+                  "content": {
+                    "coord": [-844,-424.0,0.0],
+                    "icon": "close",
+                    "mask": 524290,
+                    "motion": {
+                      "mask": 0,
+                      "timeOffset": 0
+                    },
+                    "src": "acb_005a"
+                  },
+                  "time": 2,
+                  "type": 2
+                },{
+                  "time": 3,
+                  "type": 0
+                }],
+              "groundCorrection": 0,
+              "inheritMask": 33556476,
+              "joinTarget": 1,
+              "label": "stand",
+              "meshCombine": 0,
+              "meshTransform": 0,
+              "metadata": null,
+              "motionIndependentLayerInherit": 0,
+              "parameterize": 0,
+              "stencilType": 0,
+              "transformOrder": [0,3,2,1],
+              "type": 3,
+              "uid": ""
+            }],
+          "layerIndexMap": {
+            "stand": 0
+          },
+          "loopTime": -1,
+          "metadata": null,
+          "parameter": [{
+              "discretization": 1,
+              "division": 2,
+              "enabled": 1,
+              "id": "progress",
+              "rangeBegin": 0,
+              "rangeEnd": 2
+            }],
+          "parameterize": null,
+          "priority": [{
+              "content": [0],
+              "time": 0,
+              "type": 1
+            },{
+              "content": null,
+              "time": 3,
+              "type": 1
+            }],
+          "referenceModelFileList": [],
+          "referenceProjectFileList": [],
+          "tag": [],
+          "type": 0,
+          "variable": []
+        },
+        "time_gauge": {
+          "bounds": {
+            "bottom": 0,
+            "left": 0,
+            "right": 0,
+            "top": 0
+          },
+          "lastTime": 31,
+          "layer": [{
+              "children": [{
+                  "children": [],
+                  "coordinate": 0,
+                  "exportSelf": 1,
+                  "frameList": [{
+                      "content": {
+                        "icon": "0024",
+                        "mask": 0,
+                        "src": "tex"
+                      },
+                      "time": 0,
+                      "type": 2
+                    },{
+                      "time": 31,
+                      "type": 0
+                    }],
+                  "groundCorrection": 0,
+                  "inheritMask": 33556476,
+                  "joinTarget": 1,
+                  "label": "タイム変更ゲージ",
+                  "meshCombine": 0,
+                  "meshTransform": 0,
+                  "metadata": null,
+                  "objTriPriority": 2,
+                  "parameterize": null,
+                  "stencilType": 0,
+                  "transformOrder": [0,3,2,1],
+                  "type": 0,
+                  "uid": ""
+                }],
+              "coordinate": 0,
+              "exportSelf": 1,
+              "frameList": [{
+                  "content": {
+                    "icon": "0029",
+                    "mask": 536870912,
+                    "src": "tex",
+                    "stc": {
+                      "wcc": null,
+                      "wrt": 0.0,
+                      "wrv": 0,
+                      "wsf": 0.0
+                    }
+                  },
+                  "time": 0,
+                  "type": 3
+                },{
+                  "content": {
+                    "icon": "0029",
+                    "mask": 536870912,
+                    "src": "tex",
+                    "stc": {
+                      "wcc": null,
+                      "wrt": 1.0,
+                      "wrv": 0,
+                      "wsf": 0.0
+                    }
+                  },
+                  "time": 30.0,
+                  "type": 2
+                },{
+                  "time": 31,
+                  "type": 0
+                }],
+              "groundCorrection": 0,
+              "inheritMask": 37750780,
+              "joinTarget": 1,
+              "label": "タイム変更ゲージワイプ",
+              "meshCombine": 0,
+              "meshTransform": 0,
+              "metadata": null,
+              "parameterize": null,
+              "stencilCompositeMaskLayerList": [],
+              "stencilType": 1,
+              "transformOrder": [0,3,2,1],
+              "type": 12,
+              "uid": ""
+            }],
+          "layerIndexMap": {
+            "タイム変更ゲージ": 1,
+            "タイム変更ゲージワイプ": 0
+          },
+          "loopTime": -1,
+          "metadata": null,
+          "parameter": [],
+          "parameterize": null,
+          "priority": [{
+              "content": [1,0],
+              "time": 0,
+              "type": 1
+            },{
+              "content": null,
+              "time": 31,
+              "type": 1
+            }],
+          "referenceModelFileList": [],
+          "referenceProjectFileList": [],
+          "tag": [],
+          "type": 0,
+          "variable": []
+        },
+        "white": {
+          "bounds": {
+            "bottom": 0,
+            "left": 0,
+            "right": 0,
+            "top": 0
+          },
+          "lastTime": 1,
+          "layer": [{
+              "children": [],
+              "coordinate": 0,
+              "exportSelf": 1,
+              "frameList": [{
+                  "content": {
+                    "icon": "0018",
+                    "mask": 96,
+                    "src": "tex",
+                    "zx": 29,
+                    "zy": 29
+                  },
+                  "time": 0,
+                  "type": 2
+                },{
+                  "time": 1,
+                  "type": 0
+                }],
+              "groundCorrection": 0,
+              "inheritMask": 33556476,
+              "joinTarget": 1,
+              "label": "8x8w",
+              "meshCombine": 0,
+              "meshTransform": 0,
+              "metadata": null,
+              "objTriPriority": 2,
+              "parameterize": null,
+              "stencilType": 0,
+              "transformOrder": [0,3,2,1],
+              "type": 0,
+              "uid": ""
+            }],
+          "layerIndexMap": {
+            "8x8w": 0
+          },
+          "loopTime": -1,
+          "metadata": null,
+          "parameter": [],
+          "parameterize": null,
+          "priority": [{
+              "content": [0],
+              "time": 0,
+              "type": 1
+            },{
+              "content": null,
+              "time": 1,
+              "type": 1
+            }],
+          "referenceModelFileList": [],
+          "referenceProjectFileList": [],
+          "tag": [],
+          "type": 0,
+          "variable": []
+        }
+      },
+      "type": 0
+    }
+  },
+  "screenSize": {
+    "height": 1080,
+    "originX": 0,
+    "originY": 0,
+    "width": 1920
+  },
+  "source": {
+    "tex": {
+      "icon": {
+        "0000": {
+          "attr": 0,
+          "height": 43,
+          "left": 401.0,
+          "metadata": null,
+          "originX": 14,
+          "originY": 21,
+          "top": 235.0,
+          "width": 28
+        },
+        "0001": {
+          "attr": 1,
+          "height": 61,
+          "left": 926.0,
+          "metadata": null,
+          "originX": 22,
+          "originY": 30,
+          "top": 1.0,
+          "width": 45
+        },
+        "0002": {
+          "attr": 0,
+          "height": 43,
+          "left": 669.0,
+          "metadata": null,
+          "originX": -5,
+          "originY": 21,
+          "top": 227.0,
+          "width": 9
+        },
+        "0003": {
+          "attr": 1,
+          "height": 61,
+          "left": 341.0,
+          "metadata": null,
+          "originX": 4,
+          "originY": 30,
+          "top": 235.0,
+          "width": 27
+        },
+        "0004": {
+          "attr": 0,
+          "height": 43,
+          "left": 431.0,
+          "metadata": null,
+          "originX": 14,
+          "originY": 21,
+          "top": 235.0,
+          "width": 28
+        },
+        "0005": {
+          "attr": 1,
+          "height": 61,
+          "left": 973.0,
+          "metadata": null,
+          "originX": 22,
+          "originY": 30,
+          "top": 1.0,
+          "width": 45
+        },
+        "0006": {
+          "attr": 0,
+          "height": 43,
+          "left": 370.0,
+          "metadata": null,
+          "originX": 14,
+          "originY": 21,
+          "top": 235.0,
+          "width": 29
+        },
+        "0007": {
+          "attr": 1,
+          "height": 61,
+          "left": 926.0,
+          "metadata": null,
+          "originX": 22,
+          "originY": 30,
+          "top": 64.0,
+          "width": 45
+        },
+        "0008": {
+          "attr": 0,
+          "height": 43,
+          "left": 251.0,
+          "metadata": null,
+          "originX": 12,
+          "originY": 21,
+          "top": 298.0,
+          "width": 26
+        },
+        "0009": {
+          "attr": 1,
+          "height": 61,
+          "left": 973.0,
+          "metadata": null,
+          "originX": 21,
+          "originY": 30,
+          "top": 127.0,
+          "width": 44
+        },
+        "0010": {
+          "attr": 0,
+          "height": 43,
+          "left": 430.0,
+          "metadata": null,
+          "originX": 14,
+          "originY": 21,
+          "top": 280.0,
+          "width": 27
+        },
+        "0011": {
+          "attr": 1,
+          "height": 61,
+          "left": 251.0,
+          "metadata": null,
+          "originX": 22,
+          "originY": 30,
+          "top": 235.0,
+          "width": 43
+        },
+        "0012": {
+          "attr": 0,
+          "height": 43,
+          "left": 623.0,
+          "metadata": null,
+          "originX": 14,
+          "originY": 21,
+          "top": 290.0,
+          "width": 27
+        },
+        "0013": {
+          "attr": 1,
+          "height": 61,
+          "left": 296.0,
+          "metadata": null,
+          "originX": 22,
+          "originY": 30,
+          "top": 235.0,
+          "width": 43
+        },
+        "0014": {
+          "attr": 0,
+          "height": 43,
+          "left": 652.0,
+          "metadata": null,
+          "originX": 13,
+          "originY": 21,
+          "top": 290.0,
+          "width": 27
+        },
+        "0015": {
+          "attr": 1,
+          "height": 61,
+          "left": 623.0,
+          "metadata": null,
+          "originX": 21,
+          "originY": 30,
+          "top": 227.0,
+          "width": 44
+        },
+        "0016": {
+          "attr": 0,
+          "height": 43,
+          "left": 370.0,
+          "metadata": null,
+          "originX": 14,
+          "originY": 21,
+          "top": 280.0,
+          "width": 28
+        },
+        "0017": {
+          "attr": 1,
+          "height": 61,
+          "left": 973.0,
+          "metadata": null,
+          "originX": 22,
+          "originY": 30,
+          "top": 64.0,
+          "width": 45
+        },
+        "0018": {
+          "attr": 2,
+          "height": 8,
+          "left": 926.0,
+          "metadata": null,
+          "originX": 4,
+          "originY": 4,
+          "top": 190.0,
+          "width": 8
+        },
+        "0019": {
+          "attr": 0,
+          "height": 43,
+          "left": 400.0,
+          "metadata": null,
+          "originX": 14,
+          "originY": 21,
+          "top": 280.0,
+          "width": 28
+        },
+        "0020": {
+          "attr": 1,
+          "height": 61,
+          "left": 926.0,
+          "metadata": null,
+          "originX": 22,
+          "originY": 30,
+          "top": 127.0,
+          "width": 45
+        },
+        "0021": {
+          "attr": 0,
+          "height": 114,
+          "left": 135.0,
+          "metadata": null,
+          "originX": 57,
+          "originY": 57,
+          "top": 235.0,
+          "width": 114
+        },
+        "0022": {
+          "attr": 0,
+          "height": 132,
+          "left": 1.0,
+          "metadata": null,
+          "originX": 66,
+          "originY": 66,
+          "top": 235.0,
+          "width": 132
+        },
+        "0023": {
+          "attr": 0,
+          "height": 198,
+          "left": 695.0,
+          "metadata": null,
+          "originX": 116,
+          "originY": 116,
+          "top": 1.0,
+          "width": 229
+        },
+        "0024": {
+          "attr": 0,
+          "height": 152,
+          "left": 469.0,
+          "metadata": null,
+          "originX": 76,
+          "originY": 76,
+          "top": 227.0,
+          "width": 152
+        },
+        "0025": {
+          "attr": 0,
+          "height": 232,
+          "left": 1.0,
+          "metadata": null,
+          "originX": 116,
+          "originY": 116,
+          "top": 1.0,
+          "width": 232
+        },
+        "0026": {
+          "attr": 0,
+          "height": 224,
+          "left": 469.0,
+          "metadata": null,
+          "originX": 112,
+          "originY": 112,
+          "top": 1.0,
+          "width": 224
+        },
+        "0027": {
+          "attr": 0,
+          "height": 172,
+          "left": 695.0,
+          "metadata": null,
+          "originX": 86,
+          "originY": 86,
+          "top": 201.0,
+          "width": 172
+        },
+        "0028": {
+          "attr": 1,
+          "height": 232,
+          "left": 235.0,
+          "metadata": null,
+          "originX": 116,
+          "originY": 116,
+          "top": 1.0,
+          "width": 232
+        },
+        "0029": {
+          "attr": 1,
+          "height": 154,
+          "left": 869.0,
+          "metadata": null,
+          "originX": 77,
+          "originY": 77,
+          "top": 201.0,
+          "width": 154
+        }
+      },
+      "metadata": null,
+      "texture": {
+        "height": 512,
+        "pixel": "#resource#0",
+        "truncated_height": 380,
+        "truncated_width": 1024,
+        "type": "RGBA8",
+        "width": 1024
+      },
+      "type": 0
+    }
+  },
+  "spec": "win",
+  "stereovisionProfile": {
+    "dist_e2d": 972.0,
+    "dist_eye": 65.0,
+    "eye_angle_ltd": 1.0,
+    "f_level": 700,
+    "fov": 0.6,
+    "len_disp": 324.0
+  },
+  "version": 3.03
+}
