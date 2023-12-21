@@ -43,7 +43,7 @@
       "val": 28
     },{
       "name": "ac_prologue02_en.mzv",
-      "val": 40
+      "val": 24
     },{
       "name": "ac_hacktrigger_short.mzv",
       "val": 28
@@ -88,7 +88,7 @@
       "val": 32
     },{
       "name": "op_en.mzv",
-      "val": 40
+      "val": 28
     },{
       "name": "ac_rocket.mzv",
       "val": 28
@@ -107,5 +107,8 @@
     },{
       "name": "ace_063a.mzv",
       "val": 32
+    },{
+	  "name": "startup.mzv",
+      "val": 24
     }]
 }

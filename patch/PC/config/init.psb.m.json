@@ -1,6 +1,6 @@
 {
   "archives": {
-    "patch": "",
+	"k4acviethoa": "",
     "font": "font",
     "image": "image",
     "map": "map",
@@ -20,9 +20,9 @@
     "BACKUP_COMMENT": "Dữ Liệu Hệ Thống",
     "BACKUP_DETAIL": "ANONYMOUS;CODE Demo System Data",
     "BACKUP_DIALOG": "Dữ Liệu Hệ Thống",
-    "BACKUP_GAMECOMMENT": "Dữ Liệu Chơi",
+    "BACKUP_GAMECOMMENT": "Tiến Trình Chơi",
     "BACKUP_GAMEDETAIL": "ANONYMOUS;CODE Demo Save Data",
-    "BACKUP_GAMEDIALOG": "Dữ Liệu Chơi",
+    "BACKUP_GAMEDIALOG": "Tiến Trình Chơi",
     "BACKUP_GAMEICON": "savedata/game_icon0.png",
     "BACKUP_GAMESIZE": 1802240,
     "BACKUP_NEWDATAICON": "savedata/game_icon0.png",
