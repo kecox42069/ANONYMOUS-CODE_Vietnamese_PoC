@@ -6,6 +6,7 @@
     "map": "map",
     "motion": "motion",
     "scenario": "scenario",
+    "snd_p": "snd_p",
     "sound": "sound"
   },
   "constant": {

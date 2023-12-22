@@ -1,0 +1,17 @@
+{
+  "PsbVersion": 3,
+  "PsbType": "SoundArchive",
+  "Platform": "win",
+  "CryptKey": null,
+  "ExternalTextures": false,
+  "Context": {
+    "MdfKeyLength": 131,
+    "FileName": "snd_p_info.psb.m",
+    "MdfKey": "5fWhAHt4zVn2Xsnd_p_info.psb.m",
+    "PsbZlibFastCompress": false,
+    "PsbShellType": "MDF"
+  },
+  "Resources": {
+    "silence_en": "silence_en/silence_en.xwma.xwma"
+  }
+}

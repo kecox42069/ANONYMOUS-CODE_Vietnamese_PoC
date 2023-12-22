@@ -53,7 +53,7 @@
   "LIFEGAME_LOAD": ["%C今の盤面を消して\nセーブした盤面を読み込みますか？","%CLoad the saved grid?\nCurrent grid will be lost.","%C是否要消除目前盤面，\n載入之前儲存的盤面？","%C是否要消除当前盘面，\n读取之前保存的盘面？"],
   "LIFEGAME_SAVE": ["%C盤面を上書き保存しますか？","%COverwrite the saved grid?","%C是否要蓋過既有盤面進行儲存？","%C是否要覆盖既有盘面进行保存？"],
   "NOSPACE_STORAGE": ["%C本体ストレージの空き容量が不足しています。","%CStorage space is insufficient.","%C內置存儲的剩餘空間不足。","%C内置存储的剩余空间不足。"],
-  "SAVE_DENIED": ["%C※俺のデータに勝手なことすんじゃねえぞ。　　\n　　　　　　　　　　　　　　　90110nより","%C※ Đừng có nghĩ đến việc phá hủy dữ liệu của tôi.\n　　　　　　　　　　　　　　　　　　　　　　　　　 - 90110n","%C※少隨便亂動我的存檔。　　\n　　　　　　　　　　　　　　　90110n上","%C※少随便乱动我的存档。　　\n　　　　　　　　　　　　　　　90110n上"],
+  "SAVE_DENIED": ["%C※俺のデータに勝手なことすんじゃねえぞ。　　\n　　　　　　　　　　　　　　　90110nより","%C※ Đừng có nghĩ đến việc phá hủy dữ liệu của tôi.\n　　　　　　　　　　　　　　　　　　　　　 - 90110n","%C※少隨便亂動我的存檔。　　\n　　　　　　　　　　　　　　　90110n上","%C※少随便乱动我的存档。　　\n　　　　　　　　　　　　　　　90110n上"],
   "SAVE_DENIED_0": ["%Cエ\\$\\%ー。こ*2@\\\\ータを操\\[\"す//.ことは出4\\$ません。","%CLỗ\\$\\%i: Dữ@\\\\ l1\" ệu đ4~ 3ị k\\[\\h0a.","%C錯\\$\\%。無*2@\\\\操\\[\"此資//.4\\$。","%C错\\$\\%。无*2@\\\\操\\[\"此数//.4\\$。"],
   "TRIAL_END": ["%C体験版はここまでです。\n続きは製品版にてお楽しみください。","%CThis is the end of the demo. \nPlease purchase the game \nto enjoy the rest of the story.","%C體驗版到此結束。請在正式版中繼續遊玩後續內容。","%C体验版到此结束。请在正式版中继续畅玩后续内容。"],
   "YESNO_ALOAD": ["%Cオートセーブデータをロードしますか？\n（保存していないデータは失われます）","%CLoad autosave data?\n(Unsaved data will be lost.)","%C是否要讀取自動存檔？\n（沒有保存的資料將會消失）","%C是否要读取自动存档？\n（没有保存的数据将会消失）"],

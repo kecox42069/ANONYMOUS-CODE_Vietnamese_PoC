@@ -1,0 +1,23 @@
+{
+  "id": "sound_archive",
+  "spec": "win",
+  "version": 1.02,
+  "voice": {
+    "silence_jp": {
+      "channelList": [{
+          "archData": {
+            "data": "#resource#2",
+            "dpds": "#resource#1",
+            "fmt": "#resource#0",
+            "wav": ".//data/bgm/silence_jp.wav"
+          }
+        }],
+      "device": 1,
+      "file": ".//data/bgm/silence_jp.wav",
+      "loop": 0,
+      "loopstr": "none",
+      "quality": 1,
+      "type": 1
+    }
+  }
+}
