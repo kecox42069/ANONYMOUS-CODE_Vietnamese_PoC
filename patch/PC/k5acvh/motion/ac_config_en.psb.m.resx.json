@@ -1,0 +1,17 @@
+{
+  "PsbVersion": 3,
+  "PsbType": "Motion",
+  "Platform": "win",
+  "CryptKey": null,
+  "ExternalTextures": false,
+  "Context": {
+    "MdfKeyLength": 131,
+    "FileName": "ac_config_en.psb.m",
+    "MdfKey": "5fWhAHt4zVn2Xac_config_en.psb.m",
+    "PsbZlibFastCompress": false,
+    "PsbShellType": "MDF"
+  },
+  "Resources": {
+    "0": "ac_config_en.psb.m/tex-texture.png"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "PsbVersion": 4,
+  "PsbType": "BmpFont",
+  "Platform": "win",
+  "CryptKey": null,
+  "ExternalTextures": false,
+  "Context": {
+    "MdfKeyLength": 131,
+    "FileName": "textfont24.psb.m",
+    "MdfKey": "5fWhAHt4zVn2Xtextfont24.psb.m",
+    "PsbZlibFastCompress": false,
+    "PsbShellType": "MDF"
+  },
+  "Resources": {
+    "0": "textfont24.psb.m/[0]-[0].png",
+    "1": "textfont24.psb.m/[1]-[1].png"
+  }
+}

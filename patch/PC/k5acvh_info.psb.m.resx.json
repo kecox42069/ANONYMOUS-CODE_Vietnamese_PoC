@@ -1,0 +1,20 @@
+{
+  "PsbVersion": 3,
+  "PsbType": "ArchiveInfo",
+  "Platform": "none",
+  "CryptKey": null,
+  "ExternalTextures": false,
+  "Context": {
+    "MdfKeyLength": 131,
+    "MdfKey": "5fWhAHt4zVn2Xk5acvh_info.psb.m",
+    "PsbZlibFastCompress": false,
+    "PsbShellType": "MDF",
+    "ArchiveSource": [
+      "k5acvh"
+    ],
+    "MdfMtKey": "5fWhAHt4zVn2X",
+    "ArchiveItemFileNames": [
+    ]
+  },
+  "Resources": null
+}

@@ -1,0 +1,17 @@
+{
+  "PsbVersion": 4,
+  "PsbType": "Motion",
+  "Platform": "win",
+  "CryptKey": null,
+  "ExternalTextures": false,
+  "Context": {
+    "MdfKeyLength": 131,
+    "FileName": "piqt_list.psb.m",
+    "MdfKey": "5fWhAHt4zVn2Xpiqt_list.psb.m",
+    "PsbZlibFastCompress": false,
+    "PsbShellType": "MDF"
+  },
+  "Resources": {
+    "0": "piqt_list.psb.m/tex-texture.png"
+  }
+}
