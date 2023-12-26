@@ -40969,8 +40969,8 @@
               "name": "env"
             },
             "msgwin": 1
-          },null,1,1311],["startline"],["envupdate","update",[{
-              "action": [["zpos",-23.07692307692308],["leveloffset",""],null,["visvalue",0],["visvalue",[{
+          },null,1,1311],["startline"],["envupdate","update",[["new","ev","event"],{
+              "action": [["leveloffset",""],["zpos",-23.07692307692308],null,["visvalue",0],["visvalue",[{
                       "delay": null,
                       "handler": "MoveAction",
                       "start": 0,
@@ -40983,7 +40983,7 @@
               "redraw": {
                 "disp": 2,
                 "imageFile": {
-                  "file": "op_silent.wmv",
+                  "file": "ac_0112.wmv",
                   "movie": "movie"
                 },
                 "posName": null
@@ -41003,18 +41003,18 @@
                 "mode": 0,
                 "name": "ev"
               }]
-          }],"cg_op_silent.wmv",[2,{
+          }],"cg_ac_0112.wmv",[2,{
             "data": [["bgm","bgm",{
                   "name": "bgm",
                   "replay": {
-                    "filename": "bgm13",
-                    "loop": 1,
+                    "filename": null,
+                    "loop": null,
                     "start": null,
-                    "state": 0,
-                    "volume": 100.0
+                    "state": null,
+                    "volume": null
                   },
                   "update": {
-                    "state": 0
+                    "state": null
                   }
                 }],["ev","event",{
                   "action": [["zpos",-23.07692307692308]],
@@ -41023,27 +41023,15 @@
                   "redraw": {
                     "disp": 2,
                     "imageFile": {
-                      "file": "op_silent.wmv",
+                      "file": "ac_0112.wmv",
                       "movie": "movie"
                     },
                     "posName": null
                   },
                   "showmode": 3,
                   "type": null
-                }],["lse","loopse",{
-                  "name": "lse",
-                  "replay": {
-                    "filename": "se_ac_00_0304",
-                    "loop": 1,
-                    "start": null,
-                    "state": 0,
-                    "volume": 100
-                  },
-                  "update": {
-                    "state": 0
-                  }
                 }],["retina_frame","retina_ui",{
-                  "action": [["opacity",0],["originz",-400],["$state",0]],
+                  "action": [["originz",-400],["$state",0]],
                   "class": "retina_ui",
                   "name": "retina_frame",
                   "redraw": {
@@ -41064,80 +41052,16 @@
                   },
                   "showmode": 3,
                   "type": null
-                }],["se","se",{
-                  "name": "se"
-                }],["se2","se",{
-                  "name": "se2"
                 }]],
             "env": {
               "name": "env"
             },
-            "msgwin": 1
-          },null,null,1314],["otgvolset","stat","start"],["envupdate","update",[{
-              "action": [["fade",0]],
-              "name": "bgm",
-              "replay": {
-                "filename": "gameover_short_jp",
-                "loop": 1,
-                "start": null,
-                "state": 1,
-                "volume": 100.0
-              },
-              "trans": {
-                "method": "",
-                "time": "2000"
-              },
-              "update": {
-                "state": 1
-              }
-            }]],["envupdate","update",[["new","bgm2","bgm"],{
-              "action": [["fade",0]],
-              "name": "bgm2",
-              "replay": {
-                "filename": "gameover_short_en",
-                "loop": 1,
-                "start": null,
-                "state": 1,
-                "volume": 100.0
-              },
-              "trans": {
-                "method": "",
-                "time": "2000"
-              },
-              "update": {
-                "state": 1
-              }
-            }]],["envupdate","update",[{
-              "name": "bgm",
-              "replay": {
-                "filename": "gameover_short_jp",
-                "loop": 1,
-                "start": null,
-                "state": 0,
-                "volume": 100.0
-              },
-              "trans": {
-                "method": "",
-                "time": "0"
-              }
-            }]],["envupdate","update",[{
-              "name": "bgm2",
-              "replay": {
-                "filename": "gameover_short_en",
-                "loop": 1,
-                "start": null,
-                "state": 0,
-                "volume": 100.0
-              },
-              "trans": {
-                "method": "",
-                "time": "0"
-              }
-            }]],["otogame","stat","start"],["filereaded","name","op"],["waitmovie","name","ev","time","129450"],["envupdate","update",[{
+            "msgwin": 0
+          },null,null,1314],["waitmovie","name","ev","time","129450"],["envupdate","update",[{
               "hideact": [["visvalue",[{
                       "delay": null,
                       "handler": "MoveAction",
-                      "time": "0",
+                      "time": "2000",
                       "value": 0
                     }]]],
               "name": "ev",
@@ -41145,54 +41069,28 @@
               "trans": {
                 "method": "",
                 "sync": 1,
-                "time": "0"
+                "time": "2000"
               }
             }],"wait",{
             "list": [{
                 "mode": 0,
                 "name": "ev"
               }]
-          }],["envupdate","update",[["del","ev"]]],"bgm_GAMEOVER_SHORT_JP","bgm2_GAMEOVER_SHORT_EN",[3,{
+          }],["envupdate","update",[["del","ev"]]],[3,{
             "data": [["bgm","bgm",{
-                  "action": [["fade",0]],
                   "name": "bgm",
                   "replay": {
-                    "filename": "gameover_short_jp",
-                    "loop": 1,
+                    "filename": null,
+                    "loop": null,
                     "start": null,
-                    "state": 0,
-                    "volume": 100.0
+                    "state": null,
+                    "volume": null
                   },
                   "update": {
-                    "state": 0
-                  }
-                }],["bgm2","bgm",{
-                  "action": [["fade",0]],
-                  "name": "bgm2",
-                  "replay": {
-                    "filename": "gameover_short_en",
-                    "loop": 1,
-                    "start": null,
-                    "state": 0,
-                    "volume": 100.0
-                  },
-                  "update": {
-                    "state": 0
-                  }
-                }],["lse","loopse",{
-                  "name": "lse",
-                  "replay": {
-                    "filename": "se_ac_00_0304",
-                    "loop": 1,
-                    "start": null,
-                    "state": 0,
-                    "volume": 100
-                  },
-                  "update": {
-                    "state": 0
+                    "state": null
                   }
                 }],["retina_frame","retina_ui",{
-                  "action": [["opacity",0],["originz",-400],["$state",0]],
+                  "action": [["originz",-400],["$state",0]],
                   "class": "retina_ui",
                   "name": "retina_frame",
                   "redraw": {
@@ -41213,56 +41111,26 @@
                   },
                   "showmode": 3,
                   "type": null
-                }],["se","se",{
-                  "name": "se"
-                }],["se2","se",{
-                  "name": "se2"
                 }]],
             "env": {
               "name": "env"
             },
-            "msgwin": 1
-          },null,null,1321],["otogame","stat","end"],["otgvolset","stat","end"],["wait","time","500","sync","true"],[4,{
+            "msgwin": 0
+          },null,null,1321],["startline","vflag",0,"name","","text",0],["filereaded","name","ac_0112"],["dispplaymode","hide","false"],["filereaded","name","bgm02"],[4,{
             "data": [["bgm","bgm",{
-                  "action": [["fade",0]],
                   "name": "bgm",
                   "replay": {
-                    "filename": "gameover_short_jp",
-                    "loop": 1,
+                    "filename": null,
+                    "loop": null,
                     "start": null,
-                    "state": 0,
-                    "volume": 100.0
+                    "state": null,
+                    "volume": null
                   },
                   "update": {
-                    "state": 0
-                  }
-                }],["bgm2","bgm",{
-                  "action": [["fade",0]],
-                  "name": "bgm2",
-                  "replay": {
-                    "filename": "gameover_short_en",
-                    "loop": 1,
-                    "start": null,
-                    "state": 0,
-                    "volume": 100.0
-                  },
-                  "update": {
-                    "state": 0
-                  }
-                }],["lse","loopse",{
-                  "name": "lse",
-                  "replay": {
-                    "filename": "se_ac_00_0304",
-                    "loop": 1,
-                    "start": null,
-                    "state": 0,
-                    "volume": 100
-                  },
-                  "update": {
-                    "state": 0
+                    "state": null
                   }
                 }],["retina_frame","retina_ui",{
-                  "action": [["opacity",0],["originz",-400],["$state",0]],
+                  "action": [["originz",-400],["$state",0]],
                   "class": "retina_ui",
                   "name": "retina_frame",
                   "redraw": {
@@ -41283,15 +41151,11 @@
                   },
                   "showmode": 3,
                   "type": null
-                }],["se","se",{
-                  "name": "se"
-                }],["se2","se",{
-                  "name": "se2"
                 }]],
             "env": {
               "name": "env"
             },
-            "msgwin": 1
+            "msgwin": 0
           },null,null,1330],["startline"],["envupdate","update",[["new","ev","event"],{
               "action": [["leveloffset",""],["zpos",-23.07692307692308],null],
               "class": "event",
@@ -41334,7 +41198,7 @@
                   "action": [["fade",0]],
                   "name": "bgm",
                   "replay": {
-                    "filename": "gameover_short_jp",
+                    "filename": "silence_jp",
                     "loop": 1,
                     "start": null,
                     "state": 0,
@@ -41347,7 +41211,7 @@
                   "action": [["fade",0]],
                   "name": "bgm2",
                   "replay": {
-                    "filename": "gameover_short_en",
+                    "filename": "silence_en",
                     "loop": 1,
                     "start": null,
                     "state": 0,
@@ -41404,7 +41268,7 @@
                   "action": [["fade",0]],
                   "name": "bgm",
                   "replay": {
-                    "filename": "gameover_short_jp",
+                    "filename": "silence_jp",
                     "loop": 1,
                     "start": null,
                     "state": 0,
@@ -41417,7 +41281,7 @@
                   "action": [["fade",0]],
                   "name": "bgm2",
                   "replay": {
-                    "filename": "gameover_short_en",
+                    "filename": "silence_en",
                     "loop": 1,
                     "start": null,
                     "state": 0,
@@ -41474,7 +41338,7 @@
                   "action": [["fade",0]],
                   "name": "bgm",
                   "replay": {
-                    "filename": "gameover_short_jp",
+                    "filename": "silence_jp",
                     "loop": 1,
                     "start": null,
                     "state": 0,
@@ -41487,7 +41351,7 @@
                   "action": [["fade",0]],
                   "name": "bgm2",
                   "replay": {
-                    "filename": "gameover_short_en",
+                    "filename": "silence_en",
                     "loop": 1,
                     "start": null,
                     "state": 0,
