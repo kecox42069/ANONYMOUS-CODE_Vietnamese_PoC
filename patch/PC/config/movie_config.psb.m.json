@@ -18,6 +18,9 @@
       "name": "op.mzv",
       "val": 32
     },{
+      "name": "ac_0112.mzv",
+      "val": 32
+    },{
       "name": "true_end.mzv",
       "val": 24
     },{
@@ -88,6 +91,9 @@
       "val": 32
     },{
       "name": "op_en.mzv",
+      "val": 32
+    },{
+      "name": "ac_0112_en.mzv",
       "val": 32
     },{
       "name": "ac_rocket.mzv",

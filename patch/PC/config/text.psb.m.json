@@ -25,7 +25,7 @@
   "DIALOG_SAVE_DONE": ["%C${dialog}を\n保存しました。","%CSaved ${dialog}.","%C保存${dialog}.\n完畢。","%C保存${dialog}.\n完毕。"],
   "DIALOG_SAVE_FAILED": ["%C${dialog}の\n保存に失敗しました","%CFailed to save ${dialog}.","%C保存${dialog}.\n失敗。","%C保存${dialog}.\n失败。"],
   "DIALOG_SAVE_NOTICE": ["%Cセーブ中は本体の電源を切らないで下さい。\nデータが破壊されるおそれがあります。","%CDo not turn the power off while saving. \nDoing so may corrupt the save data.","%C儲存時請勿關閉主機電源，以免造成資料損毀。","%C保存时请勿关闭主机电源，以免造成数据损毁。"],
-  "DIALOG_SAVING": ["%C${dialog}を\n保存中です。","%CSaving ${dialog}.","%C正在保存\n${dialog}。","%C正在保存\n${dialog}。"],
+  "DIALOG_SAVING": ["%C${dialog}を\n保存中です。","%CĐang lưu ${dialog}.","%C正在保存\n${dialog}。","%C正在保存\n${dialog}。"],
   "DIALOG_TUS_DOWNLOAD": ["%Cダウンロードしています。","%CDownloading.","%C正在下載。","%C正在下载。"],
   "DIALOG_TUS_DOWNLOAD_FAILED": ["%C通信エラー発生により\nタイトルユーザーストレージからの\nダウンロードを中止しました。","%CDownload from cloud storage is interrupted\nbecause of connection error.","%C因為通信錯誤導致\n從在線儲存的下載被中止。","%C因为通信错误导致\n从在线存储的下载被中止。"],
   "DIALOG_TUS_DOWNLOAD_FAILED_ERRORCODE": ["%C通信エラー発生により\nタイトルユーザーストレージからの\nダウンロードを中止しました。\n(ERROR ${error})","%CDownload from cloud storage is interrupted\nbecause of connection error.\n(ERROR ${error})","%C因為通信錯誤導致\n從在線儲存的下載被中止。\n(ERROR ${error})","%C因为通信错误导致\n从在线存储的下载被中止。\n(ERROR ${error})"],
