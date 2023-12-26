@@ -1,3 +1,3 @@
 # ANONYMOUS;CODE Việt hóa - PoC
 
-Repo dự án Việt hóa ANONYMOUS;CODE, hiện đang ở giai đoạn PoC.
+Repo mẫu để bạn có thể tìm hiểu thêm cách Việt hóa Anonymous;Code.
