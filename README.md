@@ -1,6 +1,6 @@
 # ANONYMOUS;CODE Việt hóa - PoC
 
-Repo mẫu để bạn có thể tìm hiểu thêm cách Việt hóa Anonymous;Code.
+Repo mẫu để bạn có thể tìm hiểu thêm cách Việt hóa Anonymous;Code thông qua việc sử dụng FreeMote. Đối với file scenario, bạn có thể chỉnh hẳn từ file mà FreeMote đã extract hoặc sử dụng tool khác như VNTranslationTools.
 
 # Release
 [GitHub Release](https://github.com/kecox42069/ANONYMOUS-CODE_Vietnamese_PoC/releases/tag/release/)
