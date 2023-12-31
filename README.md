@@ -9,3 +9,7 @@ Repo mẫu để bạn có thể tìm hiểu thêm cách Việt hóa Anonymous;C
 
 # Video showcase
 [![YouTube](https://download.kecoxviethoa.me/images/ac_poc_youtube.jpg)](https://www.youtube.com/watch?v=0eijmtt4kRE)
+
+# Lưu ý
+Repo này không có liên hệ gì tới MAGES.​/Chiyomaru Studio/M2/Spike Chunsoft.
+This repository is not endorsed by or affiliated with MAGES.​/Chiyomaru Studio/M2/Spike Chunsoft.
