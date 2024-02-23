@@ -8,7 +8,7 @@ Repo mẫu để bạn có thể tìm hiểu thêm cách Việt hóa Anonymous;C
 [kecoxviethoa](https://download.kecoxviethoa.me/k5/archive/acvh.zip)
 
 # Video showcase
-[![YouTube](https://download.kecoxviethoa.me/images/ac_poc_youtube.jpg)](https://www.youtube.com/watch?v=0eijmtt4kRE)
+[![YouTube](https://raw.githubusercontent.com/kecox42069/ANONYMOUS-CODE_Vietnamese_PoC/main/ac_poc_youtube.jpg)](https://www.youtube.com/watch?v=0eijmtt4kRE)
 
 # Lưu ý
 Repo này không có liên hệ gì tới MAGES.​/Chiyomaru Studio/M2/Spike Chunsoft.
